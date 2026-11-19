@@ -55,6 +55,16 @@
 .reformulation-table tr { break-inside:avoid; }
 .reformulation-table thead { display:table-header-group; }
 .reformulation-table .book-note { font-size:.78rem; }
+.reading-body .risk-ratio-table table { border-collapse:collapse; }
+.reading-body .risk-ratio-table th,.reading-body .risk-ratio-table td { border:1px solid #000; color:#000!important; }
+.reading-body .risk-ratio-table th { background:#d9d9d9!important; }
+.reading-body .risk-ratio-table td { background:#fff!important; }
+.reading-body .risk-ratio-table tr:nth-child(1) td:nth-child(2) { background:#87dbe6!important; }
+.reading-body .risk-ratio-table tr:nth-child(2) td:nth-child(2) { background:#83e6b3!important; }
+.reading-body .risk-ratio-table tr:nth-child(3) td:nth-child(2) { background:#ffe984!important; }
+.reading-body .risk-ratio-table tr:nth-child(4) td:nth-child(2) { background:#fea072!important; }
+.reading-body .risk-ratio-table tr:nth-child(5) td:nth-child(2) { background:#ee045d!important; }
+.risk-ratio-table table { -webkit-print-color-adjust:exact; print-color-adjust:exact; }
 @media print {
   .reformulation-content { columns:auto!important; }
   .reformulation-table { break-inside:auto; }
