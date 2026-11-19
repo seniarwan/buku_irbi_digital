@@ -1,4 +1,4 @@
-# Buku Digital Interaktif IRBI 2025
+# Buku Digital Interaktif IRBI 2026 - NON-OFFICIAL
 
 Buka index.html langsung di Edge atau melalui XAMPP. Situs bekerja tanpa koneksi internet.
 
