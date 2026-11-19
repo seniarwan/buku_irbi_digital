@@ -60,7 +60,7 @@
     };
     return blocks.map(block=>{
       if(block.type==='equation') return '<figure class="reformulation-equation"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mrow>'+formulas[block.key]+'</mrow></math>'+(block.number ? '<figcaption>(Persamaan '+escape(block.number)+')</figcaption>' : '')+'</figure>';
-      if(block.type==='table') return '<figure class="reformulation-table'+(block.headers[0]==='RR' ? ' risk-ratio-table' : '')+'"><figcaption>'+reformulationInline(block.title)+'</figcaption><div class="table-scroll"><table><thead><tr>'+block.headers.map(h=>'<th scope="col">'+reformulationInline(h)+'</th>').join('')+'</tr></thead><tbody>'+block.rows.map(row=>'<tr>'+row.map(c=>'<td>'+reformulationInline(c)+'</td>').join('')+'</tr>').join('')+'</tbody></table></div><p class="book-note">'+reformulationInline(block.note)+'</p></figure>';
+      if(block.type==='table') return '<figure class="reformulation-table'+(['RR','Rasio Risiko'].includes(block.headers[0]) ? ' risk-ratio-table' : '')+'"><figcaption>'+reformulationInline(block.title)+'</figcaption><div class="table-scroll"><table><thead><tr>'+block.headers.map(h=>'<th scope="col">'+reformulationInline(h)+'</th>').join('')+'</tr></thead><tbody>'+block.rows.map(row=>'<tr>'+row.map(c=>'<td>'+reformulationInline(c)+'</td>').join('')+'</tr>').join('')+'</tbody></table></div><p class="book-note">'+reformulationInline(block.note)+'</p></figure>';
       return '<p>'+reformulationInline(block.text)+'</p>';
     }).join('');
   }
