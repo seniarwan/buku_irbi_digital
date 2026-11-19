@@ -1,0 +1,101 @@
+{
+  "12": {
+    "mainlandWindow": [
+      97.6805,
+      0.10818,
+      100.55446,
+      4.42255
+    ],
+    "title": "Pulau-pulau kecil"
+  },
+  "13": {
+    "mainlandWindow": [
+      99.04715,
+      -2.59844,
+      102.01285,
+      1.02672
+    ],
+    "title": "Pulau-pulau kecil"
+  },
+  "31": {
+    "mainlandWindow": [
+      106.5658,
+      -6.49261,
+      107.09339,
+      -5.96875
+    ],
+    "title": "Kepulauan Seribu"
+  },
+  "33": {
+    "mainlandWindow": [
+      108.43598,
+      -8.331809999999999,
+      111.81139,
+      -6.28283
+    ],
+    "title": "Pulau-pulau kecil"
+  },
+  "35": {
+    "mainlandWindow": [
+      110.77529,
+      -8.9002,
+      114.7251,
+      -6.63417
+    ],
+    "title": "Pulau-pulau kecil"
+  },
+  "52": {
+    "mainlandWindow": [
+      116.59521,
+      -9.229659999999999,
+      119.31230000000001,
+      -7.96005
+    ],
+    "title": "Pulau-pulau kecil"
+  },
+  "63": {
+    "mainlandWindow": [
+      114.2271,
+      -4.2978000000000005,
+      116.67566000000001,
+      -1.19258
+    ],
+    "title": "Pulau-pulau kecil"
+  },
+  "73": {
+    "mainlandWindow": [
+      119.23404,
+      -5.82293,
+      121.90414,
+      -1.82729
+    ],
+    "title": "Pulau-pulau kecil"
+  },
+  "74": {
+    "mainlandWindow": [
+      120.7445,
+      -5.0211500000000004,
+      123.02666,
+      -2.6532899999999997
+    ],
+    "title": "Pulau-pulau kecil"
+  },
+  "76": {
+    "mainlandWindow": [
+      118.63753,
+      -3.69017,
+      119.99487,
+      -0.7291
+    ],
+    "title": "Pulau-pulau kecil"
+  },
+  "91": {
+    "mainlandWindow": [
+      135.89139,
+      -4.23609,
+      141.12472,
+      -1.33772
+    ],
+    "title": "Pulau-pulau kecil"
+  }
+}

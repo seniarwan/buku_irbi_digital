@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Prototipe Buku Digital IRBI 2025: publikasi interaktif, profil wilayah, jenis ancaman, dan transisi reformulasi.">
+  <meta name="theme-color" content="#102947">
+  <title>IRBI 2025 — Prototipe Buku Digital</title>
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/reader.css?v=transform-content-2">
+  <link rel="stylesheet" href="assets/print.css?v=preview-export">
+  <link rel="stylesheet" href="assets/book-style.css?v=ukuran-kertas">
+  <link rel="stylesheet" href="assets/book-photos.css?v=back-cover">
+  <link rel="stylesheet" href="assets/book-spreads.css?v=all-pages">
+  <script defer src="assets/book-style.js?v=preview-export"></script>
+</head>
+<body>
+  <header class="topbar">
+    <button id="menuToggle" class="icon-button mobile-only" type="button" aria-label="Buka menu" title="Buka menu">☰</button>
+    <a class="identity" href="#/beranda" aria-label="Beranda Buku Digital IRBI 2025">
+      <span class="emblem" aria-hidden="true"><span>IR</span><span>BI</span></span>
+      <span class="brand-text"><strong>IRBI 2026 - NON-OFFICIAL</strong><small>BUKU DIGITAL · PROTOTIPE</small></span>
+    </a>
+    <span class="header-divider" aria-hidden="true"></span>
+    <span class="header-tagline"><strong>INDEKS RISIKO BENCANA INDONESIA</strong></span>
+    <div class="header-actions">
+      <a class="style-link" href="gaya.html">Desain Layout</a>
+      <a class="export-link" href="?pratinjau=1" target="_blank" rel="noopener" aria-label="Pratinjau seluruh buku">Pratinjau Buku</a>
+      <button id="searchBtn" class="search-trigger" aria-label="Cari isi buku">⌕ <span>Cari isi buku</span><kbd>/</kbd></button>
+      <button id="themeBtn" class="icon-button" type="button" aria-label="Ganti tema" title="Ganti tema">☾</button>
+      <a class="header-external" href="https://inarisk.bnpb.go.id/v4/irbi" target="_blank" rel="noopener">InaRISK <span aria-hidden="true">↗</span></a>
+    </div>
+  </header>
+  <div class="layout">
+    <aside class="sidebar" id="sidebar" aria-label="Navigasi buku">
+      <div class="sidebar-scroll">
+        <div class="sidebar-heading">ISI BUKU</div>
+        <nav id="navigation" aria-label="Daftar isi"></nav>
+        <div class="sidebar-footer">
+          <span class="status-dot"></span> Prototipe interaktif
+          <small>Sumber: Buku IRBI 2025, BNPB.</small>
+        </div>
+      </div>
+    </aside>
+    <div id="backdrop" class="backdrop" hidden></div>
+    <main id="main" tabindex="-1">
+      <div id="readingView" aria-live="polite"></div>
+      <footer class="main-footer">
+        <div><strong>Buku Digital IRBI 2025</strong><span>Digitalisasi prototipe dari buku terbitan BNPB.</span></div>
+        <div><a href="https://inarisk.bnpb.go.id/v4/irbi" target="_blank" rel="noopener">InaRISK V4 ↗</a><a href="https://seniarwan.github.io/irbi-reformulasi-juknis/" target="_blank" rel="noopener">Juknis Reformulasi ↗</a></div>
+      </footer>
+    </main>
+    <aside id="pageToc" class="toc-panel" aria-label="Pada halaman ini"></aside>
+  </div>
+  <dialog id="searchDialog" class="search-dialog">
+    <div class="search-dialog-header"><span aria-hidden="true">⌕</span><input id="searchInput" type="search" placeholder="Cari bab, provinsi, ancaman, istilah..." autocomplete="off" aria-label="Cari seluruh isi buku"><button id="closeSearch" type="button" aria-label="Tutup pencarian">✕</button></div>
+    <div id="searchResults" class="search-results" role="listbox"></div>
+    <div class="search-hint">Tekan <kbd>/</kbd> untuk mencari dan <kbd>Esc</kbd> untuk menutup.</div>
+  </dialog>
+  <script src="assets/irbi-data.js?v=reformulation-complete"></script>
+  <script src="assets/content.js?v=reformulation-template"></script>
+  <script src="assets/book-photos.js?v=back-cover"></script>
+  <script src="assets/reader.js?v=reformulation-complete"></script>
+  <script src="assets/pdf-lib.min.js"></script>
+  <script src="assets/page-preview.js?v=plain-subsections"></script>
+  <script src="assets/book-spreads.js?v=no-upload"></script>
+  <script src="assets/app.js?v=back-cover-final"></script>
+
+</body>
+</html>
+
+
+

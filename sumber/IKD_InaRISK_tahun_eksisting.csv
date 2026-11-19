@@ -1,0 +1,2079 @@
+﻿id_wilayah,indeks_kab,nama_provinsi,nama_wilayah,tahun,tingkat,tingkat_kapasitas
+3328,0.9805,Jawa Tengah,Tegal,2026,kabupaten,TINGGI
+7271,0.7691,Sulawesi Tengah,Kota Palu,2026,kabupaten,SEDANG
+82,0.3511,Maluku Utara,Maluku Utara,2026,provinsi,RENDAH
+1101,0.2135,Aceh,Aceh Selatan,2025,kabupaten,RENDAH
+1102,0.410790909,Aceh,Aceh Tenggara,2025,kabupaten,SEDANG
+1103,0.35745,Aceh,Aceh Timur,2025,kabupaten,RENDAH
+1104,0.365,Aceh,Aceh Tengah,2025,kabupaten,RENDAH
+1105,0.5393,Aceh,Aceh Barat,2025,kabupaten,SEDANG
+1106,0.374926471,Aceh,Aceh Besar,2025,kabupaten,RENDAH
+1107,0.3886,Aceh,Pidie,2025,kabupaten,RENDAH
+1108,0.345817647,Aceh,Aceh Utara,2025,kabupaten,RENDAH
+1109,0.34175,Aceh,Simeulue,2025,kabupaten,RENDAH
+1110,0.2712,Aceh,Aceh Singkil,2025,kabupaten,RENDAH
+1111,0.395817647,Aceh,Bireuen,2025,kabupaten,RENDAH
+1112,0.3167,Aceh,Aceh Barat Daya,2025,kabupaten,RENDAH
+1113,0.24505,Aceh,Gayo Lues,2025,kabupaten,RENDAH
+1114,0.40055,Aceh,Aceh Jaya,2025,kabupaten,SEDANG
+1115,0.40965,Aceh,Nagan Raya,2025,kabupaten,SEDANG
+1116,0.47935,Aceh,Aceh Tamiang,2025,kabupaten,SEDANG
+1117,0.43525,Aceh,Bener Meriah,2025,kabupaten,SEDANG
+1118,0.31795,Aceh,Pidie Jaya,2025,kabupaten,RENDAH
+1171,0.4358,Aceh,Kota Banda Aceh,2025,kabupaten,SEDANG
+1172,0.30945,Aceh,Kota Sabang,2025,kabupaten,RENDAH
+1173,0.406133333,Aceh,Kota Lhokseumawe,2025,kabupaten,SEDANG
+1174,0.426716667,Aceh,Kota Langsa,2025,kabupaten,SEDANG
+1175,0.418040909,Aceh,Kota Subulussalam,2025,kabupaten,SEDANG
+1201,0.37245,Sumatera Utara,Tapanuli Tengah,2025,kabupaten,RENDAH
+1202,0.4253,Sumatera Utara,Tapanuli Utara,2025,kabupaten,SEDANG
+1203,0.480994118,Sumatera Utara,Tapanuli Selatan,2025,kabupaten,SEDANG
+1204,0.3398,Sumatera Utara,Nias,2025,kabupaten,RENDAH
+1205,0.29955,Sumatera Utara,Langkat,2025,kabupaten,RENDAH
+1206,0.56885,Sumatera Utara,Karo,2025,kabupaten,SEDANG
+1207,0.39475,Sumatera Utara,Deli Serdang,2025,kabupaten,RENDAH
+1208,0.340244444,Sumatera Utara,Simalungun,2025,kabupaten,RENDAH
+1209,0.3648,Sumatera Utara,Asahan,2025,kabupaten,RENDAH
+1210,0.3057,Sumatera Utara,Labuhanbatu,2025,kabupaten,RENDAH
+1211,0.513088889,Sumatera Utara,Dairi,2025,kabupaten,SEDANG
+1212,0.424986364,Sumatera Utara,Toba,2025,kabupaten,SEDANG
+1213,0.325266667,Sumatera Utara,Mandailing Natal,2025,kabupaten,RENDAH
+1214,0.3222,Sumatera Utara,Nias Selatan,2025,kabupaten,RENDAH
+1215,0.42915,Sumatera Utara,Pakpak Bharat,2025,kabupaten,SEDANG
+1216,0.3532,Sumatera Utara,Humbang Hasundutan,2025,kabupaten,RENDAH
+1217,0.33325,Sumatera Utara,Samosir,2025,kabupaten,RENDAH
+1218,0.34675,Sumatera Utara,Serdang Bedagai,2025,kabupaten,RENDAH
+1219,0.26285,Sumatera Utara,Batu Bara,2025,kabupaten,RENDAH
+1220,0.3175,Sumatera Utara,Padang Lawas Utara,2025,kabupaten,RENDAH
+1221,0.27555,Sumatera Utara,Padang Lawas,2025,kabupaten,RENDAH
+1222,0.3155,Sumatera Utara,Labuhanbatu Selatan,2025,kabupaten,RENDAH
+1223,0.3017,Sumatera Utara,Labuhanbatu Utara,2025,kabupaten,RENDAH
+1224,0.26535,Sumatera Utara,Nias Utara,2025,kabupaten,RENDAH
+1225,0.25375,Sumatera Utara,Nias Barat,2025,kabupaten,RENDAH
+1271,0.64755,Sumatera Utara,Kota Medan,2025,kabupaten,SEDANG
+1272,0.29295,Sumatera Utara,Kota Pematangsiantar,2025,kabupaten,RENDAH
+1273,0.36005,Sumatera Utara,Kota Sibolga,2025,kabupaten,RENDAH
+1274,0.37365,Sumatera Utara,Kota Tanjung Balai,2025,kabupaten,RENDAH
+1275,0.23975,Sumatera Utara,Kota Binjai,2025,kabupaten,RENDAH
+1276,0.4603,Sumatera Utara,Kota Tebing Tinggi,2025,kabupaten,SEDANG
+1277,0.3762,Sumatera Utara,Kota Padang Sidempuan,2025,kabupaten,RENDAH
+1278,0.49655,Sumatera Utara,Kota Gunungsitoli,2025,kabupaten,SEDANG
+1301,0.517566667,Sumatera Barat,Pesisir Selatan,2025,kabupaten,SEDANG
+1302,0.3861,Sumatera Barat,Solok,2025,kabupaten,RENDAH
+1303,0.374305556,Sumatera Barat,Sijunjung,2025,kabupaten,RENDAH
+1304,0.2518,Sumatera Barat,Tanah Datar,2025,kabupaten,RENDAH
+1305,0.515488235,Sumatera Barat,Padang Pariaman,2025,kabupaten,SEDANG
+1306,0.336997059,Sumatera Barat,Agam,2025,kabupaten,RENDAH
+1307,0.337,Sumatera Barat,Lima Puluh Kota,2025,kabupaten,RENDAH
+1308,0.364631818,Sumatera Barat,Pasaman,2025,kabupaten,RENDAH
+1309,0.2399,Sumatera Barat,Kepulauan Mentawai,2025,kabupaten,RENDAH
+1310,0.398859091,Sumatera Barat,Dharmasraya,2025,kabupaten,RENDAH
+1311,0.41985,Sumatera Barat,Solok Selatan,2025,kabupaten,SEDANG
+1312,0.3967,Sumatera Barat,Pasaman Barat,2025,kabupaten,RENDAH
+1371,0.51725,Sumatera Barat,Kota Padang,2025,kabupaten,SEDANG
+1372,0.363990909,Sumatera Barat,Kota Solok,2025,kabupaten,RENDAH
+1373,0.40105,Sumatera Barat,Kota Sawahlunto,2025,kabupaten,SEDANG
+1374,0.3662,Sumatera Barat,Kota Padang Panjang,2025,kabupaten,RENDAH
+1375,0.27835,Sumatera Barat,Kota Bukittinggi,2025,kabupaten,RENDAH
+1376,0.250427778,Sumatera Barat,Kota Payakumbuh,2025,kabupaten,RENDAH
+1377,0.5019,Sumatera Barat,Kota Pariaman,2025,kabupaten,SEDANG
+1401,0.394,Riau,Kampar,2025,kabupaten,RENDAH
+1402,0.3055,Riau,Indragiri Hulu,2025,kabupaten,RENDAH
+1403,0.302681818,Riau,Bengkalis,2025,kabupaten,RENDAH
+1404,0.280463636,Riau,Indragiri Hilir,2025,kabupaten,RENDAH
+1405,0.23305,Riau, Pelalawan,2025,kabupaten,RENDAH
+1406,0.360313636,Riau, Rokan Hulu,2025,kabupaten,RENDAH
+1407,0.264513636,Riau, Rokan Hilir,2025,kabupaten,RENDAH
+1408,0.446227273,Riau,Siak,2025,kabupaten,SEDANG
+1409,0.2972,Riau,Kuantan Singingi,2025,kabupaten,RENDAH
+1410,0.3042,Riau,Kepulauan Meranti,2025,kabupaten,RENDAH
+1471,0.33205,Riau,Kota Pekanbaru,2025,kabupaten,RENDAH
+1501,0.28145,Jambi, Kerinci,2025,kabupaten,RENDAH
+1502,0.28845,Jambi, Merangin,2025,kabupaten,RENDAH
+1503,0.28325,Jambi,Sarolangun,2025,kabupaten,RENDAH
+1504,0.29715,Jambi,Batanghari,2025,kabupaten,RENDAH
+1505,0.3173,Jambi, Muaro Jambi,2025,kabupaten,RENDAH
+1506,0.4906,Jambi,Tanjung Jabung Barat,2025,kabupaten,SEDANG
+1507,0.3307,Jambi,Tanjung Jabung Timur,2025,kabupaten,RENDAH
+1508,0.349181818,Jambi,Bungo,2025,kabupaten,RENDAH
+1509,0.262333333,Jambi,Tebo,2025,kabupaten,RENDAH
+1571,0.33615,Jambi,Kota Jambi,2025,kabupaten,RENDAH
+1572,0.45705,Jambi,Kota Sungai Penuh,2025,kabupaten,SEDANG
+1605,0.27125,Sumatera Selatan,Musi Rawas,2025,kabupaten,RENDAH
+1609,0.606304546,Sumatera Selatan,Ogan Komering Ulu Selatan,2025,kabupaten,SEDANG
+1673,0.31905,Sumatera Selatan,Kota Lubuk Linggau,2025,kabupaten,RENDAH
+1701,0.4981,Bengkulu,Bengkulu Selatan,2025,kabupaten,SEDANG
+1702,0.334616667,Bengkulu,Rejang Lebong,2025,kabupaten,RENDAH
+1703,0.365175,Bengkulu,Bengkulu Utara,2025,kabupaten,RENDAH
+1704,0.3852,Bengkulu,Kaur,2025,kabupaten,RENDAH
+1705,0.45815,Bengkulu,Seluma,2025,kabupaten,SEDANG
+1706,0.2872,Bengkulu,Muko Muko,2025,kabupaten,RENDAH
+1707,0.471463636,Bengkulu,Lebong,2025,kabupaten,SEDANG
+1708,0.62895,Bengkulu,Kepahiang,2025,kabupaten,SEDANG
+1709,0.293466667,Bengkulu,Bengkulu Tengah,2025,kabupaten,RENDAH
+1771,0.461,Bengkulu,Kota Bengkulu,2025,kabupaten,SEDANG
+1801,0.496547059,Lampung,Lampung Selatan,2025,kabupaten,SEDANG
+1803,0.3223,Lampung,Lampung Utara,2025,kabupaten,RENDAH
+1804,0.4,Lampung,Lampung Barat,2025,kabupaten,SEDANG
+1805,0.49845,Lampung,Tulang Bawang,2025,kabupaten,SEDANG
+1806,0.7526,Lampung,Tanggamus,2025,kabupaten,SEDANG
+1807,0.74845,Lampung,Lampung Timur,2025,kabupaten,SEDANG
+1808,0.7545,Lampung,Way Kanan,2025,kabupaten,SEDANG
+1809,0.4954,Lampung,Pesawaran,2025,kabupaten,SEDANG
+1810,0.5076,Lampung,Pringsewu,2025,kabupaten,SEDANG
+1811,0.4684,Lampung,Mesuji,2025,kabupaten,SEDANG
+1812,0.41645,Lampung,Tulang Bawang Barat,2025,kabupaten,SEDANG
+1813,0.476770588,Lampung,Pesisir Barat,2025,kabupaten,SEDANG
+1871,0.659947059,Lampung,Kota Bandar Lampung,2025,kabupaten,SEDANG
+1872,0.556083333,Lampung,Kota Metro,2025,kabupaten,SEDANG
+1901,0.516705556,Kepulauan Bangka Belitung,Bangka,2025,kabupaten,SEDANG
+1902,0.503454545,Kepulauan Bangka Belitung,Belitung,2025,kabupaten,SEDANG
+1903,0.24275,Kepulauan Bangka Belitung,Bangka Selatan,2025,kabupaten,RENDAH
+1904,0.401459091,Kepulauan Bangka Belitung,Bangka Tengah,2025,kabupaten,SEDANG
+1905,0.622633333,Kepulauan Bangka Belitung,Bangka Barat,2025,kabupaten,SEDANG
+1906,0.4792,Kepulauan Bangka Belitung,Belitung Timur,2025,kabupaten,SEDANG
+1971,0.50525,Kepulauan Bangka Belitung,Kota Pangkal Pinang,2025,kabupaten,SEDANG
+2101,0.43,Kepulauan Riau,Bintan,2025,kabupaten,SEDANG
+2102,0.25005,Kepulauan Riau,Karimun,2025,kabupaten,RENDAH
+2103,0.4327,Kepulauan Riau,Natuna,2025,kabupaten,SEDANG
+2104,0.28095,Kepulauan Riau,Lingga,2025,kabupaten,RENDAH
+2105,0.398477778,Kepulauan Riau,Kepulauan Anambas,2025,kabupaten,RENDAH
+2171,0.32945,Kepulauan Riau,Kota Batam,2025,kabupaten,RENDAH
+2172,0.24065,Kepulauan Riau,Kota Tanjung Pinang,2025,kabupaten,RENDAH
+31,0.642025,DKI Jakarta,DKI Jakarta,2025,provinsi,SEDANG
+3201,0.55825,Jawa Barat,Bogor,2025,kabupaten,SEDANG
+3202,0.509414706,Jawa Barat,Sukabumi,2025,kabupaten,SEDANG
+3203,0.735870588,Jawa Barat,Cianjur,2025,kabupaten,SEDANG
+3204,0.692,Jawa Barat,Bandung,2025,kabupaten,SEDANG
+3205,0.748620588,Jawa Barat,Garut,2025,kabupaten,SEDANG
+3206,0.635211765,Jawa Barat,Tasikmalaya,2025,kabupaten,SEDANG
+3208,0.6729,Jawa Barat,Kuningan,2025,kabupaten,SEDANG
+3209,0.65675,Jawa Barat,Cirebon,2025,kabupaten,SEDANG
+3210,0.6983,Jawa Barat,Majalengka,2025,kabupaten,SEDANG
+3211,0.528768182,Jawa Barat,Sumedang,2025,kabupaten,SEDANG
+3212,0.834009091,Jawa Barat,Indramayu,2025,kabupaten,TINGGI
+3213,0.54625,Jawa Barat,Subang,2025,kabupaten,SEDANG
+3214,0.6082,Jawa Barat,Purwakarta,2025,kabupaten,SEDANG
+3215,0.5547,Jawa Barat,Karawang,2025,kabupaten,SEDANG
+3216,0.6677,Jawa Barat,Bekasi,2025,kabupaten,SEDANG
+3217,0.51335,Jawa Barat,Bandung Barat,2025,kabupaten,SEDANG
+3218,0.687,Jawa Barat,Pangandaran,2025,kabupaten,SEDANG
+3271,0.7723,Jawa Barat,Kota Bogor,2025,kabupaten,SEDANG
+3272,0.60235,Jawa Barat,Kota Sukabumi,2025,kabupaten,SEDANG
+3273,0.6254,Jawa Barat,Kota Bandung,2025,kabupaten,SEDANG
+3274,0.79165,Jawa Barat,Kota Cirebon,2025,kabupaten,SEDANG
+3275,0.700627778,Jawa Barat,Kota Bekasi,2025,kabupaten,SEDANG
+3276,0.564033333,Jawa Barat,Kota Depok,2025,kabupaten,SEDANG
+3277,0.78065,Jawa Barat,Kota Cimahi,2025,kabupaten,SEDANG
+3279,0.582513636,Jawa Barat,Kota Banjar,2025,kabupaten,SEDANG
+3401,0.6735,Daerah Istimewa Yogyakarta,Kulon Progo,2025,kabupaten,SEDANG
+3402,0.7806,Daerah Istimewa Yogyakarta,Bantul,2025,kabupaten,SEDANG
+3403,0.81185,Daerah Istimewa Yogyakarta,Gunungkidul,2025,kabupaten,TINGGI
+3471,0.7496,Daerah Istimewa Yogyakarta,Kota Yogyakarta,2025,kabupaten,SEDANG
+3501,0.7218,Jawa Timur,Pacitan,2025,kabupaten,SEDANG
+3502,0.562018182,Jawa Timur,Ponorogo,2025,kabupaten,SEDANG
+3503,0.6878,Jawa Timur,Trenggalek,2025,kabupaten,SEDANG
+3504,0.648,Jawa Timur,Tulungagung,2025,kabupaten,SEDANG
+3505,0.647352941,Jawa Timur,Blitar,2025,kabupaten,SEDANG
+3506,0.6936,Jawa Timur,Kediri,2025,kabupaten,SEDANG
+3507,0.651397059,Jawa Timur,Malang,2025,kabupaten,SEDANG
+3508,0.792438235,Jawa Timur,Lumajang,2025,kabupaten,SEDANG
+3509,0.593047059,Jawa Timur,Jember,2025,kabupaten,SEDANG
+3510,0.731008824,Jawa Timur,Banyuwangi,2025,kabupaten,SEDANG
+3511,0.63285,Jawa Timur,Bondowoso,2025,kabupaten,SEDANG
+3512,0.701923529,Jawa Timur,Situbondo,2025,kabupaten,SEDANG
+3513,0.578538235,Jawa Timur,Probolinggo,2025,kabupaten,SEDANG
+3514,0.74265,Jawa Timur,Pasuruan,2025,kabupaten,SEDANG
+3515,0.516905556,Jawa Timur,Sidoarjo,2025,kabupaten,SEDANG
+3516,0.7277,Jawa Timur,Mojokerto,2025,kabupaten,SEDANG
+3517,0.553390909,Jawa Timur,Jombang,2025,kabupaten,SEDANG
+3518,0.631504545,Jawa Timur,Nganjuk,2025,kabupaten,SEDANG
+3519,0.534895455,Jawa Timur,Madiun,2025,kabupaten,SEDANG
+3520,0.5045,Jawa Timur,Magetan,2025,kabupaten,SEDANG
+3521,0.628045455,Jawa Timur,Ngawi,2025,kabupaten,SEDANG
+3522,0.599795455,Jawa Timur,Bojonegoro,2025,kabupaten,SEDANG
+3524,0.712638889,Jawa Timur,Lamongan,2025,kabupaten,SEDANG
+3525,0.636244445,Jawa Timur,Gresik,2025,kabupaten,SEDANG
+3526,0.549425,Jawa Timur,Bangkalan,2025,kabupaten,SEDANG
+3527,0.60695,Jawa Timur,Sampang,2025,kabupaten,SEDANG
+3528,0.71635,Jawa Timur,Pamekasan,2025,kabupaten,SEDANG
+3529,0.55725,Jawa Timur,Sumenep,2025,kabupaten,SEDANG
+3571,0.55935,Jawa Timur,Kota Kediri,2025,kabupaten,SEDANG
+3572,0.4143,Jawa Timur,Kota Blitar,2025,kabupaten,SEDANG
+3573,0.597159091,Jawa Timur,Kota Malang,2025,kabupaten,SEDANG
+3574,0.519167647,Jawa Timur,Kota Probolinggo,2025,kabupaten,SEDANG
+3575,0.506525,Jawa Timur,Kota Pasuruan,2025,kabupaten,SEDANG
+3576,0.2913,Jawa Timur,Kota Mojokerto,2025,kabupaten,RENDAH
+3577,0.57665,Jawa Timur,Kota Madiun,2025,kabupaten,SEDANG
+3578,0.64295,Jawa Timur,Kota Surabaya,2025,kabupaten,SEDANG
+3579,0.658133333,Jawa Timur,Kota Batu,2025,kabupaten,SEDANG
+3601,0.767558824,Banten,Pandeglang,2025,kabupaten,SEDANG
+3602,0.50845,Banten,Lebak,2025,kabupaten,SEDANG
+3603,0.762883333,Banten,Tangerang,2025,kabupaten,SEDANG
+3604,0.728861765,Banten,Serang,2025,kabupaten,SEDANG
+3671,0.66645,Banten,Kota Tangerang,2025,kabupaten,SEDANG
+3673,0.6432,Banten,Kota Serang,2025,kabupaten,SEDANG
+3674,0.633783333,Banten,Kota Tangerang Selatan,2025,kabupaten,SEDANG
+5101,0.6512,Bali,Jembrana,2025,kabupaten,SEDANG
+5102,0.64155,Bali,Tabanan,2025,kabupaten,SEDANG
+5103,0.70365,Bali,Badung,2025,kabupaten,SEDANG
+5104,0.531083333,Bali,Gianyar,2025,kabupaten,SEDANG
+5105,0.551033333,Bali,Klungkung,2025,kabupaten,SEDANG
+5106,0.5089,Bali,Bangli,2025,kabupaten,SEDANG
+5107,0.713326471,Bali,Karangasem,2025,kabupaten,SEDANG
+5108,0.7452,Bali,Buleleng,2025,kabupaten,SEDANG
+5171,0.600025,Bali,Kota Denpasar,2025,kabupaten,SEDANG
+5201,0.73135,Nusa Tenggara Barat,Lombok Barat,2025,kabupaten,SEDANG
+5202,0.496466667,Nusa Tenggara Barat,Lombok Tengah,2025,kabupaten,SEDANG
+5204,0.44835,Nusa Tenggara Barat,Sumbawa,2025,kabupaten,SEDANG
+5205,0.4493,Nusa Tenggara Barat,Dompu,2025,kabupaten,SEDANG
+5206,0.453355882,Nusa Tenggara Barat,Bima,2025,kabupaten,SEDANG
+5208,0.733338235,Nusa Tenggara Barat,Lombok Utara,2025,kabupaten,SEDANG
+5271,0.43265,Nusa Tenggara Barat,Kota Mataram,2025,kabupaten,SEDANG
+5272,0.6015,Nusa Tenggara Barat,Kota Bima,2025,kabupaten,SEDANG
+5301,0.39415,Nusa Tenggara Timur,Kupang,2025,kabupaten,RENDAH
+5302,0.3374,Nusa Tenggara Timur,Timor Tengah Selatan,2025,kabupaten,RENDAH
+5303,0.436488889,Nusa Tenggara Timur,Timor Tengah Utara,2025,kabupaten,SEDANG
+5304,0.4264,Nusa Tenggara Timur,Belu,2025,kabupaten,SEDANG
+5305,0.356461765,Nusa Tenggara Timur,Alor,2025,kabupaten,RENDAH
+5306,0.538452941,Nusa Tenggara Timur,Flores Timur,2025,kabupaten,SEDANG
+5307,0.552767647,Nusa Tenggara Timur,Sikka,2025,kabupaten,SEDANG
+5308,0.3858,Nusa Tenggara Timur,Ende,2025,kabupaten,RENDAH
+5309,0.339326471,Nusa Tenggara Timur,Ngada,2025,kabupaten,RENDAH
+5310,0.344370588,Nusa Tenggara Timur,Manggarai,2025,kabupaten,RENDAH
+5311,0.50465,Nusa Tenggara Timur,Sumba Timur,2025,kabupaten,SEDANG
+5312,0.4442,Nusa Tenggara Timur,Sumba Barat,2025,kabupaten,SEDANG
+5313,0.513129412,Nusa Tenggara Timur,Lembata,2025,kabupaten,SEDANG
+5314,0.4014,Nusa Tenggara Timur,Rote Ndao,2025,kabupaten,SEDANG
+5316,0.490017647,Nusa Tenggara Timur,Nagekeo,2025,kabupaten,SEDANG
+5317,0.37815,Nusa Tenggara Timur,Sumba Tengah,2025,kabupaten,RENDAH
+5318,0.287233333,Nusa Tenggara Timur,Sumba Barat Daya,2025,kabupaten,RENDAH
+5319,0.462520588,Nusa Tenggara Timur,Manggarai Timur,2025,kabupaten,SEDANG
+5320,0.375766667,Nusa Tenggara Timur,Sabu Raijua,2025,kabupaten,RENDAH
+5321,0.2881,Nusa Tenggara Timur,Malaka,2025,kabupaten,RENDAH
+5371,0.41035,Nusa Tenggara Timur,Kota Kupang,2025,kabupaten,SEDANG
+6101,0.519440909,Kalimantan Barat,Sambas,2025,kabupaten,SEDANG
+6102,0.732127778,Kalimantan Barat,Mempawah,2025,kabupaten,SEDANG
+6103,0.5937,Kalimantan Barat,Sanggau,2025,kabupaten,SEDANG
+6104,0.50545,Kalimantan Barat,Ketapang,2025,kabupaten,SEDANG
+6106,0.2231,Kalimantan Barat,Kapuas Hulu,2025,kabupaten,RENDAH
+6107,0.468609091,Kalimantan Barat,Bengkayang,2025,kabupaten,SEDANG
+6108,0.2893,Kalimantan Barat,Landak,2025,kabupaten,RENDAH
+6109,0.51925,Kalimantan Barat,Sekadau,2025,kabupaten,SEDANG
+6110,0.229,Kalimantan Barat,Melawi,2025,kabupaten,RENDAH
+6111,0.41995,Kalimantan Barat,Kayong Utara,2025,kabupaten,SEDANG
+6112,0.36545,Kalimantan Barat,Kubu Raya,2025,kabupaten,RENDAH
+6171,0.59005,Kalimantan Barat,Kota Pontianak,2025,kabupaten,SEDANG
+6301,0.4353,Kalimantan Selatan,Tanah Laut,2025,kabupaten,SEDANG
+6302,0.4952,Kalimantan Selatan,Kotabaru,2025,kabupaten,SEDANG
+6303,0.65275,Kalimantan Selatan,Banjar,2025,kabupaten,SEDANG
+6304,0.46645,Kalimantan Selatan,Barito Kuala,2025,kabupaten,SEDANG
+6305,0.5813,Kalimantan Selatan,Tapin,2025,kabupaten,SEDANG
+6306,0.49765,Kalimantan Selatan,Hulu Sungai Selatan,2025,kabupaten,SEDANG
+6307,0.34335,Kalimantan Selatan,Hulu Sungai Tengah,2025,kabupaten,RENDAH
+6308,0.659075,Kalimantan Selatan,Hulu Sungai Utara,2025,kabupaten,SEDANG
+6309,0.43595,Kalimantan Selatan,Tabalong,2025,kabupaten,SEDANG
+6310,0.76715,Kalimantan Selatan,Tanah Bumbu,2025,kabupaten,SEDANG
+6311,0.6435,Kalimantan Selatan,Balangan,2025,kabupaten,SEDANG
+6371,0.5488,Kalimantan Selatan,Kota Banjarmasin,2025,kabupaten,SEDANG
+6372,0.446116667,Kalimantan Selatan,Kota Banjarbaru,2025,kabupaten,SEDANG
+6501,0.548,Kalimantan Utara,Bulungan,2025,kabupaten,SEDANG
+6502,0.387,Kalimantan Utara,Malinau,2025,kabupaten,RENDAH
+6503,0.5935,Kalimantan Utara,Nunukan,2025,kabupaten,SEDANG
+6504,0.5994,Kalimantan Utara,Tana Tidung,2025,kabupaten,SEDANG
+7106,0.523917647,Sulawesi Utara,Minahasa Utara,2025,kabupaten,SEDANG
+7108,0.2613,Sulawesi Utara,Bolaang Mongondow Utara,2025,kabupaten,RENDAH
+7110,0.575576471,Sulawesi Utara,Bolaang Mongondow Timur,2025,kabupaten,SEDANG
+7172,0.657538235,Sulawesi Utara,Kota Bitung,2025,kabupaten,SEDANG
+7174,0.3756,Sulawesi Utara,Kota Kotamobagu,2025,kabupaten,RENDAH
+7201,0.3125,Sulawesi Tengah,Banggai,2025,kabupaten,RENDAH
+7202,0.43065,Sulawesi Tengah,Poso,2025,kabupaten,SEDANG
+7203,0.44345,Sulawesi Tengah,Donggala,2025,kabupaten,SEDANG
+7204,0.444,Sulawesi Tengah,Toli Toli,2025,kabupaten,SEDANG
+7205,0.2521,Sulawesi Tengah,Buol,2025,kabupaten,RENDAH
+7206,0.3513,Sulawesi Tengah,Morowali,2025,kabupaten,RENDAH
+7208,0.4849,Sulawesi Tengah,Parigi Moutong,2025,kabupaten,SEDANG
+7209,0.30375,Sulawesi Tengah,Tojo Una Una,2025,kabupaten,RENDAH
+7210,0.550386364,Sulawesi Tengah,Sigi,2025,kabupaten,SEDANG
+7211,0.2025,Sulawesi Tengah,Banggai Laut,2025,kabupaten,RENDAH
+7212,0.2987,Sulawesi Tengah,Morowali Utara,2025,kabupaten,RENDAH
+7301,0.475983333,Sulawesi Selatan,Kepulauan Selayar,2025,kabupaten,SEDANG
+7302,0.46345,Sulawesi Selatan,Bulukumba,2025,kabupaten,SEDANG
+7304,0.29595,Sulawesi Selatan,Jeneponto,2025,kabupaten,RENDAH
+7305,0.2566,Sulawesi Selatan,Takalar,2025,kabupaten,RENDAH
+7306,0.30955,Sulawesi Selatan,Gowa,2025,kabupaten,RENDAH
+7308,0.55535,Sulawesi Selatan,Bone,2025,kabupaten,SEDANG
+7309,0.2361,Sulawesi Selatan,Maros,2025,kabupaten,RENDAH
+7310,0.27685,Sulawesi Selatan,Pangkajene Dan Kepulauan,2025,kabupaten,RENDAH
+7311,0.4356,Sulawesi Selatan,Barru,2025,kabupaten,SEDANG
+7312,0.2947,Sulawesi Selatan,Soppeng,2025,kabupaten,RENDAH
+7313,0.4353,Sulawesi Selatan,Wajo,2025,kabupaten,SEDANG
+7314,0.2352,Sulawesi Selatan,Sidenreng Rappang,2025,kabupaten,RENDAH
+7315,0.31505,Sulawesi Selatan,Pinrang,2025,kabupaten,RENDAH
+7316,0.295681818,Sulawesi Selatan,Enrekang,2025,kabupaten,RENDAH
+7317,0.3867,Sulawesi Selatan,Luwu,2025,kabupaten,RENDAH
+7324,0.6572,Sulawesi Selatan,Luwu Timur,2025,kabupaten,SEDANG
+7326,0.385481818,Sulawesi Selatan,Toraja Utara,2025,kabupaten,RENDAH
+7371,0.478225,Sulawesi Selatan,Kota Makassar,2025,kabupaten,SEDANG
+7372,0.43675,Sulawesi Selatan,Kota Parepare,2025,kabupaten,SEDANG
+7373,0.38505,Sulawesi Selatan,Kota Palopo,2025,kabupaten,RENDAH
+7401,0.2613,Sulawesi Tenggara,Kolaka,2025,kabupaten,RENDAH
+7402,0.277,Sulawesi Tenggara,Konawe,2025,kabupaten,RENDAH
+7403,0.2544,Sulawesi Tenggara,Muna,2025,kabupaten,RENDAH
+7404,0.34375,Sulawesi Tenggara,Buton,2025,kabupaten,RENDAH
+7405,0.2894,Sulawesi Tenggara,Konawe Selatan,2025,kabupaten,RENDAH
+7406,0.3934,Sulawesi Tenggara,Bombana,2025,kabupaten,RENDAH
+7407,0.31595,Sulawesi Tenggara,Wakatobi,2025,kabupaten,RENDAH
+7408,0.32845,Sulawesi Tenggara,Kolaka Utara,2025,kabupaten,RENDAH
+7409,0.2998,Sulawesi Tenggara,Konawe Utara,2025,kabupaten,RENDAH
+7410,0.47775,Sulawesi Tenggara,Buton Utara,2025,kabupaten,SEDANG
+7411,0.2995,Sulawesi Tenggara,Kolaka Timur,2025,kabupaten,RENDAH
+7412,0.2225,Sulawesi Tenggara,Konawe Kepulauan,2025,kabupaten,RENDAH
+7413,0.26345,Sulawesi Tenggara,Muna Barat,2025,kabupaten,RENDAH
+7414,0.34935,Sulawesi Tenggara,Buton Tengah,2025,kabupaten,RENDAH
+7415,0.3098,Sulawesi Tenggara,Buton Selatan,2025,kabupaten,RENDAH
+7471,0.7091,Sulawesi Tenggara,Kota Kendari,2025,kabupaten,SEDANG
+7472,0.30985,Sulawesi Tenggara,Kota Bau Bau,2025,kabupaten,RENDAH
+7501,0.60705,Gorontalo,Gorontalo,2025,kabupaten,SEDANG
+7502,0.6212,Gorontalo,Boalemo,2025,kabupaten,SEDANG
+7503,0.51885,Gorontalo,Bone Bolango,2025,kabupaten,SEDANG
+7504,0.4975,Gorontalo,Pohuwato,2025,kabupaten,SEDANG
+7505,0.37615,Gorontalo,Gorontalo Utara,2025,kabupaten,RENDAH
+7571,0.55185,Gorontalo,Kota Gorontalo,2025,kabupaten,SEDANG
+7601,0.24595,Sulawesi Barat,Pasangkayu,2025,kabupaten,RENDAH
+7602,0.2102,Sulawesi Barat,Mamuju,2025,kabupaten,RENDAH
+7603,0.3042,Sulawesi Barat,Mamasa,2025,kabupaten,RENDAH
+7604,0.31555,Sulawesi Barat,Polewali Mandar,2025,kabupaten,RENDAH
+7605,0.3299,Sulawesi Barat,Majene,2025,kabupaten,RENDAH
+7606,0.2854,Sulawesi Barat,Mamuju Tengah,2025,kabupaten,RENDAH
+8101,0.484223529,Maluku,Maluku Tengah,2025,kabupaten,SEDANG
+8103,0.3492,Maluku,Kepulauan Tanimbar,2025,kabupaten,RENDAH
+8104,0.3656,Maluku,Buru,2025,kabupaten,RENDAH
+8105,0.2943,Maluku,Seram Bagian Timur,2025,kabupaten,RENDAH
+8106,0.4472,Maluku,Seram Bagian Barat,2025,kabupaten,SEDANG
+8107,0.351666667,Maluku,Kepulauan Aru,2025,kabupaten,RENDAH
+8108,0.377844118,Maluku,Maluku Barat Daya,2025,kabupaten,RENDAH
+8109,0.36605,Maluku,Buru Selatan,2025,kabupaten,RENDAH
+8171,0.5577,Maluku,Kota Ambon,2025,kabupaten,SEDANG
+8201,0.23735,Maluku Utara,Halmahera Barat,2025,kabupaten,RENDAH
+8202,0.2989,Maluku Utara,Halmahera Tengah,2025,kabupaten,RENDAH
+8204,0.2387,Maluku Utara,Halmahera Selatan,2025,kabupaten,RENDAH
+8206,0.229,Maluku Utara,Halmahera Timur,2025,kabupaten,RENDAH
+8208,0.21815,Maluku Utara,Pulau Taliabu,2025,kabupaten,RENDAH
+8271,0.705676923,Maluku Utara,Kota Ternate,2025,kabupaten,SEDANG
+8272,0.303,Maluku Utara,Kota Tidore Kepulauan,2025,kabupaten,RENDAH
+9103,0.2559,Papua,Jayapura,2025,kabupaten,RENDAH
+9110,0.2049,Papua,Sarmi,2025,kabupaten,RENDAH
+9111,0.2082,Papua,Keerom,2025,kabupaten,RENDAH
+9119,0.20785,Papua,Supiori,2025,kabupaten,RENDAH
+9120,0.2102,Papua,Mamberamo Raya,2025,kabupaten,RENDAH
+9171,0.4973,Papua,Kota Jayapura,2025,kabupaten,SEDANG
+9203,0.35885,Papua Barat,Fak Fak,2025,kabupaten,RENDAH
+9301,0.2426,Papua Selatan,Merauke,2025,kabupaten,RENDAH
+9302,0.2084,Papua Selatan,Boven Digoel,2025,kabupaten,RENDAH
+9303,0.22785,Papua Selatan,Mappi,2025,kabupaten,RENDAH
+9505,0.2359,Papua Pegunungan,Mamberamo Tengah,2025,kabupaten,RENDAH
+9601,0.218,Papua Barat Daya,Sorong,2025,kabupaten,RENDAH
+9602,0.210766667,Papua Barat Daya,Sorong Selatan,2025,kabupaten,RENDAH
+9603,0.3068,Papua Barat Daya,Raja Ampat,2025,kabupaten,RENDAH
+9604,0.20365,Papua Barat Daya,Tambrauw,2025,kabupaten,RENDAH
+9605,0.2395,Papua Barat Daya,Maybrat,2025,kabupaten,RENDAH
+9671,0.2419,Papua Barat Daya,Kota Sorong,2025,kabupaten,RENDAH
+1101,0.28875,Aceh,Aceh Selatan,2024,kabupaten,RENDAH
+1102,0.4222,Aceh,Aceh Tenggara,2024,kabupaten,SEDANG
+1103,0.4554,Aceh,Aceh Timur,2024,kabupaten,SEDANG
+1104,0.366981818,Aceh,Aceh Tengah,2024,kabupaten,RENDAH
+1105,0.4483,Aceh,Aceh Barat,2024,kabupaten,SEDANG
+1106,0.377067647,Aceh,Aceh Besar,2024,kabupaten,RENDAH
+1107,0.397888235,Aceh,Pidie,2024,kabupaten,RENDAH
+1108,0.2934,Aceh,Aceh Utara,2024,kabupaten,RENDAH
+1112,0.309,Aceh,Aceh Barat Daya,2024,kabupaten,RENDAH
+1113,0.24855,Aceh,Gayo Lues,2024,kabupaten,RENDAH
+1114,0.28725,Aceh,Aceh Jaya,2024,kabupaten,RENDAH
+1117,0.395733333,Aceh,Bener Meriah,2024,kabupaten,RENDAH
+1118,0.29435,Aceh,Pidie Jaya,2024,kabupaten,RENDAH
+1171,0.4762,Aceh,Kota Banda Aceh,2024,kabupaten,SEDANG
+1172,0.29015,Aceh,Kota Sabang,2024,kabupaten,RENDAH
+1173,0.397883333,Aceh,Kota Lhokseumawe,2024,kabupaten,RENDAH
+1174,,Aceh,Kota Langsa,2024,kabupaten,
+1175,0.403090909,Aceh,Kota Subulussalam,2024,kabupaten,SEDANG
+1201,0.370083333,Sumatera Utara,Tapanuli Tengah,2024,kabupaten,RENDAH
+1202,0.34715,Sumatera Utara,Tapanuli Utara,2024,kabupaten,RENDAH
+1203,0.527311765,Sumatera Utara,Tapanuli Selatan,2024,kabupaten,SEDANG
+1205,0.289666667,Sumatera Utara,Langkat,2024,kabupaten,RENDAH
+1206,0.279,Sumatera Utara,Karo,2024,kabupaten,RENDAH
+1207,0.267195455,Sumatera Utara,Deli Serdang,2024,kabupaten,RENDAH
+1208,0.221681818,Sumatera Utara,Simalungun,2024,kabupaten,RENDAH
+1209,,Sumatera Utara,Asahan,2024,kabupaten,
+1214,0.2378,Sumatera Utara,Nias Selatan,2024,kabupaten,RENDAH
+1215,0.41515,Sumatera Utara,Pakpak Bharat,2024,kabupaten,SEDANG
+1216,,Sumatera Utara,Humbang Hasundutan,2024,kabupaten,
+1218,0.33975,Sumatera Utara,Serdang Bedagai,2024,kabupaten,RENDAH
+1219,0.26575,Sumatera Utara,Batu Bara,2024,kabupaten,RENDAH
+1220,0.296,Sumatera Utara,Padang Lawas Utara,2024,kabupaten,RENDAH
+1222,0.2529,Sumatera Utara,Labuhanbatu Selatan,2024,kabupaten,RENDAH
+1223,0.29255,Sumatera Utara,Labuhanbatu Utara,2024,kabupaten,RENDAH
+1271,0.69705,Sumatera Utara,Kota Medan,2024,kabupaten,SEDANG
+1272,0.23725,Sumatera Utara,Kota Pematangsiantar,2024,kabupaten,RENDAH
+1275,0.2226,Sumatera Utara,Kota Binjai,2024,kabupaten,RENDAH
+1277,0.375681818,Sumatera Utara,Kota Padang Sidempuan,2024,kabupaten,RENDAH
+1278,0.389,Sumatera Utara,Kota Gunungsitoli,2024,kabupaten,RENDAH
+1301,0.5181,Sumatera Barat,Pesisir Selatan,2024,kabupaten,SEDANG
+1302,0.30095,Sumatera Barat,Solok,2024,kabupaten,RENDAH
+1303,0.327331818,Sumatera Barat,Sijunjung,2024,kabupaten,RENDAH
+1304,0.2673,Sumatera Barat,Tanah Datar,2024,kabupaten,RENDAH
+1305,0.486602941,Sumatera Barat,Padang Pariaman,2024,kabupaten,SEDANG
+1306,0.328720588,Sumatera Barat,Agam,2024,kabupaten,RENDAH
+1307,0.31565,Sumatera Barat,Lima Puluh Kota,2024,kabupaten,RENDAH
+1308,0.392383333,Sumatera Barat,Pasaman,2024,kabupaten,RENDAH
+1310,0.3875,Sumatera Barat,Dharmasraya,2024,kabupaten,RENDAH
+1311,,Sumatera Barat,Solok Selatan,2024,kabupaten,
+1312,0.38855,Sumatera Barat,Pasaman Barat,2024,kabupaten,RENDAH
+1371,0.51825,Sumatera Barat,Kota Padang,2024,kabupaten,SEDANG
+1372,0.360640909,Sumatera Barat,Kota Solok,2024,kabupaten,RENDAH
+1373,0.429895455,Sumatera Barat,Kota Sawahlunto,2024,kabupaten,SEDANG
+1374,0.3013,Sumatera Barat,Kota Padang Panjang,2024,kabupaten,RENDAH
+1375,0.27985,Sumatera Barat,Kota Bukittinggi,2024,kabupaten,RENDAH
+1376,0.2984,Sumatera Barat,Kota Payakumbuh,2024,kabupaten,RENDAH
+1377,0.438266667,Sumatera Barat,Kota Pariaman,2024,kabupaten,SEDANG
+1401,0.3267,Riau,Kampar,2024,kabupaten,RENDAH
+1402,0.326738889,Riau,Indragiri Hulu,2024,kabupaten,RENDAH
+1403,0.34815,Riau,Bengkalis,2024,kabupaten,RENDAH
+1406,0.319645455,Riau, Rokan Hulu,2024,kabupaten,RENDAH
+1407,0.27575,Riau, Rokan Hilir,2024,kabupaten,RENDAH
+1410,0.2489,Riau,Kepulauan Meranti,2024,kabupaten,RENDAH
+1471,0.34705,Riau,Kota Pekanbaru,2024,kabupaten,RENDAH
+1472,0.432,Riau,Kota Dumai,2024,kabupaten,SEDANG
+1501,0.2751,Jambi, Kerinci,2024,kabupaten,RENDAH
+1502,0.2644,Jambi, Merangin,2024,kabupaten,RENDAH
+1503,0.2433,Jambi,Sarolangun,2024,kabupaten,RENDAH
+1504,0.2849,Jambi,Batanghari,2024,kabupaten,RENDAH
+1505,0.305675,Jambi, Muaro Jambi,2024,kabupaten,RENDAH
+1506,0.4759,Jambi,Tanjung Jabung Barat,2024,kabupaten,SEDANG
+1508,0.348431818,Jambi,Bungo,2024,kabupaten,RENDAH
+1509,,Jambi,Tebo,2024,kabupaten,
+1571,0.3103,Jambi,Kota Jambi,2024,kabupaten,RENDAH
+1572,0.4215,Jambi,Kota Sungai Penuh,2024,kabupaten,SEDANG
+1601,0.41875,Sumatera Selatan,Ogan Komering Ulu,2024,kabupaten,SEDANG
+1602,0.3895,Sumatera Selatan,Ogan Komering Ilir,2024,kabupaten,RENDAH
+1603,0.30225,Sumatera Selatan,Muara Enim,2024,kabupaten,RENDAH
+1605,0.358,Sumatera Selatan,Musi Rawas,2024,kabupaten,RENDAH
+1606,0.430666667,Sumatera Selatan,Musi Banyuasin,2024,kabupaten,SEDANG
+1607,0.459816667,Sumatera Selatan,Banyuasin,2024,kabupaten,SEDANG
+1608,0.47895,Sumatera Selatan,Ogan Komering Ulu Timur,2024,kabupaten,SEDANG
+1609,,Sumatera Selatan,Ogan Komering Ulu Selatan,2024,kabupaten,
+1610,0.550616667,Sumatera Selatan,Ogan Ilir,2024,kabupaten,SEDANG
+1611,0.2916,Sumatera Selatan,Empat Lawang,2024,kabupaten,RENDAH
+1612,0.33005,Sumatera Selatan,Penukal Abab Lematang Ilir,2024,kabupaten,RENDAH
+1613,0.46415,Sumatera Selatan,Musi Rawas Utara,2024,kabupaten,SEDANG
+1671,0.23665,Sumatera Selatan,Kota Palembang,2024,kabupaten,RENDAH
+1672,0.22665,Sumatera Selatan,Kota Pagar Alam,2024,kabupaten,RENDAH
+1673,0.296833333,Sumatera Selatan,Kota Lubuk Linggau,2024,kabupaten,RENDAH
+1701,0.5272,Bengkulu,Bengkulu Selatan,2024,kabupaten,SEDANG
+1702,0.322116667,Bengkulu,Rejang Lebong,2024,kabupaten,RENDAH
+1703,0.365175,Bengkulu,Bengkulu Utara,2024,kabupaten,RENDAH
+1705,0.40095,Bengkulu,Seluma,2024,kabupaten,SEDANG
+1707,0.460677273,Bengkulu,Lebong,2024,kabupaten,SEDANG
+1708,0.7182,Bengkulu,Kepahiang,2024,kabupaten,SEDANG
+1709,0.4464,Bengkulu,Bengkulu Tengah,2024,kabupaten,SEDANG
+1771,0.598866667,Bengkulu,Kota Bengkulu,2024,kabupaten,SEDANG
+1801,0.534916667,Lampung,Lampung Selatan,2024,kabupaten,SEDANG
+1802,0.472531818,Lampung,Lampung Tengah,2024,kabupaten,
+1803,0.709666667,Lampung,Lampung Utara,2024,kabupaten,SEDANG
+1805,0.6571,Lampung,Tulang Bawang,2024,kabupaten,SEDANG
+1809,0.445566667,Lampung,Pesawaran,2024,kabupaten,SEDANG
+1810,0.41545,Lampung,Pringsewu,2024,kabupaten,SEDANG
+1811,0.36975,Lampung,Mesuji,2024,kabupaten,RENDAH
+1812,0.4094,Lampung,Tulang Bawang Barat,2024,kabupaten,SEDANG
+1813,0.3585,Lampung,Pesisir Barat,2024,kabupaten,RENDAH
+1871,0.701076471,Lampung,Kota Bandar Lampung,2024,kabupaten,SEDANG
+1872,0.52095,Lampung,Kota Metro,2024,kabupaten,SEDANG
+1901,0.495133333,Kepulauan Bangka Belitung,Bangka,2024,kabupaten,SEDANG
+1902,0.497754545,Kepulauan Bangka Belitung,Belitung,2024,kabupaten,SEDANG
+1903,0.275583333,Kepulauan Bangka Belitung,Bangka Selatan,2024,kabupaten,RENDAH
+1904,0.4168,Kepulauan Bangka Belitung,Bangka Tengah,2024,kabupaten,SEDANG
+1905,,Kepulauan Bangka Belitung,Bangka Barat,2024,kabupaten,
+1906,0.47675,Kepulauan Bangka Belitung,Belitung Timur,2024,kabupaten,SEDANG
+1971,0.50225,Kepulauan Bangka Belitung,Kota Pangkal Pinang,2024,kabupaten,SEDANG
+2101,0.3588,Kepulauan Riau,Bintan,2024,kabupaten,RENDAH
+2102,,Kepulauan Riau,Karimun,2024,kabupaten,
+2103,0.29315,Kepulauan Riau,Natuna,2024,kabupaten,RENDAH
+2104,0.27565,Kepulauan Riau,Lingga,2024,kabupaten,RENDAH
+2105,0.38965,Kepulauan Riau,Kepulauan Anambas,2024,kabupaten,RENDAH
+2171,0.25645,Kepulauan Riau,Kota Batam,2024,kabupaten,RENDAH
+2172,0.2342,Kepulauan Riau,Kota Tanjung Pinang,2024,kabupaten,RENDAH
+31,0.61045,DKI Jakarta,DKI Jakarta,2024,provinsi,SEDANG
+3201,0.56355,Jawa Barat,Bogor,2024,kabupaten,SEDANG
+3202,0.505214706,Jawa Barat,Sukabumi,2024,kabupaten,SEDANG
+3203,0.676467647,Jawa Barat,Cianjur,2024,kabupaten,SEDANG
+3204,0.68225,Jawa Barat,Bandung,2024,kabupaten,SEDANG
+3205,0.729285294,Jawa Barat,Garut,2024,kabupaten,SEDANG
+3206,0.64155,Jawa Barat,Tasikmalaya,2024,kabupaten,SEDANG
+3211,0.479081818,Jawa Barat,Sumedang,2024,kabupaten,SEDANG
+3214,0.545386364,Jawa Barat,Purwakarta,2024,kabupaten,SEDANG
+3274,0.76515,Jawa Barat,Kota Cirebon,2024,kabupaten,SEDANG
+3301,0.7382,Jawa Tengah,Cilacap,2024,kabupaten,SEDANG
+3302,0.8702,Jawa Tengah,Banyumas,2024,kabupaten,TINGGI
+3303,0.5383,Jawa Tengah,Purbalingga,2024,kabupaten,SEDANG
+3304,0.7935,Jawa Tengah,Banjarnegara,2024,kabupaten,SEDANG
+3305,0.869,Jawa Tengah,Kebumen,2024,kabupaten,TINGGI
+3306,0.84145,Jawa Tengah,Purworejo,2024,kabupaten,TINGGI
+3307,0.89515,Jawa Tengah,Wonosobo,2024,kabupaten,TINGGI
+3308,0.9227,Jawa Tengah,Magelang,2024,kabupaten,TINGGI
+3309,0.8736,Jawa Tengah,Boyolali,2024,kabupaten,TINGGI
+3310,0.939433333,Jawa Tengah,Klaten,2024,kabupaten,TINGGI
+3311,0.631116667,Jawa Tengah,Sukoharjo,2024,kabupaten,SEDANG
+3312,0.75265,Jawa Tengah,Wonogiri,2024,kabupaten,SEDANG
+3313,0.80005,Jawa Tengah,Karanganyar,2024,kabupaten,TINGGI
+3314,0.61105,Jawa Tengah,Sragen,2024,kabupaten,SEDANG
+3316,0.512427778,Jawa Tengah,Blora,2024,kabupaten,SEDANG
+3317,0.654436364,Jawa Tengah,Rembang,2024,kabupaten,SEDANG
+3318,0.5094,Jawa Tengah,Pati,2024,kabupaten,SEDANG
+3319,0.767513636,Jawa Tengah,Kudus,2024,kabupaten,SEDANG
+3320,0.552527273,Jawa Tengah,Jepara,2024,kabupaten,SEDANG
+3321,0.7607,Jawa Tengah,Demak,2024,kabupaten,SEDANG
+3322,0.769513636,Jawa Tengah,Semarang,2024,kabupaten,SEDANG
+3323,0.578116667,Jawa Tengah,Temanggung,2024,kabupaten,SEDANG
+3324,0.724836364,Jawa Tengah,Kendal,2024,kabupaten,SEDANG
+3325,0.5715,Jawa Tengah,Batang,2024,kabupaten,SEDANG
+3326,0.6724,Jawa Tengah,Pekalongan,2024,kabupaten,SEDANG
+3327,0.80105,Jawa Tengah,Pemalang,2024,kabupaten,TINGGI
+3328,0.8105,Jawa Tengah,Tegal,2024,kabupaten,TINGGI
+3329,0.5849,Jawa Tengah,Brebes,2024,kabupaten,SEDANG
+3371,0.477483333,Jawa Tengah,Kota Magelang,2024,kabupaten,SEDANG
+3372,0.828888889,Jawa Tengah,Kota Surakarta,2024,kabupaten,TINGGI
+3373,0.499472222,Jawa Tengah,Kota Salatiga,2024,kabupaten,SEDANG
+3374,0.7186,Jawa Tengah,Kota Semarang,2024,kabupaten,SEDANG
+3375,0.583,Jawa Tengah,Kota Pekalongan,2024,kabupaten,SEDANG
+3376,0.61935,Jawa Tengah,Kota Tegal,2024,kabupaten,SEDANG
+3401,0.642211765,Daerah Istimewa Yogyakarta,Kulon Progo,2024,kabupaten,SEDANG
+3402,0.7244,Daerah Istimewa Yogyakarta,Bantul,2024,kabupaten,SEDANG
+3404,0.77345,Daerah Istimewa Yogyakarta,Sleman,2024,kabupaten,SEDANG
+3471,0.686625,Daerah Istimewa Yogyakarta,Kota Yogyakarta,2024,kabupaten,SEDANG
+3601,0.758458824,Banten,Pandeglang,2024,kabupaten,SEDANG
+3602,0.29015,Banten,Lebak,2024,kabupaten,RENDAH
+3603,0.74125,Banten,Tangerang,2024,kabupaten,SEDANG
+3604,0.714402941,Banten,Serang,2024,kabupaten,SEDANG
+3671,0.5836,Banten,Kota Tangerang,2024,kabupaten,SEDANG
+3672,0.644816667,Banten,Kota Cilegon,2024,kabupaten,SEDANG
+3673,0.6064,Banten,Kota Serang,2024,kabupaten,SEDANG
+3674,0.584344444,Banten,Kota Tangerang Selatan,2024,kabupaten,SEDANG
+5101,0.6204,Bali,Jembrana,2024,kabupaten,SEDANG
+5102,0.642475,Bali,Tabanan,2024,kabupaten,SEDANG
+5104,0.42275,Bali,Gianyar,2024,kabupaten,SEDANG
+5105,0.4953,Bali,Klungkung,2024,kabupaten,SEDANG
+5106,0.4954,Bali,Bangli,2024,kabupaten,SEDANG
+5107,0.687167647,Bali,Karangasem,2024,kabupaten,SEDANG
+5108,0.73635,Bali,Buleleng,2024,kabupaten,SEDANG
+5171,0.75595,Bali,Kota Denpasar,2024,kabupaten,SEDANG
+5302,0.3614,Nusa Tenggara Timur,Timor Tengah Selatan,2024,kabupaten,RENDAH
+5303,0.3474,Nusa Tenggara Timur,Timor Tengah Utara,2024,kabupaten,RENDAH
+5304,0.37955,Nusa Tenggara Timur,Belu,2024,kabupaten,RENDAH
+5305,0.53465,Nusa Tenggara Timur,Alor,2024,kabupaten,SEDANG
+5306,0.522094118,Nusa Tenggara Timur,Flores Timur,2024,kabupaten,SEDANG
+5307,0.435216667,Nusa Tenggara Timur,Sikka,2024,kabupaten,SEDANG
+5308,0.398017647,Nusa Tenggara Timur,Ende,2024,kabupaten,RENDAH
+5309,0.31225,Nusa Tenggara Timur,Ngada,2024,kabupaten,RENDAH
+5310,0.39825,Nusa Tenggara Timur,Manggarai,2024,kabupaten,RENDAH
+5314,0.517033333,Nusa Tenggara Timur,Rote Ndao,2024,kabupaten,SEDANG
+5315,0.5042,Nusa Tenggara Timur,Manggarai Barat,2024,kabupaten,SEDANG
+5316,0.506461765,Nusa Tenggara Timur,Nagekeo,2024,kabupaten,SEDANG
+5317,,Nusa Tenggara Timur,Sumba Tengah,2024,kabupaten,
+5319,0.436576471,Nusa Tenggara Timur,Manggarai Timur,2024,kabupaten,SEDANG
+5320,0.2942,Nusa Tenggara Timur,Sabu Raijua,2024,kabupaten,RENDAH
+5371,0.441047059,Nusa Tenggara Timur,Kota Kupang,2024,kabupaten,SEDANG
+6201,0.5907,Kalimantan Tengah,Kotawaringin Barat,2024,kabupaten,SEDANG
+6202,0.5734,Kalimantan Tengah,Kotawaringin Timur,2024,kabupaten,SEDANG
+6204,0.3684,Kalimantan Tengah,Barito Selatan,2024,kabupaten,RENDAH
+6206,0.52045,Kalimantan Tengah,Katingan,2024,kabupaten,SEDANG
+6210,0.33355,Kalimantan Tengah,Gunung Mas,2024,kabupaten,RENDAH
+6211,,Kalimantan Tengah,Pulang Pisau,2024,kabupaten,
+6212,0.3524,Kalimantan Tengah,Murung Raya,2024,kabupaten,RENDAH
+6302,0.50465,Kalimantan Selatan,Kotabaru,2024,kabupaten,SEDANG
+6303,0.68565,Kalimantan Selatan,Banjar,2024,kabupaten,SEDANG
+6304,0.4797,Kalimantan Selatan,Barito Kuala,2024,kabupaten,SEDANG
+6305,0.58205,Kalimantan Selatan,Tapin,2024,kabupaten,SEDANG
+6306,0.48195,Kalimantan Selatan,Hulu Sungai Selatan,2024,kabupaten,SEDANG
+6307,0.4523,Kalimantan Selatan,Hulu Sungai Tengah,2024,kabupaten,SEDANG
+6308,0.676875,Kalimantan Selatan,Hulu Sungai Utara,2024,kabupaten,SEDANG
+6309,0.500875,Kalimantan Selatan,Tabalong,2024,kabupaten,SEDANG
+6310,0.69335,Kalimantan Selatan,Tanah Bumbu,2024,kabupaten,SEDANG
+6311,0.5875,Kalimantan Selatan,Balangan,2024,kabupaten,SEDANG
+6371,0.536283333,Kalimantan Selatan,Kota Banjarmasin,2024,kabupaten,SEDANG
+6372,0.525325,Kalimantan Selatan,Kota Banjarbaru,2024,kabupaten,SEDANG
+6401,0.3537,Kalimantan Timur,Paser,2024,kabupaten,RENDAH
+6402,0.521075,Kalimantan Timur,Kutai Kartanegara,2024,kabupaten,SEDANG
+6403,0.7249,Kalimantan Timur,Berau,2024,kabupaten,SEDANG
+6407,0.2992,Kalimantan Timur,Kutai Barat,2024,kabupaten,RENDAH
+6408,0.42035,Kalimantan Timur,Kutai Timur,2024,kabupaten,SEDANG
+6409,0.42575,Kalimantan Timur,Penajam Paser Utara,2024,kabupaten,SEDANG
+6411,0.41415,Kalimantan Timur,Mahakam Ulu,2024,kabupaten,SEDANG
+6471,0.824283333,Kalimantan Timur,Kota Balikpapan,2024,kabupaten,TINGGI
+6472,0.7957,Kalimantan Timur,Kota Samarinda,2024,kabupaten,SEDANG
+6474,0.536183333,Kalimantan Timur,Kota Bontang,2024,kabupaten,SEDANG
+6501,0.4882,Kalimantan Utara,Bulungan,2024,kabupaten,SEDANG
+6502,,Kalimantan Utara,Malinau,2024,kabupaten,
+6503,0.55685,Kalimantan Utara,Nunukan,2024,kabupaten,SEDANG
+6504,,Kalimantan Utara,Tana Tidung,2024,kabupaten,
+6571,0.698566667,Kalimantan Utara,Kota Tarakan,2024,kabupaten,SEDANG
+7101,0.577991177,Sulawesi Utara,Bolaang Mongondow,2024,kabupaten,SEDANG
+7105,0.468561765,Sulawesi Utara,Minahasa Selatan,2024,kabupaten,SEDANG
+7106,0.453444118,Sulawesi Utara,Minahasa Utara,2024,kabupaten,SEDANG
+7108,,Sulawesi Utara,Bolaang Mongondow Utara,2024,kabupaten,
+7110,0.558458824,Sulawesi Utara,Bolaang Mongondow Timur,2024,kabupaten,SEDANG
+7171,0.85465,Sulawesi Utara,Kota Manado,2024,kabupaten,TINGGI
+7172,0.6914,Sulawesi Utara,Kota Bitung,2024,kabupaten,SEDANG
+7174,0.43555,Sulawesi Utara,Kota Kotamobagu,2024,kabupaten,SEDANG
+7201,0.367731818,Sulawesi Tengah,Banggai,2024,kabupaten,RENDAH
+7202,0.44865,Sulawesi Tengah,Poso,2024,kabupaten,SEDANG
+7203,0.3546,Sulawesi Tengah,Donggala,2024,kabupaten,RENDAH
+7204,0.3437,Sulawesi Tengah,Toli Toli,2024,kabupaten,RENDAH
+7205,0.2063,Sulawesi Tengah,Buol,2024,kabupaten,RENDAH
+7208,0.6687,Sulawesi Tengah,Parigi Moutong,2024,kabupaten,SEDANG
+7210,0.470740909,Sulawesi Tengah,Sigi,2024,kabupaten,SEDANG
+7211,0.217438889,Sulawesi Tengah,Banggai Laut,2024,kabupaten,RENDAH
+7212,0.2972,Sulawesi Tengah,Morowali Utara,2024,kabupaten,RENDAH
+7271,0.73265,Sulawesi Tengah,Kota Palu,2024,kabupaten,SEDANG
+7301,0.44705,Sulawesi Selatan,Kepulauan Selayar,2024,kabupaten,SEDANG
+7302,0.43855,Sulawesi Selatan,Bulukumba,2024,kabupaten,SEDANG
+7304,0.2448,Sulawesi Selatan,Jeneponto,2024,kabupaten,RENDAH
+7305,0.390031818,Sulawesi Selatan,Takalar,2024,kabupaten,RENDAH
+7306,0.30805,Sulawesi Selatan,Gowa,2024,kabupaten,RENDAH
+7307,0.27815,Sulawesi Selatan,Sinjai,2024,kabupaten,RENDAH
+7308,0.3745,Sulawesi Selatan,Bone,2024,kabupaten,RENDAH
+7309,,Sulawesi Selatan,Maros,2024,kabupaten,
+7312,0.2534,Sulawesi Selatan,Soppeng,2024,kabupaten,RENDAH
+7313,0.55555,Sulawesi Selatan,Wajo,2024,kabupaten,SEDANG
+7314,0.2741,Sulawesi Selatan,Sidenreng Rappang,2024,kabupaten,RENDAH
+7315,0.479927778,Sulawesi Selatan,Pinrang,2024,kabupaten,SEDANG
+7316,0.422931818,Sulawesi Selatan,Enrekang,2024,kabupaten,SEDANG
+7317,0.357213636,Sulawesi Selatan,Luwu,2024,kabupaten,RENDAH
+7318,0.279683333,Sulawesi Selatan,Tana Toraja,2024,kabupaten,RENDAH
+7322,0.627,Sulawesi Selatan,Luwu Utara,2024,kabupaten,SEDANG
+7324,0.65045,Sulawesi Selatan,Luwu Timur,2024,kabupaten,SEDANG
+7326,0.380563636,Sulawesi Selatan,Toraja Utara,2024,kabupaten,RENDAH
+7371,0.4647,Sulawesi Selatan,Kota Makassar,2024,kabupaten,SEDANG
+7372,0.415783333,Sulawesi Selatan,Kota Parepare,2024,kabupaten,SEDANG
+7373,0.5694,Sulawesi Selatan,Kota Palopo,2024,kabupaten,SEDANG
+7401,0.3467,Sulawesi Tenggara,Kolaka,2024,kabupaten,RENDAH
+7402,0.34295,Sulawesi Tenggara,Konawe,2024,kabupaten,RENDAH
+7403,,Sulawesi Tenggara,Muna,2024,kabupaten,
+7404,,Sulawesi Tenggara,Buton,2024,kabupaten,
+7408,0.350716667,Sulawesi Tenggara,Kolaka Utara,2024,kabupaten,RENDAH
+7409,0.2983,Sulawesi Tenggara,Konawe Utara,2024,kabupaten,RENDAH
+7410,,Sulawesi Tenggara,Buton Utara,2024,kabupaten,
+7411,0.2999,Sulawesi Tenggara,Kolaka Timur,2024,kabupaten,RENDAH
+7412,0.23215,Sulawesi Tenggara,Konawe Kepulauan,2024,kabupaten,RENDAH
+7413,0.27935,Sulawesi Tenggara,Muna Barat,2024,kabupaten,RENDAH
+7414,0.381183333,Sulawesi Tenggara,Buton Tengah,2024,kabupaten,RENDAH
+7415,0.3098,Sulawesi Tenggara,Buton Selatan,2024,kabupaten,RENDAH
+7471,0.68745,Sulawesi Tenggara,Kota Kendari,2024,kabupaten,SEDANG
+7472,0.315566667,Sulawesi Tenggara,Kota Bau Bau,2024,kabupaten,RENDAH
+7501,0.5973,Gorontalo,Gorontalo,2024,kabupaten,SEDANG
+7502,,Gorontalo,Boalemo,2024,kabupaten,
+7503,0.5011,Gorontalo,Bone Bolango,2024,kabupaten,SEDANG
+7504,,Gorontalo,Pohuwato,2024,kabupaten,
+7505,0.34845,Gorontalo,Gorontalo Utara,2024,kabupaten,RENDAH
+7571,0.52085,Gorontalo,Kota Gorontalo,2024,kabupaten,SEDANG
+7601,0.53015,Sulawesi Barat,Pasangkayu,2024,kabupaten,SEDANG
+7602,0.26245,Sulawesi Barat,Mamuju,2024,kabupaten,RENDAH
+7603,0.408313636,Sulawesi Barat,Mamasa,2024,kabupaten,SEDANG
+7606,0.4555,Sulawesi Barat,Mamuju Tengah,2024,kabupaten,SEDANG
+8101,0.447455882,Maluku,Maluku Tengah,2024,kabupaten,SEDANG
+8104,0.32535,Maluku,Buru,2024,kabupaten,RENDAH
+8105,0.330766667,Maluku,Seram Bagian Timur,2024,kabupaten,RENDAH
+8106,0.39755,Maluku,Seram Bagian Barat,2024,kabupaten,RENDAH
+8108,0.332285294,Maluku,Maluku Barat Daya,2024,kabupaten,RENDAH
+8171,0.53865,Maluku,Kota Ambon,2024,kabupaten,SEDANG
+8172,0.2251,Maluku,Kota Tual,2024,kabupaten,RENDAH
+8202,0.38305,Maluku Utara,Halmahera Tengah,2024,kabupaten,RENDAH
+8204,0.4974,Maluku Utara,Halmahera Selatan,2024,kabupaten,SEDANG
+8271,0.727472727,Maluku Utara,Kota Ternate,2024,kabupaten,SEDANG
+8272,0.3058,Maluku Utara,Kota Tidore Kepulauan,2024,kabupaten,RENDAH
+9171,0.63535,Papua,Kota Jayapura,2024,kabupaten,SEDANG
+9501,0.2306,Papua Pegunungan,Jayawijaya,2024,kabupaten,RENDAH
+9502,0.2024,Papua Pegunungan,Pegunungan Bintang,2024,kabupaten,RENDAH
+9601,0.231,Papua Barat Daya,Sorong,2024,kabupaten,RENDAH
+9707,0.21095,,,2024,kabupaten,RENDAH
+1101,0.302,Aceh,Aceh Selatan,2023,kabupaten,RENDAH
+1102,0.375927273,Aceh,Aceh Tenggara,2023,kabupaten,RENDAH
+1103,0.4204,Aceh,Aceh Timur,2023,kabupaten,SEDANG
+1104,0.355913636,Aceh,Aceh Tengah,2023,kabupaten,RENDAH
+1105,0.41555,Aceh,Aceh Barat,2023,kabupaten,SEDANG
+1106,0.360576471,Aceh,Aceh Besar,2023,kabupaten,RENDAH
+1107,0.293983333,Aceh,Pidie,2023,kabupaten,RENDAH
+1108,0.34375,Aceh,Aceh Utara,2023,kabupaten,RENDAH
+1112,0.2986,Aceh,Aceh Barat Daya,2023,kabupaten,RENDAH
+1113,0.394386364,Aceh,Gayo Lues,2023,kabupaten,RENDAH
+1114,0.38565,Aceh,Aceh Jaya,2023,kabupaten,RENDAH
+1115,0.34285,Aceh,Nagan Raya,2023,kabupaten,RENDAH
+1116,,Aceh,Aceh Tamiang,2023,kabupaten,
+1117,0.379166667,Aceh,Bener Meriah,2023,kabupaten,RENDAH
+1118,0.2911,Aceh,Pidie Jaya,2023,kabupaten,RENDAH
+1171,0.612375,Aceh,Kota Banda Aceh,2023,kabupaten,SEDANG
+1172,0.29695,Aceh,Kota Sabang,2023,kabupaten,RENDAH
+1173,0.404316667,Aceh,Kota Lhokseumawe,2023,kabupaten,SEDANG
+1174,,Aceh,Kota Langsa,2023,kabupaten,
+1175,0.351045455,Aceh,Kota Subulussalam,2023,kabupaten,RENDAH
+1201,0.342583333,Sumatera Utara,Tapanuli Tengah,2023,kabupaten,RENDAH
+1202,0.3146,Sumatera Utara,Tapanuli Utara,2023,kabupaten,RENDAH
+1203,0.488316667,Sumatera Utara,Tapanuli Selatan,2023,kabupaten,SEDANG
+1204,,Sumatera Utara,Nias,2023,kabupaten,
+1205,0.310766667,Sumatera Utara,Langkat,2023,kabupaten,RENDAH
+1206,0.447281818,Sumatera Utara,Karo,2023,kabupaten,SEDANG
+1207,0.469276923,Sumatera Utara,Deli Serdang,2023,kabupaten,SEDANG
+1208,0.3029,Sumatera Utara,Simalungun,2023,kabupaten,RENDAH
+1209,,Sumatera Utara,Asahan,2023,kabupaten,
+1214,0.33215,Sumatera Utara,Nias Selatan,2023,kabupaten,RENDAH
+1215,0.42265,Sumatera Utara,Pakpak Bharat,2023,kabupaten,SEDANG
+1216,,Sumatera Utara,Humbang Hasundutan,2023,kabupaten,
+1217,0.2821,Sumatera Utara,Samosir,2023,kabupaten,RENDAH
+1218,0.41395,Sumatera Utara,Serdang Bedagai,2023,kabupaten,SEDANG
+1219,0.24195,Sumatera Utara,Batu Bara,2023,kabupaten,RENDAH
+1220,0.32595,Sumatera Utara,Padang Lawas Utara,2023,kabupaten,RENDAH
+1221,0.331509091,Sumatera Utara,Padang Lawas,2023,kabupaten,RENDAH
+1222,0.21015,Sumatera Utara,Labuhanbatu Selatan,2023,kabupaten,RENDAH
+1223,0.2477,Sumatera Utara,Labuhanbatu Utara,2023,kabupaten,RENDAH
+1224,0.26115,Sumatera Utara,Nias Utara,2023,kabupaten,RENDAH
+1225,0.2337,Sumatera Utara,Nias Barat,2023,kabupaten,RENDAH
+1271,0.69285,Sumatera Utara,Kota Medan,2023,kabupaten,SEDANG
+1272,0.29425,Sumatera Utara,Kota Pematangsiantar,2023,kabupaten,RENDAH
+1275,0.2131,Sumatera Utara,Kota Binjai,2023,kabupaten,RENDAH
+1277,0.2597,Sumatera Utara,Kota Padang Sidempuan,2023,kabupaten,RENDAH
+1278,0.36765,Sumatera Utara,Kota Gunungsitoli,2023,kabupaten,RENDAH
+1301,0.505923529,Sumatera Barat,Pesisir Selatan,2023,kabupaten,SEDANG
+1302,0.2,Sumatera Barat,Solok,2023,kabupaten,RENDAH
+1303,0.310488889,Sumatera Barat,Sijunjung,2023,kabupaten,RENDAH
+1304,0.24335,Sumatera Barat,Tanah Datar,2023,kabupaten,RENDAH
+1305,0.450588235,Sumatera Barat,Padang Pariaman,2023,kabupaten,SEDANG
+1306,0.428432353,Sumatera Barat,Agam,2023,kabupaten,SEDANG
+1307,0.26905,Sumatera Barat,Lima Puluh Kota,2023,kabupaten,RENDAH
+1308,0.329131818,Sumatera Barat,Pasaman,2023,kabupaten,RENDAH
+1310,0.369475,Sumatera Barat,Dharmasraya,2023,kabupaten,RENDAH
+1311,,Sumatera Barat,Solok Selatan,2023,kabupaten,
+1312,0.2973,Sumatera Barat,Pasaman Barat,2023,kabupaten,RENDAH
+1371,0.48585,Sumatera Barat,Kota Padang,2023,kabupaten,SEDANG
+1372,0.423236364,Sumatera Barat,Kota Solok,2023,kabupaten,SEDANG
+1373,0.457572727,Sumatera Barat,Kota Sawahlunto,2023,kabupaten,SEDANG
+1374,0.22935,Sumatera Barat,Kota Padang Panjang,2023,kabupaten,RENDAH
+1375,0.29345,Sumatera Barat,Kota Bukittinggi,2023,kabupaten,RENDAH
+1401,0.4574,Riau,Kampar,2023,kabupaten,SEDANG
+1402,0.38845,Riau,Indragiri Hulu,2023,kabupaten,RENDAH
+1403,0.360940909,Riau,Bengkalis,2023,kabupaten,RENDAH
+1404,,Riau,Indragiri Hilir,2023,kabupaten,
+1406,0.307631818,Riau, Rokan Hulu,2023,kabupaten,RENDAH
+1407,0.302863636,Riau, Rokan Hilir,2023,kabupaten,RENDAH
+1410,0.3277,Riau,Kepulauan Meranti,2023,kabupaten,RENDAH
+1501,0.4676,Jambi, Kerinci,2023,kabupaten,SEDANG
+1502,0.26515,Jambi, Merangin,2023,kabupaten,RENDAH
+1503,0.350490909,Jambi,Sarolangun,2023,kabupaten,RENDAH
+1504,0.28565,Jambi,Batanghari,2023,kabupaten,RENDAH
+1505,0.360925,Jambi, Muaro Jambi,2023,kabupaten,RENDAH
+1506,0.4854,Jambi,Tanjung Jabung Barat,2023,kabupaten,SEDANG
+1507,,Jambi,Tanjung Jabung Timur,2023,kabupaten,
+1508,0.404204545,Jambi,Bungo,2023,kabupaten,SEDANG
+1509,,Jambi,Tebo,2023,kabupaten,
+1571,0.36495,Jambi,Kota Jambi,2023,kabupaten,RENDAH
+1572,0.44485,Jambi,Kota Sungai Penuh,2023,kabupaten,SEDANG
+1601,0.43035,Sumatera Selatan,Ogan Komering Ulu,2023,kabupaten,SEDANG
+1602,0.378975,Sumatera Selatan,Ogan Komering Ilir,2023,kabupaten,RENDAH
+1603,0.391088889,Sumatera Selatan,Muara Enim,2023,kabupaten,RENDAH
+1604,0.365572727,Sumatera Selatan,Lahat,2023,kabupaten,RENDAH
+1605,0.3521,Sumatera Selatan,Musi Rawas,2023,kabupaten,RENDAH
+1606,0.434483333,Sumatera Selatan,Musi Banyuasin,2023,kabupaten,SEDANG
+1607,0.460316667,Sumatera Selatan,Banyuasin,2023,kabupaten,SEDANG
+1608,0.571313636,Sumatera Selatan,Ogan Komering Ulu Timur,2023,kabupaten,SEDANG
+1610,0.553416667,Sumatera Selatan,Ogan Ilir,2023,kabupaten,SEDANG
+1611,0.34775,Sumatera Selatan,Empat Lawang,2023,kabupaten,RENDAH
+1612,0.4124,Sumatera Selatan,Penukal Abab Lematang Ilir,2023,kabupaten,SEDANG
+1613,0.410425,Sumatera Selatan,Musi Rawas Utara,2023,kabupaten,SEDANG
+1671,0.25935,Sumatera Selatan,Kota Palembang,2023,kabupaten,RENDAH
+1672,0.3334,Sumatera Selatan,Kota Pagar Alam,2023,kabupaten,RENDAH
+1673,0.296183333,Sumatera Selatan,Kota Lubuk Linggau,2023,kabupaten,RENDAH
+1701,0.5198,Bengkulu,Bengkulu Selatan,2023,kabupaten,SEDANG
+1702,0.3266,Bengkulu,Rejang Lebong,2023,kabupaten,RENDAH
+1703,0.3383,Bengkulu,Bengkulu Utara,2023,kabupaten,RENDAH
+1704,0.4355,Bengkulu,Kaur,2023,kabupaten,SEDANG
+1705,0.43555,Bengkulu,Seluma,2023,kabupaten,SEDANG
+1706,0.423266667,Bengkulu,Muko Muko,2023,kabupaten,SEDANG
+1707,0.417859091,Bengkulu,Lebong,2023,kabupaten,SEDANG
+1708,0.7002,Bengkulu,Kepahiang,2023,kabupaten,SEDANG
+1709,0.360258824,Bengkulu,Bengkulu Tengah,2023,kabupaten,RENDAH
+1771,0.3445,Bengkulu,Kota Bengkulu,2023,kabupaten,RENDAH
+1801,0.412333333,Lampung,Lampung Selatan,2023,kabupaten,SEDANG
+1802,0.44785,Lampung,Lampung Tengah,2023,kabupaten,SEDANG
+1803,0.69755,Lampung,Lampung Utara,2023,kabupaten,SEDANG
+1805,0.53005,Lampung,Tulang Bawang,2023,kabupaten,SEDANG
+1809,0.4282,Lampung,Pesawaran,2023,kabupaten,SEDANG
+1810,0.26705,Lampung,Pringsewu,2023,kabupaten,RENDAH
+1811,0.359125,Lampung,Mesuji,2023,kabupaten,RENDAH
+1812,0.3394,Lampung,Tulang Bawang Barat,2023,kabupaten,RENDAH
+1813,0.2971,Lampung,Pesisir Barat,2023,kabupaten,RENDAH
+1871,0.783576471,Lampung,Kota Bandar Lampung,2023,kabupaten,SEDANG
+1872,0.5382,Lampung,Kota Metro,2023,kabupaten,SEDANG
+1901,0.38255,Kepulauan Bangka Belitung,Bangka,2023,kabupaten,RENDAH
+1902,0.472459091,Kepulauan Bangka Belitung,Belitung,2023,kabupaten,SEDANG
+1903,0.330375,Kepulauan Bangka Belitung,Bangka Selatan,2023,kabupaten,RENDAH
+1904,0.30665,Kepulauan Bangka Belitung,Bangka Tengah,2023,kabupaten,RENDAH
+1905,,Kepulauan Bangka Belitung,Bangka Barat,2023,kabupaten,
+1906,0.30575,Kepulauan Bangka Belitung,Belitung Timur,2023,kabupaten,RENDAH
+1971,0.38585,Kepulauan Bangka Belitung,Kota Pangkal Pinang,2023,kabupaten,RENDAH
+2101,0.433783333,Kepulauan Riau,Bintan,2023,kabupaten,SEDANG
+2102,,Kepulauan Riau,Karimun,2023,kabupaten,
+2103,0.31905,Kepulauan Riau,Natuna,2023,kabupaten,RENDAH
+2104,0.41115,Kepulauan Riau,Lingga,2023,kabupaten,SEDANG
+2105,0.48615,Kepulauan Riau,Kepulauan Anambas,2023,kabupaten,SEDANG
+2171,0.53785,Kepulauan Riau,Kota Batam,2023,kabupaten,SEDANG
+2172,0.23155,Kepulauan Riau,Kota Tanjung Pinang,2023,kabupaten,RENDAH
+31,0.57615,DKI Jakarta,DKI Jakarta,2023,provinsi,SEDANG
+3101,0.57615,DKI Jakarta,Administrasi Kepulauan Seribu,2023,kabupaten,SEDANG
+3171,0.57615,DKI Jakarta,Kota Administrasi Jakarta Pusat,2023,kabupaten,SEDANG
+3172,0.57615,DKI Jakarta,Kota Administrasi Jakarta Utara,2023,kabupaten,SEDANG
+3173,0.57615,DKI Jakarta,Kota Administrasi Jakarta Barat,2023,kabupaten,SEDANG
+3201,0.55955,Jawa Barat,Bogor,2023,kabupaten,SEDANG
+3202,0.471097059,Jawa Barat,Sukabumi,2023,kabupaten,SEDANG
+3203,0.607758824,Jawa Barat,Cianjur,2023,kabupaten,SEDANG
+3204,0.5642,Jawa Barat,Bandung,2023,kabupaten,SEDANG
+3205,0.720967647,Jawa Barat,Garut,2023,kabupaten,SEDANG
+3206,0.58375,Jawa Barat,Tasikmalaya,2023,kabupaten,SEDANG
+3208,0.681733333,Jawa Barat,Kuningan,2023,kabupaten,SEDANG
+3209,0.5017,Jawa Barat,Cirebon,2023,kabupaten,SEDANG
+3210,0.6326,Jawa Barat,Majalengka,2023,kabupaten,SEDANG
+3211,0.464081818,Jawa Barat,Sumedang,2023,kabupaten,SEDANG
+3212,0.655690909,Jawa Barat,Indramayu,2023,kabupaten,SEDANG
+3213,0.50835,Jawa Barat,Subang,2023,kabupaten,SEDANG
+3214,0.483777273,Jawa Barat,Purwakarta,2023,kabupaten,SEDANG
+3215,0.4051,Jawa Barat,Karawang,2023,kabupaten,SEDANG
+3216,0.531933333,Jawa Barat,Bekasi,2023,kabupaten,SEDANG
+3217,0.48365,Jawa Barat,Bandung Barat,2023,kabupaten,SEDANG
+3218,0.6782,Jawa Barat,Pangandaran,2023,kabupaten,SEDANG
+3271,0.75285,Jawa Barat,Kota Bogor,2023,kabupaten,SEDANG
+3272,0.56745,Jawa Barat,Kota Sukabumi,2023,kabupaten,SEDANG
+3273,0.59575,Jawa Barat,Kota Bandung,2023,kabupaten,SEDANG
+3274,0.62275,Jawa Barat,Kota Cirebon,2023,kabupaten,SEDANG
+3275,0.528166667,Jawa Barat,Kota Bekasi,2023,kabupaten,SEDANG
+3276,0.520266667,Jawa Barat,Kota Depok,2023,kabupaten,SEDANG
+3277,0.7654,Jawa Barat,Kota Cimahi,2023,kabupaten,SEDANG
+3278,0.43285,Jawa Barat,Kota Tasikmalaya,2023,kabupaten,SEDANG
+3279,0.5269,Jawa Barat,Kota Banjar,2023,kabupaten,SEDANG
+3301,0.85635,Jawa Tengah,Cilacap,2023,kabupaten,TINGGI
+3302,0.8122,Jawa Tengah,Banyumas,2023,kabupaten,TINGGI
+3303,0.467283333,Jawa Tengah,Purbalingga,2023,kabupaten,SEDANG
+3304,0.78485,Jawa Tengah,Banjarnegara,2023,kabupaten,SEDANG
+3305,0.8985,Jawa Tengah,Kebumen,2023,kabupaten,TINGGI
+3306,0.7881,Jawa Tengah,Purworejo,2023,kabupaten,SEDANG
+3307,0.875,Jawa Tengah,Wonosobo,2023,kabupaten,TINGGI
+3308,0.9376,Jawa Tengah,Magelang,2023,kabupaten,TINGGI
+3309,0.81815,Jawa Tengah,Boyolali,2023,kabupaten,TINGGI
+3310,0.935766667,Jawa Tengah,Klaten,2023,kabupaten,TINGGI
+3311,0.627638889,Jawa Tengah,Sukoharjo,2023,kabupaten,SEDANG
+3312,0.6709,Jawa Tengah,Wonogiri,2023,kabupaten,SEDANG
+3313,0.77955,Jawa Tengah,Karanganyar,2023,kabupaten,SEDANG
+3314,0.5169,Jawa Tengah,Sragen,2023,kabupaten,SEDANG
+3315,0.829013636,Jawa Tengah,Grobogan,2023,kabupaten,TINGGI
+3316,0.5095,Jawa Tengah,Blora,2023,kabupaten,SEDANG
+3317,0.63115,Jawa Tengah,Rembang,2023,kabupaten,SEDANG
+3318,0.49045,Jawa Tengah,Pati,2023,kabupaten,SEDANG
+3319,0.6866,Jawa Tengah,Kudus,2023,kabupaten,SEDANG
+3320,0.542927273,Jawa Tengah,Jepara,2023,kabupaten,SEDANG
+3321,0.710761111,Jawa Tengah,Demak,2023,kabupaten,SEDANG
+3322,0.752377273,Jawa Tengah,Semarang,2023,kabupaten,SEDANG
+3323,0.519916667,Jawa Tengah,Temanggung,2023,kabupaten,SEDANG
+3324,0.6973,Jawa Tengah,Kendal,2023,kabupaten,SEDANG
+3325,0.465823077,Jawa Tengah,Batang,2023,kabupaten,SEDANG
+3326,0.556327273,Jawa Tengah,Pekalongan,2023,kabupaten,SEDANG
+3328,0.753317647,Jawa Tengah,Tegal,2023,kabupaten,SEDANG
+3329,0.573516667,Jawa Tengah,Brebes,2023,kabupaten,SEDANG
+3371,0.394633333,Jawa Tengah,Kota Magelang,2023,kabupaten,RENDAH
+3372,0.796177778,Jawa Tengah,Kota Surakarta,2023,kabupaten,SEDANG
+3373,0.4335,Jawa Tengah,Kota Salatiga,2023,kabupaten,SEDANG
+3374,0.65885,Jawa Tengah,Kota Semarang,2023,kabupaten,SEDANG
+3375,0.54825,Jawa Tengah,Kota Pekalongan,2023,kabupaten,SEDANG
+3376,0.54305,Jawa Tengah,Kota Tegal,2023,kabupaten,SEDANG
+3401,0.646444118,Daerah Istimewa Yogyakarta,Kulon Progo,2023,kabupaten,SEDANG
+3402,0.56545,Daerah Istimewa Yogyakarta,Bantul,2023,kabupaten,SEDANG
+3403,0.7416,Daerah Istimewa Yogyakarta,Gunungkidul,2023,kabupaten,SEDANG
+3404,0.697083333,Daerah Istimewa Yogyakarta,Sleman,2023,kabupaten,SEDANG
+3471,0.67105,Daerah Istimewa Yogyakarta,Kota Yogyakarta,2023,kabupaten,SEDANG
+3501,0.6781,Jawa Timur,Pacitan,2023,kabupaten,SEDANG
+3502,0.508422727,Jawa Timur,Ponorogo,2023,kabupaten,SEDANG
+3503,0.6274,Jawa Timur,Trenggalek,2023,kabupaten,SEDANG
+3504,0.6572,Jawa Timur,Tulungagung,2023,kabupaten,SEDANG
+3505,0.587082353,Jawa Timur,Blitar,2023,kabupaten,SEDANG
+3506,0.62325,Jawa Timur,Kediri,2023,kabupaten,SEDANG
+3507,0.608029412,Jawa Timur,Malang,2023,kabupaten,SEDANG
+3508,0.763317647,Jawa Timur,Lumajang,2023,kabupaten,SEDANG
+3509,0.553420588,Jawa Timur,Jember,2023,kabupaten,SEDANG
+3510,0.697232353,Jawa Timur,Banyuwangi,2023,kabupaten,SEDANG
+3511,0.58845,Jawa Timur,Bondowoso,2023,kabupaten,SEDANG
+3512,0.673708824,Jawa Timur,Situbondo,2023,kabupaten,SEDANG
+3513,0.564667647,Jawa Timur,Probolinggo,2023,kabupaten,SEDANG
+3514,0.71475,Jawa Timur,Pasuruan,2023,kabupaten,SEDANG
+3515,0.729244444,Jawa Timur,Sidoarjo,2023,kabupaten,SEDANG
+3516,0.71425,Jawa Timur,Mojokerto,2023,kabupaten,SEDANG
+3517,0.3906,Jawa Timur,Jombang,2023,kabupaten,RENDAH
+3518,0.591804546,Jawa Timur,Nganjuk,2023,kabupaten,SEDANG
+3519,0.35195,Jawa Timur,Madiun,2023,kabupaten,RENDAH
+3520,0.6364,Jawa Timur,Magetan,2023,kabupaten,SEDANG
+3521,0.4558,Jawa Timur,Ngawi,2023,kabupaten,SEDANG
+3522,0.583113636,Jawa Timur,Bojonegoro,2023,kabupaten,SEDANG
+3523,0.498609091,Jawa Timur,Tuban,2023,kabupaten,SEDANG
+3524,0.583622727,Jawa Timur,Lamongan,2023,kabupaten,SEDANG
+3525,0.596533333,Jawa Timur,Gresik,2023,kabupaten,SEDANG
+3526,0.532459091,Jawa Timur,Bangkalan,2023,kabupaten,SEDANG
+3527,0.560233333,Jawa Timur,Sampang,2023,kabupaten,SEDANG
+3528,0.68315,Jawa Timur,Pamekasan,2023,kabupaten,SEDANG
+3529,0.56695,Jawa Timur,Sumenep,2023,kabupaten,SEDANG
+3571,0.722722222,Jawa Timur,Kota Kediri,2023,kabupaten,SEDANG
+3572,0.39955,Jawa Timur,Kota Blitar,2023,kabupaten,RENDAH
+3573,0.57035,Jawa Timur,Kota Malang,2023,kabupaten,SEDANG
+3574,0.398663636,Jawa Timur,Kota Probolinggo,2023,kabupaten,RENDAH
+3575,0.484883333,Jawa Timur,Kota Pasuruan,2023,kabupaten,SEDANG
+3576,0.251,Jawa Timur,Kota Mojokerto,2023,kabupaten,RENDAH
+3577,0.4438,Jawa Timur,Kota Madiun,2023,kabupaten,SEDANG
+3578,0.5382,Jawa Timur,Kota Surabaya,2023,kabupaten,SEDANG
+3579,0.616683333,Jawa Timur,Kota Batu,2023,kabupaten,SEDANG
+3601,0.769117647,Banten,Pandeglang,2023,kabupaten,SEDANG
+3602,0.6258,Banten,Lebak,2023,kabupaten,SEDANG
+3603,0.690375,Banten,Tangerang,2023,kabupaten,SEDANG
+3604,0.680467647,Banten,Serang,2023,kabupaten,SEDANG
+3671,0.59265,Banten,Kota Tangerang,2023,kabupaten,SEDANG
+3672,0.564283333,Banten,Kota Cilegon,2023,kabupaten,SEDANG
+3673,0.5811,Banten,Kota Serang,2023,kabupaten,SEDANG
+3674,0.577544444,Banten,Kota Tangerang Selatan,2023,kabupaten,SEDANG
+5101,0.43785,Bali,Jembrana,2023,kabupaten,SEDANG
+5102,0.4663,Bali,Tabanan,2023,kabupaten,SEDANG
+5103,0.54535,Bali,Badung,2023,kabupaten,SEDANG
+5104,0.362066667,Bali,Gianyar,2023,kabupaten,RENDAH
+5105,0.486879412,Bali,Klungkung,2023,kabupaten,SEDANG
+5106,0.4227,Bali,Bangli,2023,kabupaten,SEDANG
+5107,0.577079412,Bali,Karangasem,2023,kabupaten,SEDANG
+5108,0.60735,Bali,Buleleng,2023,kabupaten,SEDANG
+5171,0.64435,Bali,Kota Denpasar,2023,kabupaten,SEDANG
+5201,0.7599,Nusa Tenggara Barat,Lombok Barat,2023,kabupaten,SEDANG
+5203,0.582776471,Nusa Tenggara Barat,Lombok Timur,2023,kabupaten,SEDANG
+5204,0.445602941,Nusa Tenggara Barat,Sumbawa,2023,kabupaten,SEDANG
+5205,0.541505882,Nusa Tenggara Barat,Dompu,2023,kabupaten,SEDANG
+5206,0.481905882,Nusa Tenggara Barat,Bima,2023,kabupaten,SEDANG
+5208,0.711194118,Nusa Tenggara Barat,Lombok Utara,2023,kabupaten,SEDANG
+5271,0.522982353,Nusa Tenggara Barat,Kota Mataram,2023,kabupaten,SEDANG
+5272,0.5925,Nusa Tenggara Barat,Kota Bima,2023,kabupaten,SEDANG
+5301,0.469331818,Nusa Tenggara Timur,Kupang,2023,kabupaten,SEDANG
+5302,0.4052,Nusa Tenggara Timur,Timor Tengah Selatan,2023,kabupaten,SEDANG
+5303,0.351988889,Nusa Tenggara Timur,Timor Tengah Utara,2023,kabupaten,RENDAH
+5304,0.366513636,Nusa Tenggara Timur,Belu,2023,kabupaten,RENDAH
+5305,0.549297059,Nusa Tenggara Timur,Alor,2023,kabupaten,SEDANG
+5306,0.486485294,Nusa Tenggara Timur,Flores Timur,2023,kabupaten,SEDANG
+5307,0.482108824,Nusa Tenggara Timur,Sikka,2023,kabupaten,SEDANG
+5308,0.516820588,Nusa Tenggara Timur,Ende,2023,kabupaten,SEDANG
+5309,0.427233333,Nusa Tenggara Timur,Ngada,2023,kabupaten,SEDANG
+5310,0.497155882,Nusa Tenggara Timur,Manggarai,2023,kabupaten,SEDANG
+5314,0.501733333,Nusa Tenggara Timur,Rote Ndao,2023,kabupaten,SEDANG
+5315,0.4969,Nusa Tenggara Timur,Manggarai Barat,2023,kabupaten,SEDANG
+5316,0.334416667,Nusa Tenggara Timur,Nagekeo,2023,kabupaten,RENDAH
+5317,,Nusa Tenggara Timur,Sumba Tengah,2023,kabupaten,
+5319,0.476311765,Nusa Tenggara Timur,Manggarai Timur,2023,kabupaten,SEDANG
+5320,0.25675,Nusa Tenggara Timur,Sabu Raijua,2023,kabupaten,RENDAH
+5321,0.377595455,Nusa Tenggara Timur,Malaka,2023,kabupaten,RENDAH
+5371,0.498433333,Nusa Tenggara Timur,Kota Kupang,2023,kabupaten,SEDANG
+6101,0.5155,Kalimantan Barat,Sambas,2023,kabupaten,SEDANG
+6102,0.37755,Kalimantan Barat,Mempawah,2023,kabupaten,RENDAH
+6103,0.35285,Kalimantan Barat,Sanggau,2023,kabupaten,RENDAH
+6104,0.502590909,Kalimantan Barat,Ketapang,2023,kabupaten,SEDANG
+6105,0.409409091,Kalimantan Barat,Sintang,2023,kabupaten,SEDANG
+6106,0.3804,Kalimantan Barat,Kapuas Hulu,2023,kabupaten,RENDAH
+6109,0.41495,Kalimantan Barat,Sekadau,2023,kabupaten,SEDANG
+6110,0.22205,Kalimantan Barat,Melawi,2023,kabupaten,RENDAH
+6111,0.443025,Kalimantan Barat,Kayong Utara,2023,kabupaten,SEDANG
+6112,0.2,Kalimantan Barat,Kubu Raya,2023,kabupaten,RENDAH
+6171,0.4315,Kalimantan Barat,Kota Pontianak,2023,kabupaten,SEDANG
+6172,0.25965,Kalimantan Barat,Kota Singkawang,2023,kabupaten,RENDAH
+6201,0.5641,Kalimantan Tengah,Kotawaringin Barat,2023,kabupaten,SEDANG
+6202,0.48555,Kalimantan Tengah,Kotawaringin Timur,2023,kabupaten,SEDANG
+6203,0.4577,Kalimantan Tengah,Kapuas,2023,kabupaten,SEDANG
+6204,0.42745,Kalimantan Tengah,Barito Selatan,2023,kabupaten,SEDANG
+6205,0.388966667,Kalimantan Tengah,Barito Utara,2023,kabupaten,RENDAH
+6206,0.484083333,Kalimantan Tengah,Katingan,2023,kabupaten,SEDANG
+6207,0.397033333,Kalimantan Tengah,Seruyan,2023,kabupaten,RENDAH
+6210,0.3644,Kalimantan Tengah,Gunung Mas,2023,kabupaten,RENDAH
+6211,,Kalimantan Tengah,Pulang Pisau,2023,kabupaten,
+6212,0.287825,Kalimantan Tengah,Murung Raya,2023,kabupaten,RENDAH
+6213,,Kalimantan Tengah,Barito Timur,2023,kabupaten,
+6271,0.548083333,Kalimantan Tengah,Kota Palangkaraya,2023,kabupaten,SEDANG
+6301,0.506616667,Kalimantan Selatan,Tanah Laut,2023,kabupaten,SEDANG
+6302,0.5794,Kalimantan Selatan,Kotabaru,2023,kabupaten,SEDANG
+6303,0.6064,Kalimantan Selatan,Banjar,2023,kabupaten,SEDANG
+6304,0.5532,Kalimantan Selatan,Barito Kuala,2023,kabupaten,SEDANG
+6305,0.560675,Kalimantan Selatan,Tapin,2023,kabupaten,SEDANG
+6306,0.46295,Kalimantan Selatan,Hulu Sungai Selatan,2023,kabupaten,SEDANG
+6307,0.4,Kalimantan Selatan,Hulu Sungai Tengah,2023,kabupaten,SEDANG
+6308,0.435275,Kalimantan Selatan,Hulu Sungai Utara,2023,kabupaten,SEDANG
+6309,0.5323,Kalimantan Selatan,Tabalong,2023,kabupaten,SEDANG
+6310,0.6072,Kalimantan Selatan,Tanah Bumbu,2023,kabupaten,SEDANG
+6311,0.555475,Kalimantan Selatan,Balangan,2023,kabupaten,SEDANG
+6371,0.552416667,Kalimantan Selatan,Kota Banjarmasin,2023,kabupaten,SEDANG
+6372,0.493825,Kalimantan Selatan,Kota Banjarbaru,2023,kabupaten,SEDANG
+6401,0.35005,Kalimantan Timur,Paser,2023,kabupaten,RENDAH
+6402,0.5239,Kalimantan Timur,Kutai Kartanegara,2023,kabupaten,SEDANG
+6403,0.46765,Kalimantan Timur,Berau,2023,kabupaten,SEDANG
+6407,0.36385,Kalimantan Timur,Kutai Barat,2023,kabupaten,RENDAH
+6408,0.3614,Kalimantan Timur,Kutai Timur,2023,kabupaten,RENDAH
+6409,0.529033333,Kalimantan Timur,Penajam Paser Utara,2023,kabupaten,SEDANG
+6411,0.3053,Kalimantan Timur,Mahakam Ulu,2023,kabupaten,RENDAH
+6471,0.596522727,Kalimantan Timur,Kota Balikpapan,2023,kabupaten,SEDANG
+6472,0.584575,Kalimantan Timur,Kota Samarinda,2023,kabupaten,SEDANG
+6474,0.457266667,Kalimantan Timur,Kota Bontang,2023,kabupaten,SEDANG
+6501,0.35075,Kalimantan Utara,Bulungan,2023,kabupaten,RENDAH
+6502,,Kalimantan Utara,Malinau,2023,kabupaten,
+6503,0.4759,Kalimantan Utara,Nunukan,2023,kabupaten,SEDANG
+6504,,Kalimantan Utara,Tana Tidung,2023,kabupaten,
+6571,0.611833333,Kalimantan Utara,Kota Tarakan,2023,kabupaten,SEDANG
+7101,0.6791,Sulawesi Utara,Bolaang Mongondow,2023,kabupaten,SEDANG
+7102,0.378797059,Sulawesi Utara,Minahasa,2023,kabupaten,RENDAH
+7103,0.322,Sulawesi Utara,Kepulauan Sangihe,2023,kabupaten,RENDAH
+7104,0.3529,Sulawesi Utara,Kepulauan Talaud,2023,kabupaten,RENDAH
+7105,0.441861765,Sulawesi Utara,Minahasa Selatan,2023,kabupaten,SEDANG
+7106,0.403626471,Sulawesi Utara,Minahasa Utara,2023,kabupaten,SEDANG
+7107,0.417664706,Sulawesi Utara,Minahasa Tenggara,2023,kabupaten,SEDANG
+7110,0.3902,Sulawesi Utara,Bolaang Mongondow Timur,2023,kabupaten,RENDAH
+7171,0.6403,Sulawesi Utara,Kota Manado,2023,kabupaten,SEDANG
+7172,0.606816667,Sulawesi Utara,Kota Bitung,2023,kabupaten,SEDANG
+7173,0.4104,Sulawesi Utara,Kota Tomohon,2023,kabupaten,SEDANG
+7174,0.44365,Sulawesi Utara,Kota Kotamobagu,2023,kabupaten,SEDANG
+7201,0.330481818,Sulawesi Tengah,Banggai,2023,kabupaten,RENDAH
+7202,0.4474,Sulawesi Tengah,Poso,2023,kabupaten,SEDANG
+7203,0.27415,Sulawesi Tengah,Donggala,2023,kabupaten,RENDAH
+7204,0.3371,Sulawesi Tengah,Toli Toli,2023,kabupaten,RENDAH
+7205,0.2051,Sulawesi Tengah,Buol,2023,kabupaten,RENDAH
+7208,0.65035,Sulawesi Tengah,Parigi Moutong,2023,kabupaten,SEDANG
+7209,0.2283,Sulawesi Tengah,Tojo Una Una,2023,kabupaten,RENDAH
+7210,0.458444118,Sulawesi Tengah,Sigi,2023,kabupaten,SEDANG
+7211,0.2166,Sulawesi Tengah,Banggai Laut,2023,kabupaten,RENDAH
+7212,0.2972,Sulawesi Tengah,Morowali Utara,2023,kabupaten,RENDAH
+7271,0.66665,Sulawesi Tengah,Kota Palu,2023,kabupaten,SEDANG
+7301,0.4054,Sulawesi Selatan,Kepulauan Selayar,2023,kabupaten,SEDANG
+7302,0.3734,Sulawesi Selatan,Bulukumba,2023,kabupaten,RENDAH
+7303,0.62725,Sulawesi Selatan,Bantaeng,2023,kabupaten,SEDANG
+7304,0.23465,Sulawesi Selatan,Jeneponto,2023,kabupaten,RENDAH
+7305,0.38335,Sulawesi Selatan,Takalar,2023,kabupaten,RENDAH
+7306,0.50675,Sulawesi Selatan,Gowa,2023,kabupaten,SEDANG
+7307,0.319058824,Sulawesi Selatan,Sinjai,2023,kabupaten,RENDAH
+7308,0.424296154,Sulawesi Selatan,Bone,2023,kabupaten,SEDANG
+7312,0.30585,Sulawesi Selatan,Soppeng,2023,kabupaten,RENDAH
+7313,0.5502,Sulawesi Selatan,Wajo,2023,kabupaten,SEDANG
+7314,0.28215,Sulawesi Selatan,Sidenreng Rappang,2023,kabupaten,RENDAH
+7315,0.48515,Sulawesi Selatan,Pinrang,2023,kabupaten,SEDANG
+7316,0.454177273,Sulawesi Selatan,Enrekang,2023,kabupaten,SEDANG
+7317,0.34795,Sulawesi Selatan,Luwu,2023,kabupaten,RENDAH
+7318,0.238008824,Sulawesi Selatan,Tana Toraja,2023,kabupaten,RENDAH
+7322,0.59,Sulawesi Selatan,Luwu Utara,2023,kabupaten,SEDANG
+7324,0.6006,Sulawesi Selatan,Luwu Timur,2023,kabupaten,SEDANG
+7326,0.271763636,Sulawesi Selatan,Toraja Utara,2023,kabupaten,RENDAH
+7371,0.45875,Sulawesi Selatan,Kota Makassar,2023,kabupaten,SEDANG
+7372,0.405166667,Sulawesi Selatan,Kota Parepare,2023,kabupaten,SEDANG
+7373,0.5565,Sulawesi Selatan,Kota Palopo,2023,kabupaten,SEDANG
+7401,0.42755,Sulawesi Tenggara,Kolaka,2023,kabupaten,SEDANG
+7402,0.2,Sulawesi Tenggara,Konawe,2023,kabupaten,RENDAH
+7403,,Sulawesi Tenggara,Muna,2023,kabupaten,
+7404,,Sulawesi Tenggara,Buton,2023,kabupaten,
+7405,0.433081818,Sulawesi Tenggara,Konawe Selatan,2023,kabupaten,SEDANG
+7406,0.39785,Sulawesi Tenggara,Bombana,2023,kabupaten,RENDAH
+7407,0.31855,Sulawesi Tenggara,Wakatobi,2023,kabupaten,RENDAH
+7408,0.35,Sulawesi Tenggara,Kolaka Utara,2023,kabupaten,RENDAH
+7409,0.3533,Sulawesi Tenggara,Konawe Utara,2023,kabupaten,RENDAH
+7410,,Sulawesi Tenggara,Buton Utara,2023,kabupaten,
+7411,0.3017,Sulawesi Tenggara,Kolaka Timur,2023,kabupaten,RENDAH
+7412,0.2,Sulawesi Tenggara,Konawe Kepulauan,2023,kabupaten,RENDAH
+7413,0.259,Sulawesi Tenggara,Muna Barat,2023,kabupaten,RENDAH
+7414,0.35625,Sulawesi Tenggara,Buton Tengah,2023,kabupaten,RENDAH
+7415,0.31135,Sulawesi Tenggara,Buton Selatan,2023,kabupaten,RENDAH
+7471,0.6362,Sulawesi Tenggara,Kota Kendari,2023,kabupaten,SEDANG
+7501,0.6836,Gorontalo,Gorontalo,2023,kabupaten,SEDANG
+7502,,Gorontalo,Boalemo,2023,kabupaten,
+7503,0.28045,Gorontalo,Bone Bolango,2023,kabupaten,RENDAH
+7505,0.3885,Gorontalo,Gorontalo Utara,2023,kabupaten,RENDAH
+7571,0.65785,Gorontalo,Kota Gorontalo,2023,kabupaten,SEDANG
+7601,0.25685,Sulawesi Barat,Pasangkayu,2023,kabupaten,RENDAH
+7602,0.2179,Sulawesi Barat,Mamuju,2023,kabupaten,RENDAH
+7603,0.403263636,Sulawesi Barat,Mamasa,2023,kabupaten,SEDANG
+7604,,Sulawesi Barat,Polewali Mandar,2023,kabupaten,
+7605,,Sulawesi Barat,Majene,2023,kabupaten,
+7606,0.42035,Sulawesi Barat,Mamuju Tengah,2023,kabupaten,SEDANG
+8101,0.449579412,Maluku,Maluku Tengah,2023,kabupaten,SEDANG
+8102,0.2427,Maluku,Maluku Tenggara,2023,kabupaten,RENDAH
+8104,0.3498,Maluku,Buru,2023,kabupaten,RENDAH
+8105,0.2414,Maluku,Seram Bagian Timur,2023,kabupaten,RENDAH
+8106,0.41285,Maluku,Seram Bagian Barat,2023,kabupaten,SEDANG
+8108,0.362144118,Maluku,Maluku Barat Daya,2023,kabupaten,RENDAH
+8109,0.32065,Maluku,Buru Selatan,2023,kabupaten,RENDAH
+8171,0.52195,Maluku,Kota Ambon,2023,kabupaten,SEDANG
+8172,0.2012,Maluku,Kota Tual,2023,kabupaten,RENDAH
+8201,0.273258824,Maluku Utara,Halmahera Barat,2023,kabupaten,RENDAH
+8202,0.1958,Maluku Utara,Halmahera Tengah,2023,kabupaten,RENDAH
+8203,0.446205882,Maluku Utara,Halmahera Utara,2023,kabupaten,SEDANG
+8204,0.348535294,Maluku Utara,Halmahera Selatan,2023,kabupaten,RENDAH
+8206,0.311975,Maluku Utara,Halmahera Timur,2023,kabupaten,RENDAH
+8207,0.4153,Maluku Utara,Pulau Morotai,2023,kabupaten,SEDANG
+8208,0.3041,Maluku Utara,Pulau Taliabu,2023,kabupaten,RENDAH
+8271,0.541859091,Maluku Utara,Kota Ternate,2023,kabupaten,SEDANG
+8272,0.2648,Maluku Utara,Kota Tidore Kepulauan,2023,kabupaten,RENDAH
+9103,0.2,Papua,Jayapura,2023,kabupaten,RENDAH
+9105,0.2,Papua,Kepulauan Yapen,2023,kabupaten,RENDAH
+9106,0.2,Papua,Biak Numfor,2023,kabupaten,RENDAH
+9110,0.23465,Papua,Sarmi,2023,kabupaten,RENDAH
+9111,0.2337,Papua,Keerom,2023,kabupaten,RENDAH
+9115,0.2,Papua,Waropen,2023,kabupaten,RENDAH
+9119,0.2,Papua,Supiori,2023,kabupaten,RENDAH
+9120,0.2,Papua,Mamberamo Raya,2023,kabupaten,RENDAH
+9171,0.62695,Papua,Kota Jayapura,2023,kabupaten,SEDANG
+9202,0.2157,Papua Barat,Manokwari,2023,kabupaten,RENDAH
+9203,0.2416,Papua Barat,Fak Fak,2023,kabupaten,RENDAH
+9206,0.212,Papua Barat,Teluk Bintuni,2023,kabupaten,RENDAH
+9207,0.36265,Papua Barat,Teluk Wondama,2023,kabupaten,RENDAH
+9208,0.29775,Papua Barat,Kaimana,2023,kabupaten,RENDAH
+9211,0.21345,Papua Barat,Manokwari Selatan,2023,kabupaten,RENDAH
+9212,0.2,Papua Barat,Pegunungan Arfak,2023,kabupaten,RENDAH
+9301,0.2,Papua Selatan,Merauke,2023,kabupaten,RENDAH
+9302,0.2,Papua Selatan,Boven Digoel,2023,kabupaten,RENDAH
+9303,0.2,Papua Selatan,Mappi,2023,kabupaten,RENDAH
+9304,0.2,Papua Selatan,Asmat,2023,kabupaten,RENDAH
+9401,0.349167647,Papua Tengah,Nabire,2023,kabupaten,RENDAH
+9402,0.2114,Papua Tengah,Puncak Jaya,2023,kabupaten,RENDAH
+9403,0.2,Papua Tengah,Paniai,2023,kabupaten,RENDAH
+9404,0.2,Papua Tengah,Mimika,2023,kabupaten,RENDAH
+9405,0.21,Papua Tengah,Puncak,2023,kabupaten,RENDAH
+9406,0.2,Papua Tengah,Dogiyai,2023,kabupaten,RENDAH
+9407,0.2,Papua Tengah,Intan Jaya,2023,kabupaten,RENDAH
+9408,0.2,Papua Tengah,Deiyai,2023,kabupaten,RENDAH
+9501,0.2,Papua Pegunungan,Jayawijaya,2023,kabupaten,RENDAH
+9502,0.2,Papua Pegunungan,Pegunungan Bintang,2023,kabupaten,RENDAH
+9503,0.2,Papua Pegunungan,Yahukimo,2023,kabupaten,RENDAH
+9504,0.2,Papua Pegunungan,Tolikara,2023,kabupaten,RENDAH
+9505,0.2,Papua Pegunungan,Mamberamo Tengah,2023,kabupaten,RENDAH
+9506,0.2,Papua Pegunungan,Yalimo,2023,kabupaten,RENDAH
+9507,0.2,Papua Pegunungan,Lanny Jaya,2023,kabupaten,RENDAH
+9508,0.2,Papua Pegunungan,Nduga,2023,kabupaten,RENDAH
+9601,0.26595,Papua Barat Daya,Sorong,2023,kabupaten,RENDAH
+9602,0.28785,Papua Barat Daya,Sorong Selatan,2023,kabupaten,RENDAH
+9603,0.35775,Papua Barat Daya,Raja Ampat,2023,kabupaten,RENDAH
+9604,0.28115,Papua Barat Daya,Tambrauw,2023,kabupaten,RENDAH
+9605,0.246,Papua Barat Daya,Maybrat,2023,kabupaten,RENDAH
+9671,0.34315,Papua Barat Daya,Kota Sorong,2023,kabupaten,RENDAH
+1101,0.300816667,Aceh,Aceh Selatan,2022,kabupaten,RENDAH
+1102,0.339405556,Aceh,Aceh Tenggara,2022,kabupaten,RENDAH
+1103,0.4175,Aceh,Aceh Timur,2022,kabupaten,SEDANG
+1104,0.3542,Aceh,Aceh Tengah,2022,kabupaten,RENDAH
+1106,0.338552941,Aceh,Aceh Besar,2022,kabupaten,RENDAH
+1107,0.289817647,Aceh,Pidie,2022,kabupaten,RENDAH
+1108,0.35455,Aceh,Aceh Utara,2022,kabupaten,RENDAH
+1114,0.375433333,Aceh,Aceh Jaya,2022,kabupaten,RENDAH
+1116,,Aceh,Aceh Tamiang,2022,kabupaten,
+1117,0.367666667,Aceh,Bener Meriah,2022,kabupaten,RENDAH
+1118,0.27205,Aceh,Pidie Jaya,2022,kabupaten,RENDAH
+1171,0.591,Aceh,Kota Banda Aceh,2022,kabupaten,SEDANG
+1172,0.29695,Aceh,Kota Sabang,2022,kabupaten,RENDAH
+1173,0.407283333,Aceh,Kota Lhokseumawe,2022,kabupaten,SEDANG
+1174,,Aceh,Kota Langsa,2022,kabupaten,
+1175,0.308640909,Aceh,Kota Subulussalam,2022,kabupaten,RENDAH
+1201,0.2812,Sumatera Utara,Tapanuli Tengah,2022,kabupaten,RENDAH
+1202,0.305716667,Sumatera Utara,Tapanuli Utara,2022,kabupaten,RENDAH
+1203,0.424576471,Sumatera Utara,Tapanuli Selatan,2022,kabupaten,SEDANG
+1204,,Sumatera Utara,Nias,2022,kabupaten,
+1205,0.240788889,Sumatera Utara,Langkat,2022,kabupaten,RENDAH
+1206,0.447281818,Sumatera Utara,Karo,2022,kabupaten,SEDANG
+1207,0.23235,Sumatera Utara,Deli Serdang,2022,kabupaten,RENDAH
+1208,0.3029,Sumatera Utara,Simalungun,2022,kabupaten,RENDAH
+1209,,Sumatera Utara,Asahan,2022,kabupaten,
+1214,0.32435,Sumatera Utara,Nias Selatan,2022,kabupaten,RENDAH
+1215,0.36965,Sumatera Utara,Pakpak Bharat,2022,kabupaten,RENDAH
+1216,,Sumatera Utara,Humbang Hasundutan,2022,kabupaten,
+1217,0.2571,Sumatera Utara,Samosir,2022,kabupaten,RENDAH
+1218,0.36605,Sumatera Utara,Serdang Bedagai,2022,kabupaten,RENDAH
+1219,0.24195,Sumatera Utara,Batu Bara,2022,kabupaten,RENDAH
+1220,0.32205,Sumatera Utara,Padang Lawas Utara,2022,kabupaten,RENDAH
+1221,0.331509091,Sumatera Utara,Padang Lawas,2022,kabupaten,RENDAH
+1222,0.2243,Sumatera Utara,Labuhanbatu Selatan,2022,kabupaten,RENDAH
+1223,0.23145,Sumatera Utara,Labuhanbatu Utara,2022,kabupaten,RENDAH
+1224,0.26115,Sumatera Utara,Nias Utara,2022,kabupaten,RENDAH
+1225,0.2472,Sumatera Utara,Nias Barat,2022,kabupaten,RENDAH
+1271,0.6199,Sumatera Utara,Kota Medan,2022,kabupaten,SEDANG
+1272,0.29025,Sumatera Utara,Kota Pematangsiantar,2022,kabupaten,RENDAH
+1275,0.31125,Sumatera Utara,Kota Binjai,2022,kabupaten,RENDAH
+1277,0.2597,Sumatera Utara,Kota Padang Sidempuan,2022,kabupaten,RENDAH
+1278,0.2975,Sumatera Utara,Kota Gunungsitoli,2022,kabupaten,RENDAH
+1301,0.533894118,Sumatera Barat,Pesisir Selatan,2022,kabupaten,SEDANG
+1371,0.35405,Sumatera Barat,Kota Padang,2022,kabupaten,RENDAH
+1372,0.43,Sumatera Barat,Kota Solok,2022,kabupaten,SEDANG
+1373,0.501522727,Sumatera Barat,Kota Sawahlunto,2022,kabupaten,SEDANG
+1375,0.3399,Sumatera Barat,Kota Bukittinggi,2022,kabupaten,RENDAH
+1376,0.2802,Sumatera Barat,Kota Payakumbuh,2022,kabupaten,RENDAH
+1377,0.442525,Sumatera Barat,Kota Pariaman,2022,kabupaten,SEDANG
+1401,0.44995,Riau,Kampar,2022,kabupaten,SEDANG
+1402,0.32345,Riau,Indragiri Hulu,2022,kabupaten,RENDAH
+1403,0.483477273,Riau,Bengkalis,2022,kabupaten,SEDANG
+1406,0.288431818,Riau, Rokan Hulu,2022,kabupaten,RENDAH
+1407,0.39125,Riau, Rokan Hilir,2022,kabupaten,RENDAH
+1410,0.32,Riau,Kepulauan Meranti,2022,kabupaten,RENDAH
+1471,0.30455,Riau,Kota Pekanbaru,2022,kabupaten,RENDAH
+1472,0.303727778,Riau,Kota Dumai,2022,kabupaten,RENDAH
+15,0.47885,Jambi,Jambi,2022,provinsi,SEDANG
+1501,0.47495,Jambi, Kerinci,2022,kabupaten,SEDANG
+1502,0.2579,Jambi, Merangin,2022,kabupaten,RENDAH
+1503,0.355990909,Jambi,Sarolangun,2022,kabupaten,RENDAH
+1504,0.29165,Jambi,Batanghari,2022,kabupaten,RENDAH
+1505,0.3674,Jambi, Muaro Jambi,2022,kabupaten,RENDAH
+1506,0.5164,Jambi,Tanjung Jabung Barat,2022,kabupaten,SEDANG
+1507,,Jambi,Tanjung Jabung Timur,2022,kabupaten,
+1508,0.35135,Jambi,Bungo,2022,kabupaten,RENDAH
+1509,,Jambi,Tebo,2022,kabupaten,
+1571,0.40705,Jambi,Kota Jambi,2022,kabupaten,SEDANG
+1572,0.4489,Jambi,Kota Sungai Penuh,2022,kabupaten,SEDANG
+1601,0.40735,Sumatera Selatan,Ogan Komering Ulu,2022,kabupaten,SEDANG
+1602,0.378975,Sumatera Selatan,Ogan Komering Ilir,2022,kabupaten,RENDAH
+1603,0.339681818,Sumatera Selatan,Muara Enim,2022,kabupaten,RENDAH
+1604,0.392425,Sumatera Selatan,Lahat,2022,kabupaten,RENDAH
+1605,0.3319,Sumatera Selatan,Musi Rawas,2022,kabupaten,RENDAH
+1606,0.427233333,Sumatera Selatan,Musi Banyuasin,2022,kabupaten,SEDANG
+1607,0.449866667,Sumatera Selatan,Banyuasin,2022,kabupaten,SEDANG
+1608,0.572663636,Sumatera Selatan,Ogan Komering Ulu Timur,2022,kabupaten,SEDANG
+1610,0.379633333,Sumatera Selatan,Ogan Ilir,2022,kabupaten,RENDAH
+1611,0.32425,Sumatera Selatan,Empat Lawang,2022,kabupaten,RENDAH
+1612,0.4427,Sumatera Selatan,Penukal Abab Lematang Ilir,2022,kabupaten,SEDANG
+1613,0.432825,Sumatera Selatan,Musi Rawas Utara,2022,kabupaten,SEDANG
+1671,0.2541,Sumatera Selatan,Kota Palembang,2022,kabupaten,RENDAH
+1672,0.249216667,Sumatera Selatan,Kota Pagar Alam,2022,kabupaten,RENDAH
+1673,0.31355,Sumatera Selatan,Kota Lubuk Linggau,2022,kabupaten,RENDAH
+1702,0.238725,Bengkulu,Rejang Lebong,2022,kabupaten,RENDAH
+1703,0.3383,Bengkulu,Bengkulu Utara,2022,kabupaten,RENDAH
+1704,0.4395,Bengkulu,Kaur,2022,kabupaten,SEDANG
+1705,0.42795,Bengkulu,Seluma,2022,kabupaten,SEDANG
+1707,0.374577273,Bengkulu,Lebong,2022,kabupaten,RENDAH
+1708,0.63935,Bengkulu,Kepahiang,2022,kabupaten,SEDANG
+1771,0.3445,Bengkulu,Kota Bengkulu,2022,kabupaten,RENDAH
+18,0.529888235,Lampung,Lampung,2022,provinsi,SEDANG
+1801,0.401688462,Lampung,Lampung Selatan,2022,kabupaten,SEDANG
+1802,0.435,Lampung,Lampung Tengah,2022,kabupaten,SEDANG
+1803,0.2733,Lampung,Lampung Utara,2022,kabupaten,RENDAH
+1805,0.4498,Lampung,Tulang Bawang,2022,kabupaten,SEDANG
+1809,0.38145,Lampung,Pesawaran,2022,kabupaten,RENDAH
+1810,0.26045,Lampung,Pringsewu,2022,kabupaten,RENDAH
+1811,0.322933333,Lampung,Mesuji,2022,kabupaten,RENDAH
+1812,0.3231,Lampung,Tulang Bawang Barat,2022,kabupaten,RENDAH
+1813,0.26485,Lampung,Pesisir Barat,2022,kabupaten,RENDAH
+1871,0.761526471,Lampung,Kota Bandar Lampung,2022,kabupaten,SEDANG
+1872,0.5004,Lampung,Kota Metro,2022,kabupaten,SEDANG
+19,0.33640000004500004,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,2022,provinsi,RENDAH
+1901,0.28505,Kepulauan Bangka Belitung,Bangka,2022,kabupaten,RENDAH
+1902,0.488327273,Kepulauan Bangka Belitung,Belitung,2022,kabupaten,SEDANG
+1903,0.315181818,Kepulauan Bangka Belitung,Bangka Selatan,2022,kabupaten,RENDAH
+1904,0.30625,Kepulauan Bangka Belitung,Bangka Tengah,2022,kabupaten,RENDAH
+1906,0.27775,Kepulauan Bangka Belitung,Belitung Timur,2022,kabupaten,RENDAH
+1971,0.2829,Kepulauan Bangka Belitung,Kota Pangkal Pinang,2022,kabupaten,RENDAH
+2101,0.30165,Kepulauan Riau,Bintan,2022,kabupaten,RENDAH
+2102,,Kepulauan Riau,Karimun,2022,kabupaten,
+2103,0.209,Kepulauan Riau,Natuna,2022,kabupaten,RENDAH
+2104,0.38465,Kepulauan Riau,Lingga,2022,kabupaten,RENDAH
+2105,0.46515,Kepulauan Riau,Kepulauan Anambas,2022,kabupaten,SEDANG
+2171,0.53785,Kepulauan Riau,Kota Batam,2022,kabupaten,SEDANG
+2172,0.21495,Kepulauan Riau,Kota Tanjung Pinang,2022,kabupaten,RENDAH
+31,0.5153,DKI Jakarta,DKI Jakarta,2022,provinsi,SEDANG
+3201,0.51175,Jawa Barat,Bogor,2022,kabupaten,SEDANG
+3202,0.430894118,Jawa Barat,Sukabumi,2022,kabupaten,SEDANG
+3203,0.497964706,Jawa Barat,Cianjur,2022,kabupaten,SEDANG
+3204,0.51635,Jawa Barat,Bandung,2022,kabupaten,SEDANG
+3205,0.650317647,Jawa Barat,Garut,2022,kabupaten,SEDANG
+3206,0.499473529,Jawa Barat,Tasikmalaya,2022,kabupaten,SEDANG
+3207,0.637972727,Jawa Barat,Ciamis,2022,kabupaten,SEDANG
+3208,0.683766667,Jawa Barat,Kuningan,2022,kabupaten,SEDANG
+3209,0.49845,Jawa Barat,Cirebon,2022,kabupaten,SEDANG
+3210,0.6224,Jawa Barat,Majalengka,2022,kabupaten,SEDANG
+3211,0.492504546,Jawa Barat,Sumedang,2022,kabupaten,SEDANG
+3212,0.640440909,Jawa Barat,Indramayu,2022,kabupaten,SEDANG
+3213,0.43355,Jawa Barat,Subang,2022,kabupaten,SEDANG
+3214,0.40575,Jawa Barat,Purwakarta,2022,kabupaten,SEDANG
+3215,0.4046,Jawa Barat,Karawang,2022,kabupaten,SEDANG
+3216,0.483033333,Jawa Barat,Bekasi,2022,kabupaten,SEDANG
+3217,0.47275,Jawa Barat,Bandung Barat,2022,kabupaten,SEDANG
+3218,0.68025,Jawa Barat,Pangandaran,2022,kabupaten,SEDANG
+3271,0.742233333,Jawa Barat,Kota Bogor,2022,kabupaten,SEDANG
+3272,0.5263,Jawa Barat,Kota Sukabumi,2022,kabupaten,SEDANG
+3273,0.5931,Jawa Barat,Kota Bandung,2022,kabupaten,SEDANG
+3274,0.57255,Jawa Barat,Kota Cirebon,2022,kabupaten,SEDANG
+3275,0.3289,Jawa Barat,Kota Bekasi,2022,kabupaten,RENDAH
+3276,0.5288,Jawa Barat,Kota Depok,2022,kabupaten,SEDANG
+3277,0.65405,Jawa Barat,Kota Cimahi,2022,kabupaten,SEDANG
+3278,0.3546,Jawa Barat,Kota Tasikmalaya,2022,kabupaten,RENDAH
+3279,0.388277273,Jawa Barat,Kota Banjar,2022,kabupaten,RENDAH
+33,0.832511765,Jawa Tengah,Jawa Tengah,2022,provinsi,TINGGI
+3301,0.8398,Jawa Tengah,Cilacap,2022,kabupaten,TINGGI
+3302,0.79535,Jawa Tengah,Banyumas,2022,kabupaten,SEDANG
+3303,0.4268,Jawa Tengah,Purbalingga,2022,kabupaten,SEDANG
+3304,0.7864,Jawa Tengah,Banjarnegara,2022,kabupaten,SEDANG
+3305,0.90285,Jawa Tengah,Kebumen,2022,kabupaten,TINGGI
+3306,0.6936,Jawa Tengah,Purworejo,2022,kabupaten,SEDANG
+3307,0.84055,Jawa Tengah,Wonosobo,2022,kabupaten,TINGGI
+3308,0.9486,Jawa Tengah,Magelang,2022,kabupaten,TINGGI
+3310,0.937766667,Jawa Tengah,Klaten,2022,kabupaten,TINGGI
+3311,0.561938889,Jawa Tengah,Sukoharjo,2022,kabupaten,SEDANG
+3312,0.6531,Jawa Tengah,Wonogiri,2022,kabupaten,SEDANG
+3313,0.794440909,Jawa Tengah,Karanganyar,2022,kabupaten,SEDANG
+3314,0.42215,Jawa Tengah,Sragen,2022,kabupaten,SEDANG
+3315,0.806781818,Jawa Tengah,Grobogan,2022,kabupaten,TINGGI
+3316,0.5247,Jawa Tengah,Blora,2022,kabupaten,SEDANG
+3317,0.64665,Jawa Tengah,Rembang,2022,kabupaten,SEDANG
+3318,0.36795,Jawa Tengah,Pati,2022,kabupaten,RENDAH
+3319,0.6532,Jawa Tengah,Kudus,2022,kabupaten,SEDANG
+3320,0.570277273,Jawa Tengah,Jepara,2022,kabupaten,SEDANG
+3321,0.587811111,Jawa Tengah,Demak,2022,kabupaten,SEDANG
+3322,0.7466,Jawa Tengah,Semarang,2022,kabupaten,SEDANG
+3323,0.544533333,Jawa Tengah,Temanggung,2022,kabupaten,SEDANG
+3324,0.58575,Jawa Tengah,Kendal,2022,kabupaten,SEDANG
+3325,0.396129412,Jawa Tengah,Batang,2022,kabupaten,RENDAH
+3326,0.446277273,Jawa Tengah,Pekalongan,2022,kabupaten,SEDANG
+3328,0.684823529,Jawa Tengah,Tegal,2022,kabupaten,SEDANG
+3329,0.537134615,Jawa Tengah,Brebes,2022,kabupaten,SEDANG
+3371,0.3226,Jawa Tengah,Kota Magelang,2022,kabupaten,RENDAH
+3372,0.806172222,Jawa Tengah,Kota Surakarta,2022,kabupaten,TINGGI
+3373,0.32625,Jawa Tengah,Kota Salatiga,2022,kabupaten,RENDAH
+3374,0.6472,Jawa Tengah,Kota Semarang,2022,kabupaten,SEDANG
+3376,0.479016667,Jawa Tengah,Kota Tegal,2022,kabupaten,SEDANG
+3401,0.626544118,Daerah Istimewa Yogyakarta,Kulon Progo,2022,kabupaten,SEDANG
+3402,0.49615,Daerah Istimewa Yogyakarta,Bantul,2022,kabupaten,SEDANG
+3403,0.664516667,Daerah Istimewa Yogyakarta,Gunungkidul,2022,kabupaten,SEDANG
+3404,0.600916667,Daerah Istimewa Yogyakarta,Sleman,2022,kabupaten,SEDANG
+3471,0.6474,Daerah Istimewa Yogyakarta,Kota Yogyakarta,2022,kabupaten,SEDANG
+3501,0.65795,Jawa Timur,Pacitan,2022,kabupaten,SEDANG
+3502,0.545509091,Jawa Timur,Ponorogo,2022,kabupaten,SEDANG
+3503,0.6081,Jawa Timur,Trenggalek,2022,kabupaten,SEDANG
+3504,0.6483,Jawa Timur,Tulungagung,2022,kabupaten,SEDANG
+3505,0.612341177,Jawa Timur,Blitar,2022,kabupaten,SEDANG
+3506,0.59,Jawa Timur,Kediri,2022,kabupaten,SEDANG
+3507,0.580479412,Jawa Timur,Malang,2022,kabupaten,SEDANG
+3508,0.749635294,Jawa Timur,Lumajang,2022,kabupaten,SEDANG
+3509,0.571914706,Jawa Timur,Jember,2022,kabupaten,SEDANG
+3510,0.702729412,Jawa Timur,Banyuwangi,2022,kabupaten,SEDANG
+3511,0.57015,Jawa Timur,Bondowoso,2022,kabupaten,SEDANG
+3512,0.643383333,Jawa Timur,Situbondo,2022,kabupaten,SEDANG
+3513,0.589226471,Jawa Timur,Probolinggo,2022,kabupaten,SEDANG
+3514,0.72045,Jawa Timur,Pasuruan,2022,kabupaten,SEDANG
+3515,0.729244444,Jawa Timur,Sidoarjo,2022,kabupaten,SEDANG
+3516,0.6573,Jawa Timur,Mojokerto,2022,kabupaten,SEDANG
+3517,0.434281818,Jawa Timur,Jombang,2022,kabupaten,SEDANG
+3518,0.572204545,Jawa Timur,Nganjuk,2022,kabupaten,SEDANG
+3519,0.541240909,Jawa Timur,Madiun,2022,kabupaten,SEDANG
+3520,0.61025,Jawa Timur,Magetan,2022,kabupaten,SEDANG
+3521,0.4123,Jawa Timur,Ngawi,2022,kabupaten,SEDANG
+3522,0.574013636,Jawa Timur,Bojonegoro,2022,kabupaten,SEDANG
+3523,0.493622727,Jawa Timur,Tuban,2022,kabupaten,SEDANG
+3524,0.593490909,Jawa Timur,Lamongan,2022,kabupaten,SEDANG
+3525,0.520375,Jawa Timur,Gresik,2022,kabupaten,SEDANG
+3526,0.499809091,Jawa Timur,Bangkalan,2022,kabupaten,SEDANG
+3527,0.507516667,Jawa Timur,Sampang,2022,kabupaten,SEDANG
+3528,0.672066667,Jawa Timur,Pamekasan,2022,kabupaten,SEDANG
+3529,0.53215,Jawa Timur,Sumenep,2022,kabupaten,SEDANG
+3571,0.706205556,Jawa Timur,Kota Kediri,2022,kabupaten,SEDANG
+3572,0.372433333,Jawa Timur,Kota Blitar,2022,kabupaten,RENDAH
+3573,0.5991,Jawa Timur,Kota Malang,2022,kabupaten,SEDANG
+3574,0.569572727,Jawa Timur,Kota Probolinggo,2022,kabupaten,SEDANG
+3575,0.5939,Jawa Timur,Kota Pasuruan,2022,kabupaten,SEDANG
+3576,0.251,Jawa Timur,Kota Mojokerto,2022,kabupaten,RENDAH
+3577,0.44655,Jawa Timur,Kota Madiun,2022,kabupaten,SEDANG
+3578,0.43105,Jawa Timur,Kota Surabaya,2022,kabupaten,SEDANG
+3579,0.6204,Jawa Timur,Kota Batu,2022,kabupaten,SEDANG
+3601,0.753126471,Banten,Pandeglang,2022,kabupaten,SEDANG
+3602,0.56165,Banten,Lebak,2022,kabupaten,SEDANG
+3603,0.70415,Banten,Tangerang,2022,kabupaten,SEDANG
+3604,0.636867647,Banten,Serang,2022,kabupaten,SEDANG
+3671,0.55215,Banten,Kota Tangerang,2022,kabupaten,SEDANG
+3672,0.567283333,Banten,Kota Cilegon,2022,kabupaten,SEDANG
+3673,0.468,Banten,Kota Serang,2022,kabupaten,SEDANG
+3674,0.531255556,Banten,Kota Tangerang Selatan,2022,kabupaten,SEDANG
+5101,0.42835,Bali,Jembrana,2022,kabupaten,SEDANG
+5102,0.4614,Bali,Tabanan,2022,kabupaten,SEDANG
+5104,0.343116667,Bali,Gianyar,2022,kabupaten,RENDAH
+5105,0.487029412,Bali,Klungkung,2022,kabupaten,SEDANG
+5106,0.4217,Bali,Bangli,2022,kabupaten,SEDANG
+5107,0.574738235,Bali,Karangasem,2022,kabupaten,SEDANG
+5108,0.5876,Bali,Buleleng,2022,kabupaten,SEDANG
+5171,0.544875,Bali,Kota Denpasar,2022,kabupaten,SEDANG
+5201,0.72015,Nusa Tenggara Barat,Lombok Barat,2022,kabupaten,SEDANG
+5202,0.492076471,Nusa Tenggara Barat,Lombok Tengah,2022,kabupaten,SEDANG
+5203,0.570367647,Nusa Tenggara Barat,Lombok Timur,2022,kabupaten,SEDANG
+5205,0.523897059,Nusa Tenggara Barat,Dompu,2022,kabupaten,SEDANG
+5206,0.480555882,Nusa Tenggara Barat,Bima,2022,kabupaten,SEDANG
+5208,0.732220588,Nusa Tenggara Barat,Lombok Utara,2022,kabupaten,SEDANG
+5272,0.586767647,Nusa Tenggara Barat,Kota Bima,2022,kabupaten,SEDANG
+5305,0.537238235,Nusa Tenggara Timur,Alor,2022,kabupaten,SEDANG
+5307,0.482108824,Nusa Tenggara Timur,Sikka,2022,kabupaten,SEDANG
+5308,0.501470588,Nusa Tenggara Timur,Ende,2022,kabupaten,SEDANG
+5309,0.348016667,Nusa Tenggara Timur,Ngada,2022,kabupaten,RENDAH
+5310,0.473938235,Nusa Tenggara Timur,Manggarai,2022,kabupaten,SEDANG
+5314,0.473416667,Nusa Tenggara Timur,Rote Ndao,2022,kabupaten,SEDANG
+5315,0.4514,Nusa Tenggara Timur,Manggarai Barat,2022,kabupaten,SEDANG
+5317,,Nusa Tenggara Timur,Sumba Tengah,2022,kabupaten,
+5319,0.401817647,Nusa Tenggara Timur,Manggarai Timur,2022,kabupaten,SEDANG
+5321,0.3462,Nusa Tenggara Timur,Malaka,2022,kabupaten,RENDAH
+5371,0.43205,Nusa Tenggara Timur,Kota Kupang,2022,kabupaten,SEDANG
+6101,0.5155,Kalimantan Barat,Sambas,2022,kabupaten,SEDANG
+6102,0.3797,Kalimantan Barat,Mempawah,2022,kabupaten,RENDAH
+6103,0.373536364,Kalimantan Barat,Sanggau,2022,kabupaten,RENDAH
+6105,0.2531,Kalimantan Barat,Sintang,2022,kabupaten,RENDAH
+6106,0.369513636,Kalimantan Barat,Kapuas Hulu,2022,kabupaten,RENDAH
+6109,0.42195,Kalimantan Barat,Sekadau,2022,kabupaten,SEDANG
+6110,0.22205,Kalimantan Barat,Melawi,2022,kabupaten,RENDAH
+6111,0.48675,Kalimantan Barat,Kayong Utara,2022,kabupaten,SEDANG
+6172,0.25965,Kalimantan Barat,Kota Singkawang,2022,kabupaten,RENDAH
+6201,0.5023,Kalimantan Tengah,Kotawaringin Barat,2022,kabupaten,SEDANG
+6202,0.48555,Kalimantan Tengah,Kotawaringin Timur,2022,kabupaten,SEDANG
+6203,0.4577,Kalimantan Tengah,Kapuas,2022,kabupaten,SEDANG
+6204,0.42745,Kalimantan Tengah,Barito Selatan,2022,kabupaten,SEDANG
+6205,0.388966667,Kalimantan Tengah,Barito Utara,2022,kabupaten,RENDAH
+6206,0.363354545,Kalimantan Tengah,Katingan,2022,kabupaten,RENDAH
+6207,0.356066667,Kalimantan Tengah,Seruyan,2022,kabupaten,RENDAH
+6210,0.294075,Kalimantan Tengah,Gunung Mas,2022,kabupaten,RENDAH
+6211,,Kalimantan Tengah,Pulang Pisau,2022,kabupaten,
+6212,0.287825,Kalimantan Tengah,Murung Raya,2022,kabupaten,RENDAH
+6213,,Kalimantan Tengah,Barito Timur,2022,kabupaten,
+6271,0.548083333,Kalimantan Tengah,Kota Palangkaraya,2022,kabupaten,SEDANG
+6301,0.54295,Kalimantan Selatan,Tanah Laut,2022,kabupaten,SEDANG
+6302,0.4812,Kalimantan Selatan,Kotabaru,2022,kabupaten,SEDANG
+6303,0.4901,Kalimantan Selatan,Banjar,2022,kabupaten,SEDANG
+6304,0.58425,Kalimantan Selatan,Barito Kuala,2022,kabupaten,SEDANG
+6305,0.623275,Kalimantan Selatan,Tapin,2022,kabupaten,SEDANG
+6306,0.3851,Kalimantan Selatan,Hulu Sungai Selatan,2022,kabupaten,RENDAH
+6307,0.4,Kalimantan Selatan,Hulu Sungai Tengah,2022,kabupaten,SEDANG
+6308,0.3078,Kalimantan Selatan,Hulu Sungai Utara,2022,kabupaten,RENDAH
+6309,0.54295,Kalimantan Selatan,Tabalong,2022,kabupaten,SEDANG
+6310,0.61675,Kalimantan Selatan,Tanah Bumbu,2022,kabupaten,SEDANG
+6311,0.426066667,Kalimantan Selatan,Balangan,2022,kabupaten,SEDANG
+6371,0.5615,Kalimantan Selatan,Kota Banjarmasin,2022,kabupaten,SEDANG
+6372,0.51785,Kalimantan Selatan,Kota Banjarbaru,2022,kabupaten,SEDANG
+6401,0.313675,Kalimantan Timur,Paser,2022,kabupaten,RENDAH
+6402,0.45725,Kalimantan Timur,Kutai Kartanegara,2022,kabupaten,SEDANG
+6403,0.4195,Kalimantan Timur,Berau,2022,kabupaten,SEDANG
+6407,0.3427,Kalimantan Timur,Kutai Barat,2022,kabupaten,RENDAH
+6408,0.37855,Kalimantan Timur,Kutai Timur,2022,kabupaten,RENDAH
+6409,0.421527778,Kalimantan Timur,Penajam Paser Utara,2022,kabupaten,SEDANG
+6411,0.24695,Kalimantan Timur,Mahakam Ulu,2022,kabupaten,RENDAH
+6471,0.632116667,Kalimantan Timur,Kota Balikpapan,2022,kabupaten,SEDANG
+6472,0.591975,Kalimantan Timur,Kota Samarinda,2022,kabupaten,SEDANG
+6474,0.525063636,Kalimantan Timur,Kota Bontang,2022,kabupaten,SEDANG
+6504,,Kalimantan Utara,Tana Tidung,2022,kabupaten,
+6571,0.396566667,Kalimantan Utara,Kota Tarakan,2022,kabupaten,RENDAH
+7101,0.6791,Sulawesi Utara,Bolaang Mongondow,2022,kabupaten,SEDANG
+7102,0.378797059,Sulawesi Utara,Minahasa,2022,kabupaten,RENDAH
+7103,0.31075,Sulawesi Utara,Kepulauan Sangihe,2022,kabupaten,RENDAH
+7104,0.3529,Sulawesi Utara,Kepulauan Talaud,2022,kabupaten,RENDAH
+7105,0.441861765,Sulawesi Utara,Minahasa Selatan,2022,kabupaten,SEDANG
+7106,0.380085294,Sulawesi Utara,Minahasa Utara,2022,kabupaten,RENDAH
+7107,0.601129412,Sulawesi Utara,Minahasa Tenggara,2022,kabupaten,SEDANG
+7110,0.3902,Sulawesi Utara,Bolaang Mongondow Timur,2022,kabupaten,RENDAH
+7171,0.60755,Sulawesi Utara,Kota Manado,2022,kabupaten,SEDANG
+7172,0.606816667,Sulawesi Utara,Kota Bitung,2022,kabupaten,SEDANG
+7173,0.4104,Sulawesi Utara,Kota Tomohon,2022,kabupaten,SEDANG
+7174,0.4197,Sulawesi Utara,Kota Kotamobagu,2022,kabupaten,SEDANG
+7201,0.30665,Sulawesi Tengah,Banggai,2022,kabupaten,RENDAH
+7202,0.447883333,Sulawesi Tengah,Poso,2022,kabupaten,SEDANG
+7204,0.4248,Sulawesi Tengah,Toli Toli,2022,kabupaten,SEDANG
+7205,0.2423,Sulawesi Tengah,Buol,2022,kabupaten,RENDAH
+7208,0.62695,Sulawesi Tengah,Parigi Moutong,2022,kabupaten,SEDANG
+7209,0.2364,Sulawesi Tengah,Tojo Una Una,2022,kabupaten,RENDAH
+7210,0.409209091,Sulawesi Tengah,Sigi,2022,kabupaten,SEDANG
+7212,0.291,Sulawesi Tengah,Morowali Utara,2022,kabupaten,RENDAH
+7271,0.521116667,Sulawesi Tengah,Kota Palu,2022,kabupaten,SEDANG
+7301,0.3536,Sulawesi Selatan,Kepulauan Selayar,2022,kabupaten,RENDAH
+7302,0.2953,Sulawesi Selatan,Bulukumba,2022,kabupaten,RENDAH
+7303,0.62725,Sulawesi Selatan,Bantaeng,2022,kabupaten,SEDANG
+7304,0.23465,Sulawesi Selatan,Jeneponto,2022,kabupaten,RENDAH
+7305,0.38335,Sulawesi Selatan,Takalar,2022,kabupaten,RENDAH
+7306,0.50675,Sulawesi Selatan,Gowa,2022,kabupaten,SEDANG
+7307,0.319058824,Sulawesi Selatan,Sinjai,2022,kabupaten,RENDAH
+7308,0.2854,Sulawesi Selatan,Bone,2022,kabupaten,RENDAH
+7309,,Sulawesi Selatan,Maros,2022,kabupaten,
+7312,0.295113636,Sulawesi Selatan,Soppeng,2022,kabupaten,RENDAH
+7313,0.2187,Sulawesi Selatan,Wajo,2022,kabupaten,RENDAH
+7314,0.28125,Sulawesi Selatan,Sidenreng Rappang,2022,kabupaten,RENDAH
+7315,0.48515,Sulawesi Selatan,Pinrang,2022,kabupaten,SEDANG
+7316,0.412805556,Sulawesi Selatan,Enrekang,2022,kabupaten,SEDANG
+7317,0.34795,Sulawesi Selatan,Luwu,2022,kabupaten,RENDAH
+7318,0.23845,Sulawesi Selatan,Tana Toraja,2022,kabupaten,RENDAH
+7322,0.538414706,Sulawesi Selatan,Luwu Utara,2022,kabupaten,SEDANG
+7324,0.4387,Sulawesi Selatan,Luwu Timur,2022,kabupaten,SEDANG
+7326,0.2639,Sulawesi Selatan,Toraja Utara,2022,kabupaten,RENDAH
+7371,0.45875,Sulawesi Selatan,Kota Makassar,2022,kabupaten,SEDANG
+7372,0.3736,Sulawesi Selatan,Kota Parepare,2022,kabupaten,RENDAH
+7373,0.430988235,Sulawesi Selatan,Kota Palopo,2022,kabupaten,SEDANG
+7403,,Sulawesi Tenggara,Muna,2022,kabupaten,
+7404,,Sulawesi Tenggara,Buton,2022,kabupaten,
+7405,0.412738889,Sulawesi Tenggara,Konawe Selatan,2022,kabupaten,SEDANG
+7406,0.37885,Sulawesi Tenggara,Bombana,2022,kabupaten,RENDAH
+7407,0.320225,Sulawesi Tenggara,Wakatobi,2022,kabupaten,RENDAH
+7408,0.274416667,Sulawesi Tenggara,Kolaka Utara,2022,kabupaten,RENDAH
+7409,0.39775,Sulawesi Tenggara,Konawe Utara,2022,kabupaten,RENDAH
+7410,,Sulawesi Tenggara,Buton Utara,2022,kabupaten,
+7413,0.259,Sulawesi Tenggara,Muna Barat,2022,kabupaten,RENDAH
+7414,0.31695,Sulawesi Tenggara,Buton Tengah,2022,kabupaten,RENDAH
+7471,0.5906,Sulawesi Tenggara,Kota Kendari,2022,kabupaten,SEDANG
+7472,0.26815,Sulawesi Tenggara,Kota Bau Bau,2022,kabupaten,RENDAH
+7502,,Gorontalo,Boalemo,2022,kabupaten,
+7503,0.27985,Gorontalo,Bone Bolango,2022,kabupaten,RENDAH
+7505,0.3523,Gorontalo,Gorontalo Utara,2022,kabupaten,RENDAH
+7571,0.6611,Gorontalo,Kota Gorontalo,2022,kabupaten,SEDANG
+7601,0.1958,Sulawesi Barat,Pasangkayu,2022,kabupaten,RENDAH
+7602,0.21395,Sulawesi Barat,Mamuju,2022,kabupaten,RENDAH
+7604,,Sulawesi Barat,Polewali Mandar,2022,kabupaten,
+7606,0.23335,Sulawesi Barat,Mamuju Tengah,2022,kabupaten,RENDAH
+8101,0.374917647,Maluku,Maluku Tengah,2022,kabupaten,RENDAH
+8104,0.3003,Maluku,Buru,2022,kabupaten,RENDAH
+8106,0.32465,Maluku,Seram Bagian Barat,2022,kabupaten,RENDAH
+8108,0.357626471,Maluku,Maluku Barat Daya,2022,kabupaten,RENDAH
+8171,0.43775,Maluku,Kota Ambon,2022,kabupaten,SEDANG
+82,0.2562,Maluku Utara,Maluku Utara,2022,provinsi,RENDAH
+8203,0.446205882,Maluku Utara,Halmahera Utara,2022,kabupaten,SEDANG
+8204,0.24165,Maluku Utara,Halmahera Selatan,2022,kabupaten,RENDAH
+8206,0.311975,Maluku Utara,Halmahera Timur,2022,kabupaten,RENDAH
+8207,0.4153,Maluku Utara,Pulau Morotai,2022,kabupaten,SEDANG
+8208,0.3041,Maluku Utara,Pulau Taliabu,2022,kabupaten,RENDAH
+8271,0.530940909,Maluku Utara,Kota Ternate,2022,kabupaten,SEDANG
+8272,0.255425,Maluku Utara,Kota Tidore Kepulauan,2022,kabupaten,RENDAH
+9111,0.23325,Papua,Keerom,2022,kabupaten,RENDAH
+9171,0.62695,Papua,Kota Jayapura,2022,kabupaten,SEDANG
+9203,0.2249,Papua Barat,Fak Fak,2022,kabupaten,RENDAH
+9208,0.279116667,Papua Barat,Kaimana,2022,kabupaten,RENDAH
+9211,0.2117,Papua Barat,Manokwari Selatan,2022,kabupaten,RENDAH
+9602,0.27185,Papua Barat Daya,Sorong Selatan,2022,kabupaten,RENDAH
+1101,0.31,Aceh,Aceh Selatan,2021,kabupaten,RENDAH
+1102,0.40725,Aceh,Aceh Tenggara,2021,kabupaten,SEDANG
+1103,0.40725,Aceh,Aceh Timur,2021,kabupaten,SEDANG
+1104,0.2184,Aceh,Aceh Tengah,2021,kabupaten,RENDAH
+1105,0.5569,Aceh,Aceh Barat,2021,kabupaten,SEDANG
+1106,0.356138235,Aceh,Aceh Besar,2021,kabupaten,RENDAH
+1107,0.26665,Aceh,Pidie,2021,kabupaten,RENDAH
+1108,0.3284,Aceh,Aceh Utara,2021,kabupaten,RENDAH
+1109,,Aceh,Simeulue,2021,kabupaten,
+1110,,Aceh,Aceh Singkil,2021,kabupaten,
+1111,,Aceh,Bireuen,2021,kabupaten,
+1112,0.346054546,Aceh,Aceh Barat Daya,2021,kabupaten,RENDAH
+1113,0.410918182,Aceh,Gayo Lues,2021,kabupaten,SEDANG
+1114,0.291,Aceh,Aceh Jaya,2021,kabupaten,RENDAH
+1115,0.39965,Aceh,Nagan Raya,2021,kabupaten,RENDAH
+1116,,Aceh,Aceh Tamiang,2021,kabupaten,
+1117,0.5462,Aceh,Bener Meriah,2021,kabupaten,SEDANG
+1118,0.361525,Aceh,Pidie Jaya,2021,kabupaten,RENDAH
+1171,0.35195,Aceh,Kota Banda Aceh,2021,kabupaten,RENDAH
+1172,0.45075,Aceh,Kota Sabang,2021,kabupaten,SEDANG
+1173,0.33145,Aceh,Kota Lhokseumawe,2021,kabupaten,RENDAH
+1174,,Aceh,Kota Langsa,2021,kabupaten,
+1175,0.277840909,Aceh,Kota Subulussalam,2021,kabupaten,RENDAH
+12,0.641676471,Sumatera Utara,Sumatera Utara,2021,provinsi,SEDANG
+1201,0.2133,Sumatera Utara,Tapanuli Tengah,2021,kabupaten,RENDAH
+1202,0.2604,Sumatera Utara,Tapanuli Utara,2021,kabupaten,RENDAH
+1203,0.2773,Sumatera Utara,Tapanuli Selatan,2021,kabupaten,RENDAH
+1204,,Sumatera Utara,Nias,2021,kabupaten,
+1205,0.2501,Sumatera Utara,Langkat,2021,kabupaten,RENDAH
+1206,0.22855,Sumatera Utara,Karo,2021,kabupaten,RENDAH
+1207,0.2091,Sumatera Utara,Deli Serdang,2021,kabupaten,RENDAH
+1208,0.3208,Sumatera Utara,Simalungun,2021,kabupaten,RENDAH
+1209,,Sumatera Utara,Asahan,2021,kabupaten,
+1210,,Sumatera Utara,Labuhanbatu,2021,kabupaten,
+1211,,Sumatera Utara,Dairi,2021,kabupaten,
+1212,,Sumatera Utara,Toba,2021,kabupaten,
+1213,,Sumatera Utara,Mandailing Natal,2021,kabupaten,
+1214,0.2183,Sumatera Utara,Nias Selatan,2021,kabupaten,RENDAH
+1215,0.2619,Sumatera Utara,Pakpak Bharat,2021,kabupaten,RENDAH
+1217,0.1976,Sumatera Utara,Samosir,2021,kabupaten,RENDAH
+1218,0.2463,Sumatera Utara,Serdang Bedagai,2021,kabupaten,RENDAH
+1219,0.24005,Sumatera Utara,Batu Bara,2021,kabupaten,RENDAH
+1220,0.28345,Sumatera Utara,Padang Lawas Utara,2021,kabupaten,RENDAH
+1221,0.23785,Sumatera Utara,Padang Lawas,2021,kabupaten,RENDAH
+1224,0.25915,Sumatera Utara,Nias Utara,2021,kabupaten,RENDAH
+1225,0.2197,Sumatera Utara,Nias Barat,2021,kabupaten,RENDAH
+1271,0.2399,Sumatera Utara,Kota Medan,2021,kabupaten,RENDAH
+1272,0.2224,Sumatera Utara,Kota Pematangsiantar,2021,kabupaten,RENDAH
+1273,,Sumatera Utara,Kota Sibolga,2021,kabupaten,
+1274,,Sumatera Utara,Kota Tanjung Balai,2021,kabupaten,
+1275,0.2084,Sumatera Utara,Kota Binjai,2021,kabupaten,RENDAH
+1276,,Sumatera Utara,Kota Tebing Tinggi,2021,kabupaten,
+1277,0.26685,Sumatera Utara,Kota Padang Sidempuan,2021,kabupaten,RENDAH
+1278,0.25005,Sumatera Utara,Kota Gunungsitoli,2021,kabupaten,RENDAH
+13,0.616279412,Sumatera Barat,Sumatera Barat,2021,provinsi,SEDANG
+1301,0.3527,Sumatera Barat,Pesisir Selatan,2021,kabupaten,RENDAH
+1302,0.1314,Sumatera Barat,Solok,2021,kabupaten,RENDAH
+1304,0.500005882,Sumatera Barat,Tanah Datar,2021,kabupaten,SEDANG
+1305,0.48365,Sumatera Barat,Padang Pariaman,2021,kabupaten,SEDANG
+1306,0.1314,Sumatera Barat,Agam,2021,kabupaten,RENDAH
+1307,0.3527,Sumatera Barat,Lima Puluh Kota,2021,kabupaten,RENDAH
+1308,0.26275,Sumatera Barat,Pasaman,2021,kabupaten,RENDAH
+1309,,Sumatera Barat,Kepulauan Mentawai,2021,kabupaten,
+1310,0.273375,Sumatera Barat,Dharmasraya,2021,kabupaten,RENDAH
+1311,,Sumatera Barat,Solok Selatan,2021,kabupaten,
+1371,0.1314,Sumatera Barat,Kota Padang,2021,kabupaten,RENDAH
+1372,0.1314,Sumatera Barat,Kota Solok,2021,kabupaten,RENDAH
+1373,0.388686364,Sumatera Barat,Kota Sawahlunto,2021,kabupaten,RENDAH
+1374,0.1314,Sumatera Barat,Kota Padang Panjang,2021,kabupaten,RENDAH
+1375,0.1314,Sumatera Barat,Kota Bukittinggi,2021,kabupaten,RENDAH
+1376,0.2267,Sumatera Barat,Kota Payakumbuh,2021,kabupaten,RENDAH
+1377,0.374575,Sumatera Barat,Kota Pariaman,2021,kabupaten,RENDAH
+14,0.430813636,Riau,Riau,2021,provinsi,SEDANG
+1401,0.36175,Riau,Kampar,2021,kabupaten,RENDAH
+1402,0.47165,Riau,Indragiri Hulu,2021,kabupaten,SEDANG
+1403,0.3638,Riau,Bengkalis,2021,kabupaten,RENDAH
+1404,,Riau,Indragiri Hilir,2021,kabupaten,
+1405,,Riau, Pelalawan,2021,kabupaten,
+1406,0.299122727,Riau, Rokan Hulu,2021,kabupaten,RENDAH
+1409,,Riau,Kuantan Singingi,2021,kabupaten,
+1410,0.20335,Riau,Kepulauan Meranti,2021,kabupaten,RENDAH
+1471,0.351375,Riau,Kota Pekanbaru,2021,kabupaten,RENDAH
+1501,0.3879,Jambi, Kerinci,2021,kabupaten,RENDAH
+1502,0.23465,Jambi, Merangin,2021,kabupaten,RENDAH
+1504,0.323,Jambi,Batanghari,2021,kabupaten,RENDAH
+1508,0.23635,Jambi,Bungo,2021,kabupaten,RENDAH
+1509,,Jambi,Tebo,2021,kabupaten,
+1571,0.1398,Jambi,Kota Jambi,2021,kabupaten,RENDAH
+1572,0.4381,Jambi,Kota Sungai Penuh,2021,kabupaten,SEDANG
+16,0.527883333,Sumatera Selatan,Sumatera Selatan,2021,provinsi,SEDANG
+1601,0.25125,Sumatera Selatan,Ogan Komering Ulu,2021,kabupaten,RENDAH
+1604,0.249025,Sumatera Selatan,Lahat,2021,kabupaten,RENDAH
+1606,0.269883333,Sumatera Selatan,Musi Banyuasin,2021,kabupaten,RENDAH
+1607,0.382716667,Sumatera Selatan,Banyuasin,2021,kabupaten,RENDAH
+1609,,Sumatera Selatan,Ogan Komering Ulu Selatan,2021,kabupaten,
+1611,0.29745,Sumatera Selatan,Empat Lawang,2021,kabupaten,RENDAH
+1671,0.2171,Sumatera Selatan,Kota Palembang,2021,kabupaten,RENDAH
+1673,0.27375,Sumatera Selatan,Kota Lubuk Linggau,2021,kabupaten,RENDAH
+1674,,Sumatera Selatan,Kota Prabumulih,2021,kabupaten,
+17,0.479411765,Bengkulu,Bengkulu,2021,provinsi,SEDANG
+1702,0.21675,Bengkulu,Rejang Lebong,2021,kabupaten,RENDAH
+1703,0.3118,Bengkulu,Bengkulu Utara,2021,kabupaten,RENDAH
+1704,0.2159,Bengkulu,Kaur,2021,kabupaten,RENDAH
+1707,0.31285,Bengkulu,Lebong,2021,kabupaten,RENDAH
+1708,0.2206,Bengkulu,Kepahiang,2021,kabupaten,RENDAH
+1709,0.24475,Bengkulu,Bengkulu Tengah,2021,kabupaten,RENDAH
+1771,0.20555,Bengkulu,Kota Bengkulu,2021,kabupaten,RENDAH
+18,0.389665385,Lampung,Lampung,2021,provinsi,RENDAH
+1801,0.1314,Lampung,Lampung Selatan,2021,kabupaten,RENDAH
+1802,0.1314,Lampung,Lampung Tengah,2021,kabupaten,RENDAH
+1803,,Lampung,Lampung Utara,2021,kabupaten,
+1804,,Lampung,Lampung Barat,2021,kabupaten,
+1805,0.1993,Lampung,Tulang Bawang,2021,kabupaten,RENDAH
+1806,,Lampung,Tanggamus,2021,kabupaten,
+1807,,Lampung,Lampung Timur,2021,kabupaten,
+1808,,Lampung,Way Kanan,2021,kabupaten,
+1809,0.1314,Lampung,Pesawaran,2021,kabupaten,RENDAH
+1811,0.18615,Lampung,Mesuji,2021,kabupaten,RENDAH
+1812,0.1314,Lampung,Tulang Bawang Barat,2021,kabupaten,RENDAH
+1813,0.1314,Lampung,Pesisir Barat,2021,kabupaten,RENDAH
+1871,0.1314,Lampung,Kota Bandar Lampung,2021,kabupaten,RENDAH
+1872,0.3634,Lampung,Kota Metro,2021,kabupaten,RENDAH
+19,0.28455,Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,2021,provinsi,RENDAH
+1905,,Kepulauan Bangka Belitung,Bangka Barat,2021,kabupaten,
+1971,0.25325,Kepulauan Bangka Belitung,Kota Pangkal Pinang,2021,kabupaten,RENDAH
+21,0.325,Kepulauan Riau,Kepulauan Riau,2021,provinsi,RENDAH
+2101,0.3452,Kepulauan Riau,Bintan,2021,kabupaten,RENDAH
+2102,,Kepulauan Riau,Karimun,2021,kabupaten,
+2103,0.2,Kepulauan Riau,Natuna,2021,kabupaten,RENDAH
+2104,0.372825,Kepulauan Riau,Lingga,2021,kabupaten,RENDAH
+2105,0.4064,Kepulauan Riau,Kepulauan Anambas,2021,kabupaten,SEDANG
+2171,0.4344,Kepulauan Riau,Kota Batam,2021,kabupaten,SEDANG
+2172,0.2108,Kepulauan Riau,Kota Tanjung Pinang,2021,kabupaten,RENDAH
+31,0.48665,DKI Jakarta,DKI Jakarta,2021,provinsi,SEDANG
+32,0.665476471,Jawa Barat,Jawa Barat,2021,provinsi,SEDANG
+3202,0.373835294,Jawa Barat,Sukabumi,2021,kabupaten,RENDAH
+3203,0.457179412,Jawa Barat,Cianjur,2021,kabupaten,SEDANG
+3205,0.328961765,Jawa Barat,Garut,2021,kabupaten,RENDAH
+3206,0.451547059,Jawa Barat,Tasikmalaya,2021,kabupaten,SEDANG
+3207,0.58365,Jawa Barat,Ciamis,2021,kabupaten,SEDANG
+3208,0.42865,Jawa Barat,Kuningan,2021,kabupaten,SEDANG
+3209,0.2986,Jawa Barat,Cirebon,2021,kabupaten,RENDAH
+3210,0.34415,Jawa Barat,Majalengka,2021,kabupaten,RENDAH
+3211,0.396454545,Jawa Barat,Sumedang,2021,kabupaten,RENDAH
+3212,0.364177273,Jawa Barat,Indramayu,2021,kabupaten,RENDAH
+3213,0.3642375,Jawa Barat,Subang,2021,kabupaten,RENDAH
+3214,0.384238889,Jawa Barat,Purwakarta,2021,kabupaten,RENDAH
+3215,0.299627778,Jawa Barat,Karawang,2021,kabupaten,RENDAH
+3216,0.368663636,Jawa Barat,Bekasi,2021,kabupaten,RENDAH
+3217,0.3499,Jawa Barat,Bandung Barat,2021,kabupaten,RENDAH
+3218,0.34365,Jawa Barat,Pangandaran,2021,kabupaten,RENDAH
+3272,0.45375,Jawa Barat,Kota Sukabumi,2021,kabupaten,SEDANG
+3273,0.348866667,Jawa Barat,Kota Bandung,2021,kabupaten,RENDAH
+3274,0.4389,Jawa Barat,Kota Cirebon,2021,kabupaten,SEDANG
+3275,0.364509091,Jawa Barat,Kota Bekasi,2021,kabupaten,RENDAH
+3276,0.355094444,Jawa Barat,Kota Depok,2021,kabupaten,RENDAH
+3277,0.485659091,Jawa Barat,Kota Cimahi,2021,kabupaten,SEDANG
+3278,0.27035,Jawa Barat,Kota Tasikmalaya,2021,kabupaten,RENDAH
+3279,0.2182,Jawa Barat,Kota Banjar,2021,kabupaten,RENDAH
+33,0.722617647,Jawa Tengah,Jawa Tengah,2021,provinsi,SEDANG
+3301,0.77515,Jawa Tengah,Cilacap,2021,kabupaten,SEDANG
+3302,0.6428,Jawa Tengah,Banyumas,2021,kabupaten,SEDANG
+3303,0.5105,Jawa Tengah,Purbalingga,2021,kabupaten,SEDANG
+3304,0.4241,Jawa Tengah,Banjarnegara,2021,kabupaten,SEDANG
+3305,0.591729412,Jawa Tengah,Kebumen,2021,kabupaten,SEDANG
+3306,0.62805,Jawa Tengah,Purworejo,2021,kabupaten,SEDANG
+3307,0.60245,Jawa Tengah,Wonosobo,2021,kabupaten,SEDANG
+3308,0.9427,Jawa Tengah,Magelang,2021,kabupaten,TINGGI
+3309,0.24745,Jawa Tengah,Boyolali,2021,kabupaten,RENDAH
+3310,0.67405,Jawa Tengah,Klaten,2021,kabupaten,SEDANG
+3311,0.29935,Jawa Tengah,Sukoharjo,2021,kabupaten,RENDAH
+3312,0.51405,Jawa Tengah,Wonogiri,2021,kabupaten,SEDANG
+3313,0.2711,Jawa Tengah,Karanganyar,2021,kabupaten,RENDAH
+3314,0.315775,Jawa Tengah,Sragen,2021,kabupaten,RENDAH
+3315,0.597754545,Jawa Tengah,Grobogan,2021,kabupaten,SEDANG
+3316,0.4,Jawa Tengah,Blora,2021,kabupaten,SEDANG
+3317,0.37765,Jawa Tengah,Rembang,2021,kabupaten,RENDAH
+3318,0.25935,Jawa Tengah,Pati,2021,kabupaten,RENDAH
+3319,0.391338889,Jawa Tengah,Kudus,2021,kabupaten,RENDAH
+3320,0.497413636,Jawa Tengah,Jepara,2021,kabupaten,SEDANG
+3321,0.377916667,Jawa Tengah,Demak,2021,kabupaten,RENDAH
+3322,0.74295,Jawa Tengah,Semarang,2021,kabupaten,SEDANG
+3323,0.452666667,Jawa Tengah,Temanggung,2021,kabupaten,SEDANG
+3325,0.2129,Jawa Tengah,Batang,2021,kabupaten,RENDAH
+3326,0.382245455,Jawa Tengah,Pekalongan,2021,kabupaten,RENDAH
+3327,0.597026471,Jawa Tengah,Pemalang,2021,kabupaten,SEDANG
+3328,0.568561765,Jawa Tengah,Tegal,2021,kabupaten,SEDANG
+3329,0.277503846,Jawa Tengah,Brebes,2021,kabupaten,RENDAH
+3371,0.19475,Jawa Tengah,Kota Magelang,2021,kabupaten,RENDAH
+3372,0.524922222,Jawa Tengah,Kota Surakarta,2021,kabupaten,SEDANG
+3373,0.23205,Jawa Tengah,Kota Salatiga,2021,kabupaten,RENDAH
+3374,0.29245,Jawa Tengah,Kota Semarang,2021,kabupaten,RENDAH
+3375,0.30255,Jawa Tengah,Kota Pekalongan,2021,kabupaten,RENDAH
+3376,0.20915,Jawa Tengah,Kota Tegal,2021,kabupaten,RENDAH
+34,0.793133333,Daerah Istimewa Yogyakarta,Daerah Istimewa Yogyakarta,2021,provinsi,SEDANG
+3401,0.40615,Daerah Istimewa Yogyakarta,Kulon Progo,2021,kabupaten,SEDANG
+3402,0.8012,Daerah Istimewa Yogyakarta,Bantul,2021,kabupaten,TINGGI
+3403,0.29745,Daerah Istimewa Yogyakarta,Gunungkidul,2021,kabupaten,RENDAH
+3404,0.621133333,Daerah Istimewa Yogyakarta,Sleman,2021,kabupaten,SEDANG
+3471,0.499983333,Daerah Istimewa Yogyakarta,Kota Yogyakarta,2021,kabupaten,SEDANG
+36,0.498479412,Banten,Banten,2021,provinsi,SEDANG
+3601,0.2842,Banten,Pandeglang,2021,kabupaten,RENDAH
+3602,0.22295,Banten,Lebak,2021,kabupaten,RENDAH
+3603,0.457983333,Banten,Tangerang,2021,kabupaten,SEDANG
+3604,0.621386364,Banten,Serang,2021,kabupaten,SEDANG
+3671,0.3381,Banten,Kota Tangerang,2021,kabupaten,RENDAH
+3672,0.219716667,Banten,Kota Cilegon,2021,kabupaten,RENDAH
+3673,0.2114,Banten,Kota Serang,2021,kabupaten,RENDAH
+3674,0.505305556,Banten,Kota Tangerang Selatan,2021,kabupaten,SEDANG
+51,0.44125,Bali,Bali,2021,provinsi,SEDANG
+5101,0.2543,Bali,Jembrana,2021,kabupaten,RENDAH
+5102,0.371933333,Bali,Tabanan,2021,kabupaten,RENDAH
+5103,0.312116667,Bali,Badung,2021,kabupaten,RENDAH
+5104,0.25635,Bali,Gianyar,2021,kabupaten,RENDAH
+5105,0.27855,Bali,Klungkung,2021,kabupaten,RENDAH
+5106,0.36535,Bali,Bangli,2021,kabupaten,RENDAH
+5107,0.313505882,Bali,Karangasem,2021,kabupaten,RENDAH
+5108,0.36325,Bali,Buleleng,2021,kabupaten,RENDAH
+5171,0.40685,Bali,Kota Denpasar,2021,kabupaten,SEDANG
+52,0.463138235,Nusa Tenggara Barat,Nusa Tenggara Barat,2021,provinsi,SEDANG
+5201,0.61145,Nusa Tenggara Barat,Lombok Barat,2021,kabupaten,SEDANG
+5202,0.453379412,Nusa Tenggara Barat,Lombok Tengah,2021,kabupaten,SEDANG
+5203,0.532070588,Nusa Tenggara Barat,Lombok Timur,2021,kabupaten,SEDANG
+5204,0.3153,Nusa Tenggara Barat,Sumbawa,2021,kabupaten,RENDAH
+5205,0.389458824,Nusa Tenggara Barat,Dompu,2021,kabupaten,RENDAH
+5206,0.599988235,Nusa Tenggara Barat,Bima,2021,kabupaten,SEDANG
+5207,0.387966667,Nusa Tenggara Barat,Sumbawa Barat,2021,kabupaten,RENDAH
+5208,0.611747059,Nusa Tenggara Barat,Lombok Utara,2021,kabupaten,SEDANG
+5271,0.678635294,Nusa Tenggara Barat,Kota Mataram,2021,kabupaten,SEDANG
+5272,0.738616667,Nusa Tenggara Barat,Kota Bima,2021,kabupaten,SEDANG
+53,0.3654,Nusa Tenggara Timur,Nusa Tenggara Timur,2021,provinsi,RENDAH
+5302,0.3548,Nusa Tenggara Timur,Timor Tengah Selatan,2021,kabupaten,RENDAH
+5303,0.2251,Nusa Tenggara Timur,Timor Tengah Utara,2021,kabupaten,RENDAH
+5305,0.498329412,Nusa Tenggara Timur,Alor,2021,kabupaten,SEDANG
+5306,0.295026471,Nusa Tenggara Timur,Flores Timur,2021,kabupaten,RENDAH
+5307,0.126,Nusa Tenggara Timur,Sikka,2021,kabupaten,RENDAH
+5308,0.388394118,Nusa Tenggara Timur,Ende,2021,kabupaten,RENDAH
+5309,0.126,Nusa Tenggara Timur,Ngada,2021,kabupaten,RENDAH
+5310,0.126,Nusa Tenggara Timur,Manggarai,2021,kabupaten,RENDAH
+5311,,Nusa Tenggara Timur,Sumba Timur,2021,kabupaten,
+5312,,Nusa Tenggara Timur,Sumba Barat,2021,kabupaten,
+5313,,Nusa Tenggara Timur,Lembata,2021,kabupaten,
+5314,0.284892308,Nusa Tenggara Timur,Rote Ndao,2021,kabupaten,RENDAH
+5315,0.263326471,Nusa Tenggara Timur,Manggarai Barat,2021,kabupaten,RENDAH
+5316,0.126,Nusa Tenggara Timur,Nagekeo,2021,kabupaten,RENDAH
+5317,,Nusa Tenggara Timur,Sumba Tengah,2021,kabupaten,
+5318,,Nusa Tenggara Timur,Sumba Barat Daya,2021,kabupaten,
+5319,0.318116667,Nusa Tenggara Timur,Manggarai Timur,2021,kabupaten,RENDAH
+5320,0.26285,Nusa Tenggara Timur,Sabu Raijua,2021,kabupaten,RENDAH
+5321,0.21785,Nusa Tenggara Timur,Malaka,2021,kabupaten,RENDAH
+61,0.302175,Kalimantan Barat,Kalimantan Barat,2021,provinsi,RENDAH
+6101,0.1278,Kalimantan Barat,Sambas,2021,kabupaten,RENDAH
+6103,0.1398,Kalimantan Barat,Sanggau,2021,kabupaten,RENDAH
+6104,0.1398,Kalimantan Barat,Ketapang,2021,kabupaten,RENDAH
+6105,0.1398,Kalimantan Barat,Sintang,2021,kabupaten,RENDAH
+6106,0.30315,Kalimantan Barat,Kapuas Hulu,2021,kabupaten,RENDAH
+6107,,Kalimantan Barat,Bengkayang,2021,kabupaten,
+6108,,Kalimantan Barat,Landak,2021,kabupaten,
+6109,0.2463,Kalimantan Barat,Sekadau,2021,kabupaten,RENDAH
+6110,0.1398,Kalimantan Barat,Melawi,2021,kabupaten,RENDAH
+6111,0.37765,Kalimantan Barat,Kayong Utara,2021,kabupaten,RENDAH
+6112,0.236140909,Kalimantan Barat,Kubu Raya,2021,kabupaten,RENDAH
+6171,0.1398,Kalimantan Barat,Kota Pontianak,2021,kabupaten,RENDAH
+6172,0.1398,Kalimantan Barat,Kota Singkawang,2021,kabupaten,RENDAH
+62,0.462366667,Kalimantan Tengah,Kalimantan Tengah,2021,provinsi,SEDANG
+6201,0.35675,Kalimantan Tengah,Kotawaringin Barat,2021,kabupaten,RENDAH
+6302,0.1314,Kalimantan Selatan,Kotabaru,2021,kabupaten,RENDAH
+6305,0.3733,Kalimantan Selatan,Tapin,2021,kabupaten,RENDAH
+6307,0.28585,Kalimantan Selatan,Hulu Sungai Tengah,2021,kabupaten,RENDAH
+6310,0.3736,Kalimantan Selatan,Tanah Bumbu,2021,kabupaten,RENDAH
+6371,0.1314,Kalimantan Selatan,Kota Banjarmasin,2021,kabupaten,RENDAH
+6401,0.22555,Kalimantan Timur,Paser,2021,kabupaten,RENDAH
+6407,0.2099,Kalimantan Timur,Kutai Barat,2021,kabupaten,RENDAH
+6411,0.2045,Kalimantan Timur,Mahakam Ulu,2021,kabupaten,RENDAH
+6471,0.2138,Kalimantan Timur,Kota Balikpapan,2021,kabupaten,RENDAH
+6472,0.20855,Kalimantan Timur,Kota Samarinda,2021,kabupaten,RENDAH
+65,0.3526,Kalimantan Utara,Kalimantan Utara,2021,provinsi,RENDAH
+6501,0.27765,Kalimantan Utara,Bulungan,2021,kabupaten,RENDAH
+6502,,Kalimantan Utara,Malinau,2021,kabupaten,
+6503,0.126,Kalimantan Utara,Nunukan,2021,kabupaten,RENDAH
+6504,,Kalimantan Utara,Tana Tidung,2021,kabupaten,
+6571,0.34665,Kalimantan Utara,Kota Tarakan,2021,kabupaten,RENDAH
+71,0.707126471,Sulawesi Utara,Sulawesi Utara,2021,provinsi,SEDANG
+7101,0.568735294,Sulawesi Utara,Bolaang Mongondow,2021,kabupaten,SEDANG
+7102,0.368847059,Sulawesi Utara,Minahasa,2021,kabupaten,RENDAH
+7103,0.2054,Sulawesi Utara,Kepulauan Sangihe,2021,kabupaten,RENDAH
+7104,0.27455,Sulawesi Utara,Kepulauan Talaud,2021,kabupaten,RENDAH
+7105,0.2108,Sulawesi Utara,Minahasa Selatan,2021,kabupaten,RENDAH
+7106,0.380085294,Sulawesi Utara,Minahasa Utara,2021,kabupaten,RENDAH
+7107,0.2078,Sulawesi Utara,Minahasa Tenggara,2021,kabupaten,RENDAH
+7108,,Sulawesi Utara,Bolaang Mongondow Utara,2021,kabupaten,
+7109,,Sulawesi Utara,Kep. Siau Tagulandang Biaro,2021,kabupaten,
+7110,0.2093,Sulawesi Utara,Bolaang Mongondow Timur,2021,kabupaten,RENDAH
+7111,,Sulawesi Utara,Bolaang Mongondow Selatan,2021,kabupaten,
+7171,0.546583333,Sulawesi Utara,Kota Manado,2021,kabupaten,SEDANG
+7172,0.31945,Sulawesi Utara,Kota Bitung,2021,kabupaten,RENDAH
+7173,0.2225,Sulawesi Utara,Kota Tomohon,2021,kabupaten,RENDAH
+7174,0.33855,Sulawesi Utara,Kota Kotamobagu,2021,kabupaten,RENDAH
+72,0.39235,Sulawesi Tengah,Sulawesi Tengah,2021,provinsi,RENDAH
+7201,0.1314,Sulawesi Tengah,Banggai,2021,kabupaten,RENDAH
+7202,0.1314,Sulawesi Tengah,Poso,2021,kabupaten,RENDAH
+7203,0.1314,Sulawesi Tengah,Donggala,2021,kabupaten,RENDAH
+7204,0.2016,Sulawesi Tengah,Toli Toli,2021,kabupaten,RENDAH
+7205,0.1314,Sulawesi Tengah,Buol,2021,kabupaten,RENDAH
+7206,,Sulawesi Tengah,Morowali,2021,kabupaten,
+7207,,Sulawesi Tengah,Banggai Kepulauan,2021,kabupaten,
+7208,0.1314,Sulawesi Tengah,Parigi Moutong,2021,kabupaten,RENDAH
+7210,0.326627273,Sulawesi Tengah,Sigi,2021,kabupaten,RENDAH
+7211,0.1314,Sulawesi Tengah,Banggai Laut,2021,kabupaten,RENDAH
+7271,0.1314,Sulawesi Tengah,Kota Palu,2021,kabupaten,RENDAH
+73,0.45635,Sulawesi Selatan,Sulawesi Selatan,2021,provinsi,SEDANG
+7301,0.2836,Sulawesi Selatan,Kepulauan Selayar,2021,kabupaten,RENDAH
+7302,0.29345,Sulawesi Selatan,Bulukumba,2021,kabupaten,RENDAH
+7303,0.2344,Sulawesi Selatan,Bantaeng,2021,kabupaten,RENDAH
+7304,0.2363,Sulawesi Selatan,Jeneponto,2021,kabupaten,RENDAH
+7305,0.3137,Sulawesi Selatan,Takalar,2021,kabupaten,RENDAH
+7306,0.3456,Sulawesi Selatan,Gowa,2021,kabupaten,RENDAH
+7307,0.30815,Sulawesi Selatan,Sinjai,2021,kabupaten,RENDAH
+7308,0.31395,Sulawesi Selatan,Bone,2021,kabupaten,RENDAH
+7309,,Sulawesi Selatan,Maros,2021,kabupaten,
+7310,,Sulawesi Selatan,Pangkajene Dan Kepulauan,2021,kabupaten,
+7311,,Sulawesi Selatan,Barru,2021,kabupaten,
+7312,0.280413636,Sulawesi Selatan,Soppeng,2021,kabupaten,RENDAH
+7313,0.2438,Sulawesi Selatan,Wajo,2021,kabupaten,RENDAH
+7314,0.2718,Sulawesi Selatan,Sidenreng Rappang,2021,kabupaten,RENDAH
+7315,0.33745,Sulawesi Selatan,Pinrang,2021,kabupaten,RENDAH
+7316,0.24605,Sulawesi Selatan,Enrekang,2021,kabupaten,RENDAH
+7317,0.33675,Sulawesi Selatan,Luwu,2021,kabupaten,RENDAH
+7318,0.2528,Sulawesi Selatan,Tana Toraja,2021,kabupaten,RENDAH
+7322,0.3322,Sulawesi Selatan,Luwu Utara,2021,kabupaten,RENDAH
+7324,0.31425,Sulawesi Selatan,Luwu Timur,2021,kabupaten,RENDAH
+7326,0.262463636,Sulawesi Selatan,Toraja Utara,2021,kabupaten,RENDAH
+7371,0.40295,Sulawesi Selatan,Kota Makassar,2021,kabupaten,SEDANG
+7372,0.2942,Sulawesi Selatan,Kota Parepare,2021,kabupaten,RENDAH
+7373,0.3391,Sulawesi Selatan,Kota Palopo,2021,kabupaten,RENDAH
+74,0.38505,Sulawesi Tenggara,Sulawesi Tenggara,2021,provinsi,RENDAH
+7402,0.2,Sulawesi Tenggara,Konawe,2021,kabupaten,RENDAH
+7407,0.2108,Sulawesi Tenggara,Wakatobi,2021,kabupaten,RENDAH
+7408,0.2213,Sulawesi Tenggara,Kolaka Utara,2021,kabupaten,RENDAH
+7409,0.28935,Sulawesi Tenggara,Konawe Utara,2021,kabupaten,RENDAH
+7410,,Sulawesi Tenggara,Buton Utara,2021,kabupaten,
+7414,0.253288889,Sulawesi Tenggara,Buton Tengah,2021,kabupaten,RENDAH
+7471,0.5521,Sulawesi Tenggara,Kota Kendari,2021,kabupaten,SEDANG
+7472,0.275988889,Sulawesi Tenggara,Kota Bau Bau,2021,kabupaten,RENDAH
+75,0.56255,Gorontalo,Gorontalo,2021,provinsi,SEDANG
+7501,0.39725,Gorontalo,Gorontalo,2021,kabupaten,RENDAH
+7502,,Gorontalo,Boalemo,2021,kabupaten,
+7503,0.2789,Gorontalo,Bone Bolango,2021,kabupaten,RENDAH
+7504,,Gorontalo,Pohuwato,2021,kabupaten,
+7505,0.3885,Gorontalo,Gorontalo Utara,2021,kabupaten,RENDAH
+7571,0.367483333,Gorontalo,Kota Gorontalo,2021,kabupaten,RENDAH
+76,0.1398,Sulawesi Barat,Sulawesi Barat,2021,provinsi,RENDAH
+7601,0.1398,Sulawesi Barat,Pasangkayu,2021,kabupaten,RENDAH
+7602,0.1398,Sulawesi Barat,Mamuju,2021,kabupaten,RENDAH
+7603,0.2025,Sulawesi Barat,Mamasa,2021,kabupaten,RENDAH
+7604,,Sulawesi Barat,Polewali Mandar,2021,kabupaten,
+7605,,Sulawesi Barat,Majene,2021,kabupaten,
+7606,0.1398,Sulawesi Barat,Mamuju Tengah,2021,kabupaten,RENDAH
+81,0.2168,Maluku,Maluku,2021,provinsi,RENDAH
+8101,0.357344118,Maluku,Maluku Tengah,2021,kabupaten,RENDAH
+8102,0.2493,Maluku,Maluku Tenggara,2021,kabupaten,RENDAH
+8103,,Maluku,Kepulauan Tanimbar,2021,kabupaten,
+8104,0.31195,Maluku,Buru,2021,kabupaten,RENDAH
+8105,0.2126,Maluku,Seram Bagian Timur,2021,kabupaten,RENDAH
+8106,0.2146,Maluku,Seram Bagian Barat,2021,kabupaten,RENDAH
+8107,,Maluku,Kepulauan Aru,2021,kabupaten,
+8108,0.1398,Maluku,Maluku Barat Daya,2021,kabupaten,RENDAH
+8109,0.32065,Maluku,Buru Selatan,2021,kabupaten,RENDAH
+8171,0.787,Maluku,Kota Ambon,2021,kabupaten,SEDANG
+8172,0.2342,Maluku,Kota Tual,2021,kabupaten,RENDAH
+82,0.26555,Maluku Utara,Maluku Utara,2021,provinsi,RENDAH
+8202,0.20695,Maluku Utara,Halmahera Tengah,2021,kabupaten,RENDAH
+8203,0.377938235,Maluku Utara,Halmahera Utara,2021,kabupaten,RENDAH
+8204,0.2523,Maluku Utara,Halmahera Selatan,2021,kabupaten,RENDAH
+8205,,Maluku Utara,Kepulauan Sula,2021,kabupaten,
+8206,0.291525,Maluku Utara,Halmahera Timur,2021,kabupaten,RENDAH
+8208,0.3864,Maluku Utara,Pulau Taliabu,2021,kabupaten,RENDAH
+8271,0.4513,Maluku Utara,Kota Ternate,2021,kabupaten,SEDANG
+8272,0.23595,Maluku Utara,Kota Tidore Kepulauan,2021,kabupaten,RENDAH
+91,,Papua,Papua,2021,provinsi,
+9103,0.1398,Papua,Jayapura,2021,kabupaten,RENDAH
+9105,0.1398,Papua,Kepulauan Yapen,2021,kabupaten,RENDAH
+9106,0.1398,Papua,Biak Numfor,2021,kabupaten,RENDAH
+9110,0.1398,Papua,Sarmi,2021,kabupaten,RENDAH
+9111,0.1398,Papua,Keerom,2021,kabupaten,RENDAH
+9115,0.1398,Papua,Waropen,2021,kabupaten,RENDAH
+9119,0.1398,Papua,Supiori,2021,kabupaten,RENDAH
+9120,0.1398,Papua,Mamberamo Raya,2021,kabupaten,RENDAH
+9171,0.74205,Papua,Kota Jayapura,2021,kabupaten,SEDANG
+92,,Papua Barat,Papua Barat,2021,provinsi,
+9202,0.2229,Papua Barat,Manokwari,2021,kabupaten,RENDAH
+9203,0.2084,Papua Barat,Fak Fak,2021,kabupaten,RENDAH
+9206,0.2084,Papua Barat,Teluk Bintuni,2021,kabupaten,RENDAH
+9207,0.21645,Papua Barat,Teluk Wondama,2021,kabupaten,RENDAH
+9208,0.25005,Papua Barat,Kaimana,2021,kabupaten,RENDAH
+9211,0.2037,Papua Barat,Manokwari Selatan,2021,kabupaten,RENDAH
+9212,0.22155,Papua Barat,Pegunungan Arfak,2021,kabupaten,RENDAH
+9301,0.1398,Papua Selatan,Merauke,2021,kabupaten,RENDAH
+9302,0.123,Papua Selatan,Boven Digoel,2021,kabupaten,RENDAH
+9303,0.123,Papua Selatan,Mappi,2021,kabupaten,RENDAH
+9304,0.1398,Papua Selatan,Asmat,2021,kabupaten,RENDAH
+9401,0.1278,Papua Tengah,Nabire,2021,kabupaten,RENDAH
+9402,0.241140909,Papua Tengah,Puncak Jaya,2021,kabupaten,RENDAH
+9403,0.1398,Papua Tengah,Paniai,2021,kabupaten,RENDAH
+9404,0.1398,Papua Tengah,Mimika,2021,kabupaten,RENDAH
+9405,0.2108,Papua Tengah,Puncak,2021,kabupaten,RENDAH
+9406,0.1398,Papua Tengah,Dogiyai,2021,kabupaten,RENDAH
+9407,0.1398,Papua Tengah,Intan Jaya,2021,kabupaten,RENDAH
+9408,0.1398,Papua Tengah,Deiyai,2021,kabupaten,RENDAH
+9501,0.1398,Papua Pegunungan,Jayawijaya,2021,kabupaten,RENDAH
+9502,0.1278,Papua Pegunungan,Pegunungan Bintang,2021,kabupaten,RENDAH
+9503,0.1398,Papua Pegunungan,Yahukimo,2021,kabupaten,RENDAH
+9504,0.1398,Papua Pegunungan,Tolikara,2021,kabupaten,RENDAH
+9505,0.1398,Papua Pegunungan,Mamberamo Tengah,2021,kabupaten,RENDAH
+9506,0.1398,Papua Pegunungan,Yalimo,2021,kabupaten,RENDAH
+9507,0.1398,Papua Pegunungan,Lanny Jaya,2021,kabupaten,RENDAH
+9508,0.1398,Papua Pegunungan,Nduga,2021,kabupaten,RENDAH
+9601,0.2084,Papua Barat Daya,Sorong,2021,kabupaten,RENDAH
+9602,0.2557,Papua Barat Daya,Sorong Selatan,2021,kabupaten,RENDAH
+9603,0.123,Papua Barat Daya,Raja Ampat,2021,kabupaten,RENDAH
+9604,0.2099,Papua Barat Daya,Tambrauw,2021,kabupaten,RENDAH
+9605,0.2231,Papua Barat Daya,Maybrat,2021,kabupaten,RENDAH
+9671,0.24155,Papua Barat Daya,Kota Sorong,2021,kabupaten,RENDAH
+1371,,Sumatera Barat,Kota Padang,2020,kabupaten,
+1171,0.570388889,Aceh,Kota Banda Aceh,2019,kabupaten,SEDANG
+1205,0.37415,Sumatera Utara,Langkat,2019,kabupaten,RENDAH
+1206,0.4992,Sumatera Utara,Karo,2019,kabupaten,SEDANG
+1305,0.36735,Sumatera Barat,Padang Pariaman,2019,kabupaten,RENDAH
+1309,,Sumatera Barat,Kepulauan Mentawai,2019,kabupaten,
+1371,0.5655,Sumatera Barat,Kota Padang,2019,kabupaten,SEDANG
+1604,0.42395,Sumatera Selatan,Lahat,2019,kabupaten,SEDANG
+1606,0.6544,Sumatera Selatan,Musi Banyuasin,2019,kabupaten,SEDANG
+1702,0.6665,Bengkulu,Rejang Lebong,2019,kabupaten,SEDANG
+1706,0.2,Bengkulu,Muko Muko,2019,kabupaten,RENDAH
+1804,,Lampung,Lampung Barat,2019,kabupaten,
+1871,0.455383333,Lampung,Kota Bandar Lampung,2019,kabupaten,SEDANG
+3171,0.68745,DKI Jakarta,Kota Administrasi Jakarta Pusat,2019,kabupaten,SEDANG
+3172,0.68745,DKI Jakarta,Kota Administrasi Jakarta Utara,2019,kabupaten,SEDANG
+3173,0.68745,DKI Jakarta,Kota Administrasi Jakarta Barat,2019,kabupaten,SEDANG
+3174,,DKI Jakarta,Kota Administrasi Jakarta Selatan,2019,kabupaten,
+3175,,DKI Jakarta,Kota Administrasi Jakarta Timur,2019,kabupaten,
+3207,0.587804545,Jawa Barat,Ciamis,2019,kabupaten,SEDANG
+3209,0.4269,Jawa Barat,Cirebon,2019,kabupaten,SEDANG
+3217,0.5275,Jawa Barat,Bandung Barat,2019,kabupaten,SEDANG
+3218,0.7581,Jawa Barat,Pangandaran,2019,kabupaten,SEDANG
+3273,0.5327,Jawa Barat,Kota Bandung,2019,kabupaten,SEDANG
+3301,0.76655,Jawa Tengah,Cilacap,2019,kabupaten,SEDANG
+3305,0.591729412,Jawa Tengah,Kebumen,2019,kabupaten,SEDANG
+3308,0.7918,Jawa Tengah,Magelang,2019,kabupaten,SEDANG
+3324,0.673936364,Jawa Tengah,Kendal,2019,kabupaten,SEDANG
+3374,0.6062,Jawa Tengah,Kota Semarang,2019,kabupaten,SEDANG
+3404,0.7218,Daerah Istimewa Yogyakarta,Sleman,2019,kabupaten,SEDANG
+3471,0.554933333,Daerah Istimewa Yogyakarta,Kota Yogyakarta,2019,kabupaten,SEDANG
+3501,0.582,Jawa Timur,Pacitan,2019,kabupaten,SEDANG
+3502,0.47815,Jawa Timur,Ponorogo,2019,kabupaten,SEDANG
+3503,0.59055,Jawa Timur,Trenggalek,2019,kabupaten,SEDANG
+3504,0.570816667,Jawa Timur,Tulungagung,2019,kabupaten,SEDANG
+3505,0.433070588,Jawa Timur,Blitar,2019,kabupaten,SEDANG
+3506,0.5314,Jawa Timur,Kediri,2019,kabupaten,SEDANG
+3507,0.528785294,Jawa Timur,Malang,2019,kabupaten,SEDANG
+3508,0.710076471,Jawa Timur,Lumajang,2019,kabupaten,SEDANG
+3509,0.4162,Jawa Timur,Jember,2019,kabupaten,SEDANG
+3510,0.632779412,Jawa Timur,Banyuwangi,2019,kabupaten,SEDANG
+3511,0.3435,Jawa Timur,Bondowoso,2019,kabupaten,RENDAH
+3512,0.466664706,Jawa Timur,Situbondo,2019,kabupaten,SEDANG
+3513,0.29935,Jawa Timur,Probolinggo,2019,kabupaten,RENDAH
+3514,0.7034,Jawa Timur,Pasuruan,2019,kabupaten,SEDANG
+3515,0.6744,Jawa Timur,Sidoarjo,2019,kabupaten,SEDANG
+3516,0.57195,Jawa Timur,Mojokerto,2019,kabupaten,SEDANG
+3517,0.404613636,Jawa Timur,Jombang,2019,kabupaten,SEDANG
+3518,0.524681818,Jawa Timur,Nganjuk,2019,kabupaten,SEDANG
+3519,0.529740909,Jawa Timur,Madiun,2019,kabupaten,SEDANG
+3520,0.42775,Jawa Timur,Magetan,2019,kabupaten,SEDANG
+3521,0.322766667,Jawa Timur,Ngawi,2019,kabupaten,RENDAH
+3522,0.505636364,Jawa Timur,Bojonegoro,2019,kabupaten,SEDANG
+3523,0.322105556,Jawa Timur,Tuban,2019,kabupaten,RENDAH
+3524,0.588316667,Jawa Timur,Lamongan,2019,kabupaten,SEDANG
+3525,0.29515,Jawa Timur,Gresik,2019,kabupaten,RENDAH
+3526,0.34715,Jawa Timur,Bangkalan,2019,kabupaten,RENDAH
+3528,0.2024,Jawa Timur,Pamekasan,2019,kabupaten,RENDAH
+3529,0.373938889,Jawa Timur,Sumenep,2019,kabupaten,RENDAH
+3571,0.50835,Jawa Timur,Kota Kediri,2019,kabupaten,SEDANG
+3572,0.5603,Jawa Timur,Kota Blitar,2019,kabupaten,SEDANG
+3573,0.43565,Jawa Timur,Kota Malang,2019,kabupaten,SEDANG
+3574,0.49555,Jawa Timur,Kota Probolinggo,2019,kabupaten,SEDANG
+3575,0.581611111,Jawa Timur,Kota Pasuruan,2019,kabupaten,SEDANG
+3576,0.251,Jawa Timur,Kota Mojokerto,2019,kabupaten,RENDAH
+3577,0.41455,Jawa Timur,Kota Madiun,2019,kabupaten,SEDANG
+3578,0.3744,Jawa Timur,Kota Surabaya,2019,kabupaten,RENDAH
+3579,0.55955,Jawa Timur,Kota Batu,2019,kabupaten,SEDANG
+3603,0.483259091,Banten,Tangerang,2019,kabupaten,SEDANG
+3672,0.548367647,Banten,Kota Cilegon,2019,kabupaten,SEDANG
+5101,0.60435,Bali,Jembrana,2019,kabupaten,SEDANG
+5102,0.440116667,Bali,Tabanan,2019,kabupaten,SEDANG
+5103,0.7887,Bali,Badung,2019,kabupaten,SEDANG
+5104,0.55775,Bali,Gianyar,2019,kabupaten,SEDANG
+5105,0.869,Bali,Klungkung,2019,kabupaten,TINGGI
+5106,0.65355,Bali,Bangli,2019,kabupaten,SEDANG
+5107,1.05905,Bali,Karangasem,2019,kabupaten,TINGGI
+5108,0.9058,Bali,Buleleng,2019,kabupaten,TINGGI
+5171,0.63705,Bali,Kota Denpasar,2019,kabupaten,SEDANG
+5201,0.56745,Nusa Tenggara Barat,Lombok Barat,2019,kabupaten,SEDANG
+5202,0.399502941,Nusa Tenggara Barat,Lombok Tengah,2019,kabupaten,RENDAH
+5203,0.532070588,Nusa Tenggara Barat,Lombok Timur,2019,kabupaten,SEDANG
+5204,0.2959,Nusa Tenggara Barat,Sumbawa,2019,kabupaten,RENDAH
+5206,0.599988235,Nusa Tenggara Barat,Bima,2019,kabupaten,SEDANG
+5207,0.414066667,Nusa Tenggara Barat,Sumbawa Barat,2019,kabupaten,SEDANG
+5208,0.656097059,Nusa Tenggara Barat,Lombok Utara,2019,kabupaten,SEDANG
+5271,0.678635294,Nusa Tenggara Barat,Kota Mataram,2019,kabupaten,SEDANG
+5272,0.720547059,Nusa Tenggara Barat,Kota Bima,2019,kabupaten,SEDANG
+5305,0.494979412,Nusa Tenggara Timur,Alor,2019,kabupaten,SEDANG
+5371,0.6768,Nusa Tenggara Timur,Kota Kupang,2019,kabupaten,SEDANG
+6107,,Kalimantan Barat,Bengkayang,2019,kabupaten,
+6171,0.62975,Kalimantan Barat,Kota Pontianak,2019,kabupaten,SEDANG
+6271,0.537825,Kalimantan Tengah,Kota Palangkaraya,2019,kabupaten,SEDANG
+6301,0.65455,Kalimantan Selatan,Tanah Laut,2019,kabupaten,SEDANG
+6402,0.5725,Kalimantan Timur,Kutai Kartanegara,2019,kabupaten,SEDANG
+6472,0.609775,Kalimantan Timur,Kota Samarinda,2019,kabupaten,SEDANG
+7103,0.51135,Sulawesi Utara,Kepulauan Sangihe,2019,kabupaten,SEDANG
+7105,0.61185,Sulawesi Utara,Minahasa Selatan,2019,kabupaten,SEDANG
+7172,0.741,Sulawesi Utara,Kota Bitung,2019,kabupaten,SEDANG
+7202,0.5834,Sulawesi Tengah,Poso,2019,kabupaten,SEDANG
+7206,,Sulawesi Tengah,Morowali,2019,kabupaten,
+7210,0.37645,Sulawesi Tengah,Sigi,2019,kabupaten,RENDAH
+7303,0.624,Sulawesi Selatan,Bantaeng,2019,kabupaten,SEDANG
+7306,0.6262,Sulawesi Selatan,Gowa,2019,kabupaten,SEDANG
+7309,,Sulawesi Selatan,Maros,2019,kabupaten,
+7402,,Sulawesi Tenggara,Konawe,2019,kabupaten,
+7501,0.622429412,Gorontalo,Gorontalo,2019,kabupaten,SEDANG
+8102,0.481985294,Maluku,Maluku Tenggara,2019,kabupaten,SEDANG
+8104,0.40365,Maluku,Buru,2019,kabupaten,SEDANG
+8171,0.5347,Maluku,Kota Ambon,2019,kabupaten,SEDANG
+8203,0.435038235,Maluku Utara,Halmahera Utara,2019,kabupaten,SEDANG
+8207,0.4639,Maluku Utara,Pulau Morotai,2019,kabupaten,SEDANG
+8271,0.593766667,Maluku Utara,Kota Ternate,2019,kabupaten,SEDANG

@@ -1,0 +1,587 @@
+html[data-book-style] body:not(.dark) {
+  --canvas: color-mix(in srgb,var(--book-custom-paper) 94%,var(--book-custom-accent));
+  --accent: var(--book-custom-accent); --ink: var(--book-custom-ink);
+}
+html[data-book-style] .report-view .report-spread,
+html[data-book-style] .print-toc, html[data-book-style] .editorial-sheet {
+  --paper: var(--book-custom-paper); --sheet: var(--book-custom-paper);
+  --editorial-ink: var(--book-custom-ink); --editorial-dim: var(--book-custom-ink);
+  --section-teal: var(--book-custom-accent); --redaksi-accent: var(--book-custom-accent);
+  color: var(--book-custom-ink); background: var(--book-custom-paper);
+}
+html[data-book-style] .chapter-title {
+  background: color-mix(in srgb,var(--book-custom-paper) 87%,var(--book-custom-accent));
+}
+html[data-book-style] :is(.chapter-title h1,.chapter-title p,.report-copy .book-text h2,.editorial-content h1) { color: var(--book-custom-ink); }
+html[data-book-style] :is(.book-hero,.report-cover,.introduction-opener h1,.print-cover,.print-section-marker,.editorial-roles h2),
+html[data-book-style] #printBook #cetak-sampul-belakang .report-spread {
+  background: var(--book-custom-accent); color: var(--book-custom-accent-text);
+}
+html[data-book-style] .chapter-spread .book-hero {
+  background: linear-gradient(90deg,var(--book-custom-accent),color-mix(in srgb,var(--book-custom-accent) 68%,transparent)),url("foto/sampul.jpg") center/cover;
+}
+html[data-book-style] :is(.book-hero h1,.book-hero p,.report-cover h1,.report-cover .report-kicker,.report-score strong,.report-cover .report-count,.report-cover .report-count strong,.report-score > span:first-child,.print-cover p:last-child,.print-cover .print-year,.print-section-marker span) { color: var(--book-custom-accent-text); }
+html[data-book-style] :is(.report-masthead span:first-child::before,.hero-actions a:first-child) { background: var(--book-custom-accent); color: var(--book-custom-accent-text); }
+html[data-book-style] .report-spread .table-scroll th { background: color-mix(in srgb,var(--book-custom-paper) 82%,var(--book-custom-accent)); color: var(--book-custom-ink); }
+html[data-book-style] :is(.reading-body .book-text p,.reading-body .book-components li,.editorial-columns) {
+  color: var(--book-custom-ink); font-family: var(--book-custom-font); font-size: calc(1rem * var(--book-custom-body-scale));
+}
+html[data-book-style] :is(.report-copy .book-text,.chapter-spread .book-text,.introduction-spread .book-text) { column-gap: var(--book-custom-gap); }
+html[data-book-style] :is(.chapter-title h1,.editorial-content h1,.reading-body .book-hero h1,.report-cover h1) {
+  font-size: calc(clamp(1.65rem,4.45vw,4.5rem) * var(--book-custom-title-scale));
+}
+html[data-book-style="compact"] .table-scroll :is(th,td) { padding: .26rem .42rem; }
+html[data-book-style] .editorial-sheet::before { background: var(--book-custom-accent); }
+html[data-book-style] .reading-body .editorial-roles h2 { color: var(--book-custom-accent-text); }
+.style-sample-print #printBook {
+  width: min(var(--book-page-width,210mm),100%); max-width: none; margin: 0 auto; box-sizing: border-box;
+  padding: var(--book-custom-margin-top,15mm) var(--book-custom-margin-x,14mm) var(--book-custom-margin-bottom,16mm);
+  min-height: var(--book-page-height,297mm); background: #fff;
+}
+.style-sample-print .print-toolbar { display: none; }
+.style-sample-print .print-chapter { margin-top: 0; }
+.style-sample-print .report-view .report-spread { box-shadow: none; }
+@media print {
+  html[data-book-style] .print-chapter :is(.chapter-title h1,.report-cover h1,.editorial-content h1),
+  html[data-book-style] #printBook .print-cover h1 { font-size: calc(30pt * var(--book-custom-title-scale)); }
+  html[data-book-style] .print-chapter :is(.book-text p,.book-components li,.editorial-columns) {
+    font-size: calc(10pt * var(--book-custom-body-scale));
+  }
+  html[data-book-style] #printBook .print-cover,
+  html[data-book-style] #printBook #cetak-sampul-belakang .report-spread {
+    min-height: min(248mm,calc(var(--book-page-height,297mm) - var(--book-custom-margin-top) - var(--book-custom-margin-bottom) - 2mm));
+  }
+  html[data-book-style="compact"] .print-chapter :is(th,td) { padding: .7mm 1mm; }
+  .style-sample-print #printBook { width: auto; min-height: 0; padding: 0; }
+}
+.style-link { color: var(--accent,#145968); font-size: .8rem; font-weight: 700; white-space: nowrap; }
+@media screen and (max-width: 525px) {
+  .style-link { font-size: .73rem; }
+  .header-actions { gap: .32rem; }
+}
+@media screen and (max-width: 380px) {
+  .style-link { max-width: 3rem; white-space: normal; line-height: 1; }
+}
+
+/* Motif dan bidang judul gaya Renduk, mengikuti aksen yang dipilih pengguna. */
+html[data-book-layout="renduk"] {
+  --renduk-tint: color-mix(in srgb,var(--book-custom-paper) 88%,var(--book-custom-accent));
+  --renduk-pattern: color-mix(in srgb,var(--book-custom-accent),transparent 77%);
+}
+html[data-book-layout="renduk"] .report-view .report-spread { border-radius: 0; box-shadow: none; }
+html[data-book-layout="renduk"] .report-masthead { border-bottom: 2px solid var(--book-custom-accent); }
+html[data-book-layout="renduk"] .chapter-title {
+  padding-block: clamp(1rem,2.8vw,2.1rem);
+  background: linear-gradient(105deg,var(--renduk-tint) 0 63%,transparent 63%);
+  border-block-start: 2px solid var(--book-custom-accent);
+  border-inline-start: 0;
+}
+html[data-book-layout="renduk"] :is(.chapter-title,.report-cover,.print-cover)::after {
+  inset: 0 0 0 57%;
+  background: conic-gradient(from 90deg,transparent 0 25%,var(--renduk-pattern) 0 50%,transparent 0 75%,var(--renduk-pattern) 0);
+  background-size: 1.3rem 1.3rem;
+  mask-image: linear-gradient(90deg,transparent 3%,#000 92%);
+}
+html[data-book-layout="renduk"] :is(.report-cover,.print-cover)::after { --renduk-pattern: #ffffff3f; }
+html[data-book-layout="renduk"] .chapter-title h1 { font-weight: 760; letter-spacing: -.045em; }
+html[data-book-layout="renduk"] .chapter-title p { color: var(--book-custom-ink); }
+html[data-book-layout="renduk"] :is(.report-cover,.atlas-frame,.book-card,.table-scroll) { border-radius: 0; }
+html[data-book-layout="renduk"] .report-copy .book-text h2,
+html[data-book-layout="renduk"] .chapter-spread .book-text h2 { border-top: 2px solid var(--book-custom-accent); }
+html[data-book-layout="renduk"] .report-spread .table-scroll thead th {
+  background: var(--book-custom-accent); color: var(--book-custom-accent-text);
+}
+html[data-book-layout="renduk"] .report-spread .table-scroll tbody tr:nth-child(even) {
+  background: var(--renduk-tint);
+}
+html[data-book-layout="renduk"] .print-cover {
+  background: linear-gradient(155deg,color-mix(in srgb,var(--book-custom-accent),#082632 35%),var(--book-custom-accent));
+}
+html[data-book-layout="renduk"] .print-toc h2 { border-block-end: 2px solid var(--book-custom-accent); }
+html[data-book-layout="renduk"] .print-section-marker { border-inline-start: 5mm solid var(--renduk-tint); }
+@media print {
+  html[data-book-layout="renduk"] .print-chapter .chapter-title { padding: 4mm 5mm; }
+  html[data-book-layout="renduk"] .print-chapter :is(.chapter-title,.report-cover,.print-cover)::after { background-size: 8mm 8mm; }
+}
+
+/* Jurnal Visual uses open editorial space, a photo column, and ink-led typography. */
+html[data-book-layout="jurnal"] {
+  --journal-soft: color-mix(in srgb,var(--book-custom-paper) 94%,var(--book-custom-accent));
+  --journal-rule: color-mix(in srgb,var(--book-custom-paper) 74%,var(--book-custom-ink));
+}
+html[data-book-layout="jurnal"] .report-view .report-spread {
+  border: 0; border-radius: 0; box-shadow: none;
+  padding-inline: clamp(.5rem,2.35vw,2.4rem);
+}
+html[data-book-layout="jurnal"] .report-masthead {
+  color: var(--book-custom-ink); border-bottom: 2px solid var(--book-custom-ink); letter-spacing: .08em;
+}
+html[data-book-layout="jurnal"] .report-masthead span:first-child::before { content: none; }
+html[data-book-layout="jurnal"] .chapter-title {
+  background: transparent; border: 0; border-bottom: 1px solid var(--journal-rule);
+  margin-block: 0 2rem; padding-inline: 0; padding-block: clamp(1.25rem,4vw,3.4rem);
+}
+html[data-book-layout="jurnal"] .chapter-title::after,
+html[data-book-layout="jurnal"] .report-cover::after,
+html[data-book-layout="jurnal"] .print-cover::after { content: none; }
+html[data-book-layout="jurnal"] .chapter-title p,
+html[data-book-layout="jurnal"] .report-cover .report-kicker { color: var(--book-custom-accent); font-weight: 750; }
+html[data-book-layout="jurnal"] .chapter-title h1 {
+  max-width: 16ch; font-weight: 820; line-height: .94;
+  font-size: calc(clamp(2.15rem,5.8vw,5rem) * var(--book-custom-title-scale)); letter-spacing: -.067em;
+}
+html[data-book-layout="jurnal"] .report-copy .book-text {
+  columns: 1; max-width: 71ch; line-height: 1.7; margin-block-end: 2.2rem;
+}
+html[data-book-layout="jurnal"] .chapter-spread .report-copy .book-text { margin-inline: auto; }
+html[data-book-layout="jurnal"] .report-copy .book-text h2 { border-top: 0; padding-top: 0; }
+html[data-book-layout="jurnal"] .report-copy .book-text p::first-letter { float: none; color: inherit; font: inherit; padding: 0; }
+html[data-book-layout="jurnal"] .report-copy .book-text p { line-height: 1.72; }
+html[data-book-layout="jurnal"] .chapter-spread .book-hero {
+  --photo-cover-image: url("foto/sampul.jpg"); --photo-crop: center;
+  position: relative; overflow: visible; border-radius: 0; box-sizing: border-box;
+  background: var(--book-custom-paper); color: var(--book-custom-ink);
+  min-height: clamp(17rem,38vw,30rem); padding: 1.2rem 52% 1.2rem 0;
+  margin-block: 1.2rem 2.1rem; justify-content: center;
+}
+html[data-book-layout="jurnal"] .chapter-spread .book-hero::after {
+  content: ""; position: absolute; inset: 0 0 0 51%; z-index: 0;
+  background: var(--photo-cover-image) var(--photo-crop) / cover no-repeat; mask-image: none;
+}
+html[data-book-layout="jurnal"] .reading-body .book-hero h1 {
+  color: var(--book-custom-ink); font-weight: 820; line-height: .98; letter-spacing: -.07em;
+  font-size: calc(clamp(1.85rem,4vw,4rem) * var(--book-custom-title-scale));
+}
+html[data-book-layout="jurnal"] .reading-body .book-hero p { color: var(--book-custom-ink); }
+html[data-book-layout="jurnal"] .reading-body .hero-actions a {
+  color: var(--book-custom-accent); border-color: var(--book-custom-accent); border-radius: 0;
+}
+html[data-book-layout="jurnal"] .reading-body .hero-actions a:first-child { color: var(--book-custom-accent-text); }
+html[data-book-layout="jurnal"] .chapter-spread .book-stats > div {
+  border: 0; border-top: 2px solid var(--book-custom-ink); padding-inline: 0;
+}
+html[data-book-layout="jurnal"] .book-stats strong { font-size: clamp(1.5rem,3.8vw,2.7rem); font-weight: 800; }
+html[data-book-layout="jurnal"] .report-spread .report-cover {
+  background: transparent; color: var(--book-custom-ink); border-radius: 0; padding: 1.2rem 0;
+  border-bottom: 2px solid var(--book-custom-ink);
+}
+html[data-book-layout="jurnal"] :is(.report-cover h1,.report-cover .report-count,.report-cover .report-count strong,.report-score > span:first-child) { color: var(--book-custom-ink); }
+html[data-book-layout="jurnal"] .report-score strong { color: var(--book-custom-accent); }
+html[data-book-layout="jurnal"] .report-spread .atlas-card,
+html[data-book-layout="jurnal"] .report-spread .book-card {
+  border: 0; border-top: 1px solid var(--journal-rule); border-radius: 0;
+  padding-inline: 0; background: var(--book-custom-paper);
+}
+html[data-book-layout="jurnal"] .report-spread .table-scroll { border-radius: 0; }
+html[data-book-layout="jurnal"] .report-spread .table-scroll thead th {
+  background: var(--journal-soft); color: var(--book-custom-ink); border-bottom: 2px solid var(--book-custom-ink);
+}
+html[data-book-layout="jurnal"] .introduction-opener { display: block; }
+html[data-book-layout="jurnal"] .introduction-opener h1 {
+  writing-mode: horizontal-tb; transform: none; display: block; padding: 0 0 .42em;
+  color: var(--book-custom-ink); background: transparent;
+  font-size: calc(clamp(2.15rem,5.8vw,5rem) * var(--book-custom-title-scale)); letter-spacing: -.06em;
+}
+html[data-book-layout="jurnal"] .print-cover {
+  background: var(--book-custom-paper); color: var(--book-custom-ink);
+  border-top: 5mm solid var(--book-custom-accent);
+}
+html[data-book-layout="jurnal"] :is(.print-cover .print-year,.print-cover p:last-child) { color: var(--book-custom-accent); }
+html[data-book-layout="jurnal"] .print-cover p:first-child { border-color: var(--journal-rule); }
+html[data-book-layout="jurnal"] .print-section-marker {
+  background: transparent; color: var(--book-custom-ink); padding-inline: 0;
+  border-top: 2px solid var(--book-custom-accent); border-bottom: 1px solid var(--journal-rule);
+}
+html[data-book-layout="jurnal"] .print-section-marker span { color: var(--book-custom-accent); }
+@media screen and (max-width: 590px) {
+  html[data-book-layout="jurnal"] .chapter-spread .book-hero { min-height: 0; padding: 0; }
+  html[data-book-layout="jurnal"] .chapter-spread .book-hero::after { position: static; order: 5; margin-top: .9rem; height: 42vw; }
+}
+@media print {
+  html[data-book-layout="jurnal"] .print-chapter .report-spread { padding-inline: 0; }
+  html[data-book-layout="jurnal"] .print-chapter .chapter-title { padding-block: 4mm 5mm; margin-bottom: 4mm; }
+  html[data-book-layout="jurnal"] .print-chapter :is(.chapter-title h1,.introduction-opener h1) {
+    font-size: calc(31pt * var(--book-custom-title-scale)); line-height: 1;
+  }
+  html[data-book-layout="jurnal"] .print-chapter .chapter-spread .book-text { max-width: 145mm; }
+  html[data-book-layout="jurnal"] .print-chapter .report-copy .book-text p { line-height: 1.46; }
+  html[data-book-layout="jurnal"] .print-chapter .report-cover { padding-block: 3mm; }
+}
+/* Override the general accent fills on the journal's open page surfaces. */
+html[data-book-layout="jurnal"] .chapter-spread .book-hero,
+html[data-book-layout="jurnal"] .print-cover { background: var(--book-custom-paper) !important; }
+html[data-book-layout="jurnal"] .report-spread .report-cover,
+html[data-book-layout="jurnal"] .introduction-opener h1 { background: transparent !important; }
+
+/* Data edition: a distinct composition for the web and the printed book. */
+.data-lead,.cover-data-stat { display: none; }
+html[data-book-layout="edisi-data"] {
+  --data-line: color-mix(in srgb,var(--book-custom-paper) 74%,var(--book-custom-ink));
+  --data-soft: color-mix(in srgb,var(--book-custom-paper) 91%,var(--book-custom-accent));
+}
+html[data-book-layout="edisi-data"] #readingView { max-width: 1200px; }
+html[data-book-layout="edisi-data"] .report-view .report-spread {
+  border: 0; box-shadow: none; border-radius: 0; padding: clamp(.75rem, 2.1vw, 2rem);
+}
+html[data-book-layout="edisi-data"] .report-masthead { display: none; }
+html[data-book-layout="edisi-data"] .report-credit { letter-spacing: .06em; border-color: var(--data-line); color: var(--book-custom-ink); }
+html[data-book-layout="edisi-data"] .data-lead {
+  display: grid; grid-template-columns: minmax(0,2.3fr) minmax(0,1fr); gap: .65rem 1rem;
+  padding: clamp(1rem,3.5vw,2.5rem); background: var(--book-custom-accent); color: var(--book-custom-accent-text);
+  border-radius: clamp(1rem,2.3vw,1.65rem); margin-bottom: 1rem;
+}
+html[data-book-layout="edisi-data"] .data-lead > p {
+  grid-column: 1/-1; color: inherit; margin: 0; font-size: .75rem; font-weight: 750; letter-spacing: .12em;
+}
+.data-lead-main { display: grid; align-content: center; }
+.data-lead-main strong { font: 800 clamp(3.15rem,10vw,8.8rem)/.93 'Segoe UI',Arial,sans-serif; letter-spacing: -.078em; }
+.data-lead-main span { font-size: clamp(.89rem,1.7vw,1.19rem); margin-top: .4rem; font-weight: 650; }
+.data-lead-context { display: grid; gap: .3rem; align-content: center; }
+.data-lead-context > div {
+  display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;
+  gap: .15rem .4rem; border-bottom: 1px solid currentColor; font-size: .77rem;
+}
+.data-lead-context strong { font-size: 1.45rem; }
+html[data-book-layout="edisi-data"] .book-front > .book-stats { display: none; }
+html[data-book-layout="edisi-data"] .chapter-spread .book-hero {
+  --photo-cover-image: url("foto/sampul.jpg"); --photo-crop: center;
+  min-height: clamp(14rem,27vw,19rem); position: relative; border-radius: 1.1rem;
+  padding: 1rem 1.1rem 1rem 43%; margin: 0 0 1rem; justify-content: center;
+  color: var(--book-custom-ink); background: var(--data-soft) !important;
+}
+html[data-book-layout="edisi-data"] .chapter-spread .book-hero::after {
+  content: ""; position: absolute; inset: 0 60% 0 0; z-index: 0; mask-image: none;
+  background: var(--photo-cover-image) var(--photo-crop) / cover no-repeat;
+}
+html[data-book-layout="edisi-data"] .book-hero p, html[data-book-layout="edisi-data"] .book-hero h1 { color: var(--book-custom-ink); }
+html[data-book-layout="edisi-data"] .reading-body .book-hero h1 {
+  font-size: calc(clamp(1.65rem,3.4vw,3.1rem) * var(--book-custom-title-scale));
+  letter-spacing: -.065em; line-height: 1; font-weight: 780;
+}
+html[data-book-layout="edisi-data"] .reading-body .hero-actions a {
+  color: var(--book-custom-accent); border-color: var(--book-custom-accent); border-radius: .6rem; font-size: .78rem;
+}
+html[data-book-layout="edisi-data"] .reading-body .hero-actions a:first-child { color: var(--book-custom-accent-text); }
+html[data-book-layout="edisi-data"] .chapter-title {
+  border: 0; margin-bottom: 1.3rem; padding: 1.2rem 1.35rem;
+  border-radius: 1rem; background: var(--data-soft);
+}
+html[data-book-layout="edisi-data"] :is(.chapter-title,.report-cover)::after { content: none; }
+html[data-book-layout="edisi-data"] .chapter-title h1 { max-width: 23ch; line-height: 1; letter-spacing: -.055em; font-weight: 790; }
+html[data-book-layout="edisi-data"] .chapter-title p { color: var(--book-custom-accent); }
+html[data-book-layout="edisi-data"] .report-copy .book-text {
+  columns: 1; max-width: 73ch; border-top: 1px solid var(--data-line);
+  padding-top: .7rem; margin-bottom: 1.35rem;
+}
+html[data-book-layout="edisi-data"] .chapter-spread .report-copy .book-text { margin-inline: auto; }
+html[data-book-layout="edisi-data"] .report-copy .book-text h2 { border: 0; padding-top: 0; }
+html[data-book-layout="edisi-data"] .report-copy .book-text p::first-letter { float: none; color: inherit; font: inherit; padding: 0; }
+html[data-book-layout="edisi-data"] .province-spread .report-cover {
+  border-radius: 1rem; background: var(--data-soft) !important;
+}
+html[data-book-layout="edisi-data"] :is(.report-cover h1,.report-cover .report-count,.report-cover .report-count strong,.report-score > span:first-child) { color: var(--book-custom-ink); }
+html[data-book-layout="edisi-data"] :is(.report-cover .report-kicker,.report-score strong) { color: var(--book-custom-accent); }
+html[data-book-layout="edisi-data"] .profile-data-lead .book-card {
+  margin: .7rem 0 1rem; border: 1px solid var(--data-line); border-radius: 1rem;
+}
+html[data-book-layout="edisi-data"] .profile-data-lead .risk-chart {
+  display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: .45rem 1rem;
+}
+html[data-book-layout="edisi-data"] .profile-data-lead .chart-row {
+  grid-template-columns: minmax(0,1fr) auto; grid-template-rows: auto auto; gap: .25rem;
+}
+html[data-book-layout="edisi-data"] .profile-data-lead .chart-row meter { grid-column: 1/-1; grid-row: 2; }
+html[data-book-layout="edisi-data"] .profile-data-lead .chart-row strong { grid-column: 2; grid-row: 1; }
+html[data-book-layout="edisi-data"] .profile-data-lead .chart-row button { justify-self: start; padding: .22rem .42rem; }
+html[data-book-layout="edisi-data"] .report-spread .book-card { border-color: var(--data-line); }
+html[data-book-layout="edisi-data"] .introduction-opener { display: block; }
+html[data-book-layout="edisi-data"] .introduction-opener h1 {
+  writing-mode: horizontal-tb; transform: none; display: block; padding: .55rem 0 .85rem;
+  color: var(--book-custom-ink); background: transparent !important; letter-spacing: -.06em;
+  font-size: calc(clamp(2rem,5vw,4.5rem) * var(--book-custom-title-scale));
+}
+html[data-book-layout="edisi-data"] .introduction-opener .book-photo img { border-radius: 1rem; }
+html[data-book-layout="edisi-data"] .print-cover { background: var(--book-custom-paper) !important; color: var(--book-custom-ink); }
+html[data-book-layout="edisi-data"] .print-cover::after { content: none; }
+html[data-book-layout="edisi-data"] .print-cover .print-year { display: none; }
+html[data-book-layout="edisi-data"] .print-cover p:last-child { color: var(--book-custom-ink); }
+html[data-book-layout="edisi-data"] .cover-data-stat {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: .35rem 1rem; order: 1;
+  background: var(--book-custom-accent); color: var(--book-custom-accent-text);
+  padding: .5rem .85rem; margin: .3rem 0 .85rem; border-radius: .6rem;
+}
+.cover-data-stat strong { font-size: 3.5rem; line-height: 1.05; letter-spacing: -.07em; }
+@media screen and (max-width: 525px) {
+  html[data-book-layout="edisi-data"] .data-lead { grid-template-columns: 1fr; }
+  .data-lead-context { grid-template-columns: repeat(3,minmax(0,1fr)); }
+  html[data-book-layout="edisi-data"] .chapter-spread .book-hero { min-height: 0; padding: 1rem; }
+  html[data-book-layout="edisi-data"] .chapter-spread .book-hero::after { position: static; order: 5; height: 35vw; margin-top: .8rem; border-radius: .5rem; }
+}
+@media print {
+  html[data-book-layout="edisi-data"] .print-chapter .report-spread { padding: 0; }
+  html[data-book-layout="edisi-data"] .print-chapter :is(.report-cover,.chapter-title) { padding: 3mm 4mm; }
+  html[data-book-layout="edisi-data"] .profile-data-lead .book-card { margin: 2.5mm 0; padding: 2mm 3mm; }
+  html[data-book-layout="edisi-data"] .print-chapter .report-copy .book-text { max-width: 146mm; }
+  html[data-book-layout="edisi-data"] .print-chapter .introduction-opener h1 { font-size: calc(31pt * var(--book-custom-title-scale)); }
+  html[data-book-layout="edisi-data"] #printBook .print-cover img { height: 86mm; }
+}
+html[data-book-layout="edisi-data"] .reading-body .book-front .book-hero :is(h1,p) { color: var(--book-custom-ink); }
+html[data-book-layout="edisi-data"] body:not(.dark) .nav-items a.active {
+  background: var(--data-soft); color: var(--book-custom-accent); box-shadow: inset 3px 0 var(--book-custom-accent);
+}
+html[data-book-layout="edisi-data"] .export-link {
+  background: var(--data-soft); color: var(--book-custom-accent);
+}
+
+
+/* Renduk reference, PDF page 17: a dedicated photographic chapter opening. */
+.renduk-chapter-number { display: none; }
+html:is([data-book-layout="edisi-data"],[data-book-layout="jurnal"])
+  .introduction-spread .introduction-opener h1 { color: var(--book-custom-ink); }
+html[data-book-layout="renduk"] .introduction-opener:has(.book-photo) {
+  display: grid; position: relative; isolation: isolate; overflow: hidden;
+  place-items: center; grid-template: 1fr / 1fr;
+  aspect-ratio: 3 / 4; margin-bottom: 1.8rem; background: #123744;
+}
+html[data-book-layout="renduk"] .introduction-opener:has(.book-photo) .book-photo {
+  position: absolute; inset: 0; z-index: -2; width: 100%; margin: 0;
+}
+html[data-book-layout="renduk"] .introduction-opener:has(.book-photo) .book-photo img {
+  display: block; width: 100%; height: 100%; max-height: none; object-fit: cover; border-radius: 0;
+}
+html[data-book-layout="renduk"] .introduction-opener:has(.book-photo) .book-photo figcaption {
+  position: absolute; inset: auto .75rem .8rem; z-index: 2; color: white;
+  width: fit-content; padding: .18rem .35rem; background: #092230e8;
+}
+html[data-book-layout="renduk"] .introduction-opener:has(.book-photo)::before {
+  content: ""; position: absolute; inset: 0; z-index: -1;
+  background: linear-gradient(180deg,#09223035 0%,#133343a8 32%,
+    color-mix(in srgb,var(--book-custom-accent) 85%,transparent) 65%,var(--book-custom-accent) 100%);
+  pointer-events: none;
+}
+html[data-book-layout="renduk"] .introduction-opener:has(.book-photo)::after {
+  content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none;
+  background-image: conic-gradient(transparent 0 25%,#cbf7f137 0 50%,transparent 0 75%,#cbf7f137 0);
+  background-size: 1.75rem 1.75rem;
+  mask-image: linear-gradient(90deg,#000,transparent 15% 85%,#000);
+}
+html[data-book-layout="renduk"] .introduction-opener:has(.book-photo) h1 {
+  writing-mode: horizontal-tb; transform: none;
+  display: block; background: transparent; color: #fff;
+  padding: 1rem; text-align: center; text-transform: uppercase;
+  font-size: calc(clamp(1.45rem,4.1vw,3.6rem) * var(--book-custom-title-scale));
+  font-weight: 800; letter-spacing: .015em;
+}
+html[data-book-layout="renduk"] .introduction-opener:has(.book-photo) .renduk-chapter-number {
+  display: block; position: absolute; text-align: center;
+  bottom: 4%; left: 0; right: 0; color: #a9ebe76b;
+  font: 850 clamp(5rem,28vw,16rem)/.83 'Segoe UI',Arial,sans-serif; letter-spacing: -.1em; pointer-events: none;
+}
+@page renduk-pembuka {
+  size: A4;
+  margin: 0;
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @bottom-right { content: none; }
+}
+@media print {
+  html[data-book-layout="renduk"] #cetak-pendahuluan:has(.introduction-opener .book-photo) > .print-section-marker {
+    display: none;
+  }
+  html[data-book-layout="renduk"] #cetak-pendahuluan:has(.introduction-opener .book-photo) .report-spread {
+    padding: 0;
+  }
+  html[data-book-layout="renduk"] .print-chapter .introduction-opener:has(.book-photo) {
+    page: renduk-pembuka; break-after: page; aspect-ratio: auto; height: calc(var(--book-page-height,297mm) - .4mm); width: 100%; margin: 0;
+  }
+  html[data-book-layout="renduk"] .print-chapter .introduction-opener:has(.book-photo) h1 { font-size: 32pt; }
+  html[data-book-layout="renduk"] .print-chapter .introduction-opener:has(.book-photo) .renduk-chapter-number { font-size: 155pt; }
+  html[data-book-layout="renduk"] .print-chapter .introduction-opener:has(.book-photo) + .report-copy {
+    padding-top: 1mm;
+  }
+}
+
+/* Credits keep the original folio in IRBI; presets have their own compositions. */
+.editorial-roster { display: none; }
+html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) .editorial-sheet {
+  display: block; background: var(--book-custom-paper); color: var(--book-custom-ink);
+}
+html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) .editorial-sheet::before {
+  height: .35rem;
+}
+html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) .editorial-content h1 {
+  border: 0; padding: 0; margin-bottom: 1.55rem; color: var(--book-custom-ink);
+}
+html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) .editorial-content h1 span {
+  color: var(--book-custom-accent);
+}
+html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) .editorial-columns {
+  grid-template-columns: minmax(0,.86fr) minmax(0,1.35fr);
+  font-family: var(--book-custom-font); gap: 1.3rem;
+}
+html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) :is(.editorial-authors-start,.editorial-authors) { display: none; }
+html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) .editorial-roster { display: block; min-width: 0; }
+html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) .editorial-roster h2 {
+  font: 750 1.04rem/1.2 'Segoe UI',Arial,sans-serif; margin: 0 0 .65rem; color: var(--book-custom-accent);
+}
+.editorial-roster ol { columns: 2 8.35rem; column-gap: 1.2rem; }
+.editorial-roster li { break-inside: avoid; overflow-wrap: anywhere; }
+html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) .editorial-roles h2 {
+  display: block; font-size: .83rem; text-transform: none; letter-spacing: .025em;
+}
+html[data-book-layout="renduk"] .editorial-content {
+  border-top: 3px solid var(--book-custom-accent);
+  background: linear-gradient(114deg,var(--renduk-tint) 0 44%,transparent 44%) no-repeat;
+  background-size: 100% 8.4rem;
+}
+html[data-book-layout="renduk"] .editorial-roster {
+  border-top: 3px solid var(--book-custom-accent); background: var(--renduk-tint); padding: .7rem;
+}
+html[data-book-layout="renduk"] .editorial-roles section { padding-bottom: .4rem; border-bottom: 1px solid var(--renduk-tint); }
+html[data-book-layout="jurnal"] .editorial-sheet::before {
+  height: 2px; background: var(--book-custom-ink);
+}
+html[data-book-layout="jurnal"] .editorial-content { padding-inline: .1rem; }
+html[data-book-layout="jurnal"] .editorial-content h1 span { color: var(--book-custom-ink); }
+html[data-book-layout="jurnal"] .editorial-roles section { padding-top: .55rem; border-top: 1px solid var(--journal-rule); }
+html[data-book-layout="jurnal"] .reading-body .editorial-roles h2 {
+  background: transparent; padding-inline: 0; color: var(--book-custom-accent);
+}
+html[data-book-layout="jurnal"] .editorial-roster { border-top: 1px solid var(--journal-rule); padding-top: .55rem; }
+html[data-book-layout="edisi-data"] .editorial-sheet::before { border-radius: .9rem .9rem 0 0; }
+html[data-book-layout="edisi-data"] .editorial-content h1 { margin: 0 0 1.15rem; }
+html[data-book-layout="edisi-data"] .editorial-roles section,
+html[data-book-layout="edisi-data"] .editorial-roster {
+  padding: .65rem; background: var(--data-soft); border-radius: .65rem;
+}
+html[data-book-layout="edisi-data"] .reading-body .editorial-roles h2 {
+  background: transparent; color: var(--book-custom-accent); padding-inline: 0;
+}
+@media screen and (max-width: 620px) {
+  html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) .editorial-columns {
+    display: grid; grid-template-columns: 1fr;
+  }
+  html[data-book-layout="jurnal"] .editorial-content { padding-inline: .6rem; }
+}
+@media print {
+  html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) .print-chapter .editorial-sheet { break-inside: auto; }
+  html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) .print-chapter .editorial-content { padding-block: 6mm; }
+  html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) .print-chapter .editorial-columns { gap: 5mm; }
+  html:is([data-book-layout="renduk"],[data-book-layout="jurnal"],[data-book-layout="edisi-data"]) .print-chapter .editorial-roster ol {
+    columns: 2 34mm; column-gap: 3mm;
+  }
+}
+
+html[data-book-columns] .report-spread .report-copy .book-text {
+  column-count: var(--book-custom-columns);
+  column-width: 12rem;
+}
+html:is([data-book-columns="2"],[data-book-columns="3"]) .report-spread .report-copy .book-text {
+  max-width: none;
+}
+@media print {
+  html[data-book-columns] .report-spread .report-copy .book-text { column-width: auto; }
+}
+
+html:not([data-book-layout="renduk"]) .introduction-opener { display: block; }
+html:not([data-book-layout="renduk"]) .introduction-opener > h1 { display: none; }
+html[data-book-layout="renduk"] .introduction-title { display: none; }
+
+.chapter-title h1 .chapter-title-accent { color: var(--book-custom-accent, #145968); }
+
+/* Chapter headings share the editorial accent rule and preset title shape. */
+html .reading-body .chapter-title {
+  border-top: .35rem solid var(--book-custom-accent, #145968);
+}
+html .reading-body .editorial-sheet { display: block; }
+html .reading-body .editorial-sheet::before { display: none; }
+html .reading-body .editorial-content { border-top: 0; background: none; }
+html .reading-body .editorial-title h1 {
+  margin: 0; padding: 0; border: 0;
+}
+html .reading-body .editorial-title h1 .chapter-title-accent {
+  color: var(--book-custom-accent, #145968);
+}
+
+html .reading-body .report-copy .book-text p.book-greeting::first-letter {
+  float: none; font: inherit; color: inherit; padding: 0; margin: 0;
+}
+.book-greeting { break-inside: avoid; }
+
+/* Publication pages omit running headers and footers in web and print. */
+html body .report-masthead,
+html body .report-credit,
+html body .main-footer { display: none; }
+
+html .book-directory > div { columns: 2 19rem; column-gap: 2rem; }
+html :is(.book-directory,.print-toc) .toc-source-note {
+  column-span: all; margin: 0 0 1.4rem; font-size: .8em; color: var(--book-custom-ink, #294c5b);
+}
+html :is(.book-directory,.print-toc) .toc-book-group {
+  margin: 0 0 1.4rem; padding: 0; break-inside: auto;
+}
+html :is(.book-directory,.print-toc) .toc-book-group h2 {
+  display: flex; justify-content: space-between; align-items: baseline; gap: .7em;
+  margin: 0 0 .6em; padding: .45em 0;
+  border-bottom: 2px solid var(--book-custom-accent, #145968);
+  color: var(--book-custom-accent, #145968); font-size: 1rem; break-after: avoid;
+}
+html :is(.book-directory,.print-toc) .toc-book-group ul { margin: 0; padding: 0; list-style: none; }
+html :is(.book-directory,.print-toc) .toc-book-group li { margin: 0; padding: 0; break-inside: avoid; }
+html :is(.book-directory,.print-toc) .toc-book-group a {
+  display: flex; align-items: baseline; gap: .4em; padding: .28em 0;
+  color: var(--book-custom-ink, #102923); text-decoration: none; font-size: .9rem; line-height: 1.35;
+}
+.toc-label { max-width: 84%; }
+.toc-leader { flex: 1; min-width: .65em; border-bottom: 1px dotted currentColor; opacity: .35; }
+.toc-page, .toc-group-pages { flex-shrink: 0; font-variant-numeric: tabular-nums; white-space: nowrap; font-weight: 700; }
+.toc-group-pages { font-size: .75em; }
+html[data-book-layout="edisi-data"] :is(.book-directory,.print-toc) .toc-book-group h2 {
+  padding: .6em .7em; background: var(--data-soft); border-radius: .55rem; border: 0;
+}
+html[data-book-layout="renduk"] :is(.book-directory,.print-toc) .toc-book-group h2 {
+  padding-left: .7em; border-left: .3rem solid var(--book-custom-accent); background: var(--renduk-tint);
+}
+@media print {
+  html .print-toc > div { columns: 2; column-gap: 7mm; }
+  html .print-toc .toc-book-group a { font-size: 8.5pt; padding: .9mm 0; }
+  html .print-toc .toc-book-group h2 { font-size: 10pt; }
+}
+
+html .report-copy .book-text .method-equation {
+  column-span: all; background: transparent; border: 0; padding: .65rem 0; margin: 1rem 0;
+  break-inside: avoid;
+}
+html .method-equation .math-formula {
+  display: flex; align-items: center; justify-content: center; gap: .35em;
+  font: italic 400 clamp(.75rem, 1.65vw, 1.35rem)/1.3 Georgia, serif;
+  white-space: nowrap;
+}
+@media print {
+  html .print-chapter .method-equation .math-formula { font-size: 11pt; }
+}
+
+html .reading-body .province-title {
+  display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: center; gap: 1rem;
+}
+html .reading-body .province-title .report-score { grid-column: 2; grid-row: auto; margin: 0; }
+html .reading-body .province-title .report-count,
+html .reading-body .province-title .report-count strong,
+html .reading-body .province-title .report-score > span:first-child {
+  color: var(--book-custom-ink, #153b43);
+}
+html .reading-body .province-title .report-score strong {
+  color: var(--book-custom-accent, #145968); font-size: clamp(2rem,4vw,3.6rem);
+}
+html .reading-body .province-title .report-count {
+  font-size: .85rem; font-weight: 400; letter-spacing: normal; margin: .5rem 0 0;
+}
+@media screen and (max-width: 620px) {
+  html .reading-body .province-title { grid-template-columns: 1fr; }
+  html .reading-body .province-title .report-score { grid-column: 1; }
+}
+
+html .reading-body .province-title .report-score .profile-risk-label { font-weight: 750; }
+
+html :is(.book-directory,.print-toc) .toc-independent a { font-weight: 700; padding-block: .55em; }
+html :is(.book-directory,.print-toc) .toc-independent { break-inside: avoid; }

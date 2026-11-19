@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="id" data-photo-editor>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Desain Layout — Buku Digital IRBI</title>
+<link rel="stylesheet" href="assets/style-editor.css">
+</head>
+<body>
+<header class="studio-header"><a href="index.html">← Buku Digital IRBI 2025</a><h1>Desain Layout</h1>
+<p>Atur tampilan seluruh buku dan periksa hasilnya sebelum menyimpan.</p><a href="index.html?pratinjau=1" target="_blank" rel="noopener">Pratinjau Buku →</a></header>
+<main class="studio">
+<div class="studio-controls"><form id="styleForm">
+  <fieldset><legend>Preset dan tata letak</legend>
+    <div class="studio-actions"><button id="styleEdisiData" type="button">Coba Edisi Data</button><button id="styleJurnal" type="button">Coba Jurnal Visual</button><button id="styleRenduk" type="button">Coba preset Renduk Sumatera</button></div>
+    <label>Gaya pembuka bab <select name="layout"><option value="irbi">IRBI</option><option value="renduk">Renduk Sumatera</option><option value="jurnal">Jurnal Visual</option><option value="edisi-data">Edisi Data</option></select></label>
+  </fieldset>
+  <fieldset><legend>Warna</legend>
+    <label>Aksen utama <input name="accent" type="color" value="#145968"></label>
+    <label>Latar halaman <input name="paper" type="color" value="#fbfcfa"></label>
+    <label>Warna teks <input name="ink" type="color" value="#102923"></label>
+  </fieldset>
+  <fieldset><legend>Tipografi dan tabel</legend>
+    <label>Font isi <select name="font"><option value="georgia">Georgia</option><option value="segoe">Segoe UI</option><option value="times">Times New Roman</option></select></label>
+    <label>Ukuran judul (%) <input name="title" type="number" min="80" max="120" required></label>
+    <label>Ukuran teks (%) <input name="body" type="number" min="90" max="115" required></label>
+    <label>Jumlah kolom teks <select name="columns"><option value="0">Otomatis sesuai preset</option><option value="1">1 kolom</option><option value="2">2 kolom</option><option value="3">3 kolom</option></select></label>
+    <p class="studio-note">Pilihan kolom disimpan untuk preset aktif. Di layar sempit, jumlah kolom menyesuaikan lebar halaman.</p>
+    <label>Jarak kolom (mm) <input name="gap" type="number" min="3" max="12" required></label>
+    <label>Jarak baris tabel <select name="table"><option value="normal">Normal</option><option value="compact">Rapat</option></select></label>
+  </fieldset>
+  <fieldset><legend>Ukuran kertas</legend>
+    <label>Peta dalam buku <select name="mapSpread"><option value="single">Satu halaman</option><option value="double">Dua halaman menyambung</option></select></label>
+    <label>Ukuran kertas <select name="paperSize"><option value="a4">A4 (21 × 29,7 cm)</option><option value="custom">Custom</option></select></label>
+    <div id="customPaperSize" hidden>
+      <label>Lebar (cm) <input name="paperWidth" type="number" min="10" max="100" step="0.01" value="21" required></label>
+      <label>Tinggi (cm) <input name="paperHeight" type="number" min="10" max="100" step="0.01" value="21" required></label>
+      <p class="studio-note">Ukuran buku IRBI asli 21 × 21 cm. Dua halaman menyambung menghasilkan bentangan 42 × 21 cm.</p>
+    </div>
+  </fieldset>
+  <fieldset><legend>Margin cetak</legend>
+    <label>Kiri dan kanan (mm) <input name="marginX" type="number" min="10" max="25" required></label>
+    <label>Atas (mm) <input name="marginTop" type="number" min="10" max="25" required></label>
+    <label>Bawah (mm) <input name="marginBottom" type="number" min="10" max="25" required></label>
+  </fieldset>
+  <div class="studio-actions"><button type="submit">Simpan gaya</button><button id="styleReset" type="button">Kembalikan bawaan</button></div>
+  <p id="styleStatus" role="status"></p>
+  <p class="studio-note">Gaya tersimpan pada peramban ini dan diterapkan saat buku dibuka atau diekspor ulang.</p>
+  <div class="studio-actions"><button id="styleDownload" type="button">Unduh gaya JSON</button><label class="file-label">Muat gaya JSON<input id="styleUpload" type="file" accept=".json,application/json"></label></div>
+</form>
+<form id="photoForm">
+  <fieldset><legend>Foto dan penempatan</legend>
+    <label>Foto <select id="photoChoice"></select></label>
+    <label id="photoSpreadLabel">Bentangan foto <select id="photoSpread"><option value="single">Satu halaman</option><option value="double">Dua halaman menyambung</option></select></label>
+    <label>Ganti foto <input id="photoFile" type="file" accept="image/jpeg,image/png,image/webp"></label>
+    <label id="photoCaptionLabel">Keterangan foto <input id="photoCaption" type="text" maxlength="240" placeholder="Judul atau kredit foto"></label>
+    <label id="photoPlaceLabel">Posisi dalam bab <select id="photoPosition"><option value="original">Bawaan</option><option value="after-title">Setelah judul</option><option value="end">Sebelum penutup bab</option></select></label>
+    <label>Lebar foto (%) <input id="photoWidth" type="number" min="40" max="100" value="100" required></label>
+    <label>Perataan <select id="photoAlign"><option value="center">Tengah</option><option value="left">Kiri</option><option value="right">Kanan</option></select></label>
+    <label>Fokus potongan <select id="photoCrop"><option value="center">Tengah</option><option value="top">Atas</option><option value="bottom">Bawah</option><option value="left">Kiri</option><option value="right">Kanan</option></select></label>
+  </fieldset>
+  <div class="studio-actions"><button type="submit">Simpan foto</button><button type="button" id="photoReset">Kembalikan foto bawaan</button></div>
+  <p id="photoStatus" role="status"></p>
+  <p class="studio-note">JPG, PNG, atau WebP hingga 6 MB. Lebar dan perataan sampul berlaku pada cetak. Di web, foto sampul mengisi bidang sampul.</p>
+</form>
+</div>
+<section class="studio-preview" aria-label="Pratinjau buku">
+  <div class="preview-bar">
+    <label>Pratinjau <select id="previewMode"><option value="web">Halaman web</option><option value="print">Tata letak cetak</option></select></label>
+    <label>Tampilan <select id="previewPages"><option value="1">1 halaman</option><option value="2" selected>2 halaman berdampingan</option></select></label>
+    <label>Halaman <select id="previewPage"><option value="beranda">Sampul</option><option selected value="pendahuluan">Pendahuluan</option><option value="tim-editorial">Tim Redaksi</option><option value="provinsi-aceh">Profil Aceh</option><option value="tabel-provinsi">Tabel provinsi</option><option value="transisi-reformulasi">Transisi Reformulasi IRBI</option><option value="metodologi-reformulasi">Metodologi Reformulasi</option></select></label>
+  </div>
+  <iframe id="stylePreview" title="Pratinjau gaya Buku Digital IRBI"></iframe>
+</section>
+</main>
+<script src="assets/irbi-data.js?v=reformulation-complete"></script><script src="assets/book-photos.js?v=back-cover"></script>
+<script src="assets/book-style.js?v=preview-export"></script><script src="assets/style-editor.js?v=preview-export"></script><script src="assets/photo-editor.js?v=back-cover"></script>
+<script src="assets/pdf-lib.min.js"></script><script src="assets/book-spreads.js?v=preview-pages"></script>
+</body>
+</html>
+
+
+

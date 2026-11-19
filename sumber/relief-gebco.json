@@ -1,0 +1,58 @@
+{
+  "sumber": "GEBCO WMS GEBCO_LATEST (GEBCO_2026)",
+  "diakses": "2026-11-19",
+  "cakupan": {
+    "west": 82,
+    "east": 151,
+    "south": -23,
+    "north": 18
+  },
+  "ukuran": [
+    8192,
+    4868
+  ],
+  "atribusi": "GEBCO Bathymetric Compilation Group 2026 (2026). The GEBCO_2026 Grid.",
+  "doi": "https://doi.org/10.5285/4f68d5c7-45eb-f999-e063-7086abc036fa",
+  "tiles": [
+    {
+      "file": "work\\gebco\\tile-0-0.png",
+      "bbox": [
+        82.0,
+        -2.5,
+        116.5,
+        18.0
+      ],
+      "url": "https://wms.gebco.net/mapserv?service=WMS&request=GetMap&version=1.3.0&layers=GEBCO_LATEST&styles=&crs=CRS%3A84&bbox=82.0%2C-2.5%2C116.5%2C18.0&width=4096&height=2434&format=image%2Fjpeg&transparent=FALSE"
+    },
+    {
+      "file": "work\\gebco\\tile-1-0.png",
+      "bbox": [
+        116.5,
+        -2.5,
+        151.0,
+        18.0
+      ],
+      "url": "https://wms.gebco.net/mapserv?service=WMS&request=GetMap&version=1.3.0&layers=GEBCO_LATEST&styles=&crs=CRS%3A84&bbox=116.5%2C-2.5%2C151.0%2C18.0&width=4096&height=2434&format=image%2Fjpeg&transparent=FALSE"
+    },
+    {
+      "file": "work\\gebco\\tile-0-1.png",
+      "bbox": [
+        82.0,
+        -23.0,
+        116.5,
+        -2.5
+      ],
+      "url": "https://wms.gebco.net/mapserv?service=WMS&request=GetMap&version=1.3.0&layers=GEBCO_LATEST&styles=&crs=CRS%3A84&bbox=82.0%2C-23.0%2C116.5%2C-2.5&width=4096&height=2434&format=image%2Fjpeg&transparent=FALSE"
+    },
+    {
+      "file": "work\\gebco\\tile-1-1.png",
+      "bbox": [
+        116.5,
+        -23.0,
+        151.0,
+        -2.5
+      ],
+      "url": "https://wms.gebco.net/mapserv?service=WMS&request=GetMap&version=1.3.0&layers=GEBCO_LATEST&styles=&crs=CRS%3A84&bbox=116.5%2C-23.0%2C151.0%2C-2.5&width=4096&height=2434&format=image%2Fjpeg&transparent=FALSE"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+.spread-pair {
+  display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 0;
+  width: 100%; margin-block: 1.2rem; background: white;
+}
+.spread-page {
+  position: relative; overflow: hidden; min-width: 0;
+  aspect-ratio: var(--book-page-ratio,.7070707); background: white;
+}
+.spread-wide {
+  width: 200%; height: 100%; box-sizing: border-box; padding: 7mm;
+  background: var(--book-custom-paper,white);
+}
+.spread-right .spread-wide { transform: translateX(-50%); }
+.spread-wide .atlas-card { display: flex; flex-direction: column; height: 100%; margin: 0; padding: 0; border: 0; }
+.spread-wide .atlas-heading > div:first-child { max-width: 47%; }
+.spread-wide .atlas-heading h2 { font-size: 13pt; }
+.spread-wide .atlas-frame { flex: 1; min-height: 0; margin-bottom: 6mm; }
+.spread-wide .atlas-plot { height: 100%; }
+.spread-wide .risk-map { height: 100%; margin: 0; border-radius: 0; }
+.spread-wide .map-reading,.spread-wide .map-actions { display: none; }
+.spread-wide .book-photo {
+  display: flex; flex-direction: column; justify-content: center;
+  width: 100%; height: 100%; margin: 0;
+}
+.spread-wide .book-photo img { width: 100%; height: 100%; min-height: 0; max-height: none; object-fit: contain; border-radius: 0; }
+.spread-wide .book-photo figcaption { flex-shrink: 0; width: 45%; font-size: 9pt; }
+@page irbi-spread {
+  margin: 0;
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @bottom-right { content: none; }
+}
+@media print {
+  .spread-pair { display: contents; }
+  .spread-page {
+    page: irbi-spread; width: var(--book-page-width,210mm);
+    height: calc(var(--book-page-height,297mm) - .1mm);
+    aspect-ratio: auto; break-inside: avoid; break-after: page;
+  }
+  .spread-left { break-before: left; }
+  .spread-right { break-before: page; }
+}
+
+.spread-marker {
+  position: absolute; bottom: 0; left: 0; width: 1mm; height: 1mm;
+  font-size: 1px; color: white; text-decoration: none; pointer-events: none;
+}
+.spread-wide .atlas-frame { position: relative; }
+.spread-wide .atlas-plot { position: absolute; inset: 0; height: auto; }
+.spread-wide .risk-map { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: fill; }
+.spread-wide .book-photo img { object-fit: cover; }
+.spread-pdf-tools { display: grid; gap: .3rem; font-size: .75rem; max-width: 30rem; }
+.spread-pdf-tools label { cursor: pointer; }
+.spread-pdf-tools input { max-width: 13rem; }
+
+.spread-page { contain: layout paint; }
+.spread-wide { position: absolute; top: 0; left: 0; }
+.spread-right .spread-wide { transform: none; left: -100%; }
+
+@media screen {
+  .print-edition:has(#bookPagePreview) > #printBook { display:none!important; }
+  .print-edition > #bookPagePreview { display:block!important; }
+  html[data-preview-pages="1"] .spread-pair { grid-template-columns: minmax(0,1fr); gap: 1rem; background: transparent; }
+  html[data-preview-pages="1"] .spread-page { width: min(100%,var(--book-page-width,210mm)); margin-inline: auto; }
+  html[data-preview-pages="2"] .spread-pair { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 0; }
+}

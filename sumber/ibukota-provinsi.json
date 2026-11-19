@@ -1,0 +1,268 @@
+{
+  "11": {
+    "nama": "Banda Aceh",
+    "koordinat": [
+      95.3238,
+      5.5483
+    ]
+  },
+  "12": {
+    "nama": "Medan",
+    "koordinat": [
+      98.6785,
+      3.5952
+    ]
+  },
+  "13": {
+    "nama": "Padang",
+    "koordinat": [
+      100.3543,
+      -0.9471
+    ]
+  },
+  "14": {
+    "nama": "Pekanbaru",
+    "koordinat": [
+      101.4478,
+      0.5071
+    ]
+  },
+  "15": {
+    "nama": "Jambi",
+    "koordinat": [
+      103.6167,
+      -1.6101
+    ]
+  },
+  "16": {
+    "nama": "Palembang",
+    "koordinat": [
+      104.7754,
+      -2.9761
+    ]
+  },
+  "17": {
+    "nama": "Bengkulu",
+    "koordinat": [
+      102.2655,
+      -3.8004
+    ]
+  },
+  "18": {
+    "nama": "Bandar Lampung",
+    "koordinat": [
+      105.258,
+      -5.4294
+    ]
+  },
+  "19": {
+    "nama": "Pangkalpinang",
+    "koordinat": [
+      106.1134,
+      -2.1291
+    ]
+  },
+  "21": {
+    "nama": "Tanjungpinang",
+    "koordinat": [
+      104.4466,
+      0.9186
+    ]
+  },
+  "31": {
+    "nama": "Jakarta",
+    "koordinat": [
+      106.8272,
+      -6.1754
+    ]
+  },
+  "32": {
+    "nama": "Bandung",
+    "koordinat": [
+      107.6191,
+      -6.9175
+    ]
+  },
+  "33": {
+    "nama": "Semarang",
+    "koordinat": [
+      110.4203,
+      -6.9904
+    ]
+  },
+  "34": {
+    "nama": "Yogyakarta",
+    "koordinat": [
+      110.3695,
+      -7.7956
+    ]
+  },
+  "35": {
+    "nama": "Surabaya",
+    "koordinat": [
+      112.7521,
+      -7.2575
+    ]
+  },
+  "36": {
+    "nama": "Serang",
+    "koordinat": [
+      106.1503,
+      -6.1201
+    ]
+  },
+  "51": {
+    "nama": "Denpasar",
+    "koordinat": [
+      115.2126,
+      -8.6705
+    ]
+  },
+  "52": {
+    "nama": "Mataram",
+    "koordinat": [
+      116.117,
+      -8.5833
+    ]
+  },
+  "53": {
+    "nama": "Kupang",
+    "koordinat": [
+      123.607,
+      -10.1772
+    ]
+  },
+  "61": {
+    "nama": "Pontianak",
+    "koordinat": [
+      109.3425,
+      -0.0263
+    ]
+  },
+  "62": {
+    "nama": "Palangka Raya",
+    "koordinat": [
+      113.9213,
+      -2.2161
+    ]
+  },
+  "63": {
+    "nama": "Banjarbaru",
+    "koordinat": [
+      114.846,
+      -3.442
+    ]
+  },
+  "64": {
+    "nama": "Samarinda",
+    "koordinat": [
+      117.1537,
+      -0.5022
+    ]
+  },
+  "65": {
+    "nama": "Tanjung Selor",
+    "koordinat": [
+      117.365,
+      2.8387
+    ]
+  },
+  "71": {
+    "nama": "Manado",
+    "koordinat": [
+      124.8413,
+      1.4748
+    ]
+  },
+  "72": {
+    "nama": "Palu",
+    "koordinat": [
+      119.8707,
+      -0.9003
+    ]
+  },
+  "73": {
+    "nama": "Makassar",
+    "koordinat": [
+      119.4327,
+      -5.1477
+    ]
+  },
+  "74": {
+    "nama": "Kendari",
+    "koordinat": [
+      122.5186,
+      -3.9985
+    ]
+  },
+  "75": {
+    "nama": "Gorontalo",
+    "koordinat": [
+      123.0595,
+      0.5435
+    ]
+  },
+  "76": {
+    "nama": "Mamuju",
+    "koordinat": [
+      118.8885,
+      -2.6779
+    ]
+  },
+  "81": {
+    "nama": "Ambon",
+    "koordinat": [
+      128.1814,
+      -3.6954
+    ]
+  },
+  "82": {
+    "nama": "Sofifi",
+    "koordinat": [
+      127.5805,
+      0.7373
+    ]
+  },
+  "91": {
+    "nama": "Jayapura",
+    "koordinat": [
+      140.7181,
+      -2.5337
+    ]
+  },
+  "92": {
+    "nama": "Manokwari",
+    "koordinat": [
+      134.062,
+      -0.8615
+    ]
+  },
+  "93": {
+    "nama": "Salor, Merauke",
+    "koordinat": [
+      140.36,
+      -8.12
+    ]
+  },
+  "94": {
+    "nama": "Nabire",
+    "koordinat": [
+      135.496,
+      -3.3683
+    ]
+  },
+  "95": {
+    "nama": "Wamena",
+    "koordinat": [
+      138.949,
+      -4.0975
+    ]
+  },
+  "96": {
+    "nama": "Sorong",
+    "koordinat": [
+      131.254,
+      -0.8762
+    ]
+  }
+}

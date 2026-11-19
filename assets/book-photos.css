@@ -1,0 +1,46 @@
+.book-photo.photo-custom-size { width: var(--photo-width); margin-inline: auto; margin-block: .75rem; }
+.book-photo.photo-custom-size[data-photo-align=left] { margin-left: 0; margin-right: auto; }
+.book-photo.photo-custom-size[data-photo-align=right] { margin-left: auto; margin-right: 0; }
+.book-photo.photo-custom-size img, .print-cover img.photo-custom-size { object-position: var(--photo-crop); }
+#printBook .print-cover img.photo-custom-size { width: var(--photo-width); align-self: center; }
+#printBook .print-cover img.photo-custom-size[data-photo-align=left] { align-self: flex-start; }
+#printBook .print-cover img.photo-custom-size[data-photo-align=right] { align-self: flex-end; }
+.chapter-spread .book-hero.photo-custom-cover {
+  background-image: linear-gradient(104deg,#092e3bfa 4%,#0b4d5bdc 52%,#1676873d 98%),var(--photo-cover-image);
+  background-position: center,var(--photo-crop);
+}
+html[data-book-style] .chapter-spread .book-hero.photo-custom-cover {
+  background-image: linear-gradient(90deg,var(--book-custom-accent),color-mix(in srgb,var(--book-custom-accent) 68%,transparent)),var(--photo-cover-image);
+}
+.introduction-opener:not(:has(.book-photo)) { display:block; }
+.introduction-opener:not(:has(.book-photo)) h1 { writing-mode:horizontal-tb; transform:none; }
+
+.book-cover-artwork { margin: 0 0 1.5rem; background: #082b4a; }
+.book-cover-artwork > img { display: block; width: 100%; height: auto; max-height: none; }
+.back-cover-artwork { display:block; padding:0!important; margin:0; background:#082b4a; }
+.back-cover-artwork > img { display:block; width:100%; height:auto; max-height:none; margin:0; border:0; object-fit:contain; }
+@media print {
+  .back-cover-artwork { page:irbi-sampul-utuh; width:var(--book-page-width,210mm); height:calc(var(--book-page-height,297mm) - .1mm); break-before:page; break-inside:avoid; overflow:hidden; }
+  .back-cover-artwork > img { width:100%; height:100%; }
+}
+html body #printBook #cetak-beranda.cover-artwork {
+  display: block; padding: 0; margin: 0; min-height: 0; background: #082b4a;
+}
+html body #printBook #cetak-beranda.cover-artwork::before,
+html body #printBook #cetak-beranda.cover-artwork::after { content: none; }
+html body #printBook #cetak-beranda.cover-artwork > img {
+  display: block; width: 100%; height: auto; max-height: none; margin: 0;
+  object-fit: contain; object-position: center; border-radius: 0;
+}
+@page irbi-sampul-utuh {
+  size: A4; margin: 0;
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @bottom-right { content: none; }
+}
+@media print {
+  html body #printBook #cetak-beranda.cover-artwork {
+    page: irbi-sampul-utuh; width: var(--book-page-width,210mm); height: calc(var(--book-page-height,297mm) - .1mm); break-inside: avoid; overflow: hidden;
+  }
+  html body #printBook #cetak-beranda.cover-artwork > img { width: 100%; height: 100%; }
+}

@@ -1,0 +1,37 @@
+:root {color-scheme:light;font:15px/1.5 'Segoe UI',Arial,sans-serif;color:#173c35;background:#edf5f1}
+* {box-sizing:border-box}
+body {margin:0}
+.studio-header {padding:1.3rem clamp(1rem,4vw,3.25rem);background:#145968;color:white}
+.studio-header a {color:#d5f1eb;font-size:.84rem}
+.studio-header h1 {margin:.25rem 0;font-size:2.15rem;line-height:1.1}
+.studio-header p {margin:.3rem 0}
+.studio {display:grid;grid-template-columns:minmax(260px,320px) minmax(0,1fr);gap:1rem;padding:1rem clamp(1rem,3vw,2.5rem)}
+#styleForm,.studio-preview {background:white;border:1px solid #bad3cc;border-radius:.55rem;padding:1rem;min-width:0}
+fieldset {border:0;border-bottom:1px solid #d4e3de;margin:0 0 .9rem;padding:0 0 .6rem}
+legend {font-weight:750;color:#145968;padding:0;margin-bottom:.25rem}
+fieldset label {display:flex;justify-content:space-between;align-items:center;gap:.45rem;margin:.4rem 0;font-size:.86rem}
+input,select,button {font:inherit}
+input[type=number] {width:4.6rem}
+input,select,button,.file-label {border:1px solid #99bdb4;border-radius:.32rem;background:white;color:#153b43;padding:.26rem .42rem}
+input[type=color] {height:1.85rem;padding:.12rem}
+button,.file-label {cursor:pointer}
+button[type=submit] {background:#145968;color:white;font-weight:700;border-color:#145968}
+.studio-actions,.preview-bar {display:flex;flex-wrap:wrap;gap:.5rem}
+.file-label {position:relative}
+.file-label input {position:absolute;inset:0;width:100%;opacity:0;cursor:pointer}
+.file-label:focus-within {outline:2px solid #145968}
+#styleStatus {margin:.5rem 0;min-height:1.35rem;font-size:.83rem;font-weight:700}
+.studio-note {color:#4c6b63;font-size:.8rem;margin:.4rem 0 .65rem}
+.preview-bar {align-items:center;gap:.6rem 1rem;margin-bottom:.8rem;font-size:.86rem}
+iframe {display:block;width:100%;min-height:min(73vh,920px);border:1px solid #c9ded7;border-radius:.42rem;background:#f4f8f6}
+@media(max-width:740px) {.studio {grid-template-columns:1fr} iframe {min-height:68vh}}
+.studio-controls { min-width: 0; display: grid; gap: .8rem; align-content: start; }
+#photoForm { background: white; border: 1px solid #bad3cc; border-radius: .55rem; padding: 1rem; min-width: 0; }
+#photoForm [hidden] { display: none; }
+#photoForm select, #photoForm input[type=file] { max-width: 64%; min-width: 0; }
+#photoStatus { min-height: 1.2em; margin: .5rem 0; font-size: .83rem; font-weight: 700; }
+.studio-preview { align-self: start; }
+@media (min-width:741px) { .studio-preview { position: sticky; top: 1rem; } }
+.studio-controls fieldset { min-inline-size: 0; }
+#photoForm label select, #photoForm label input { flex-shrink: 1; }
+#photoForm input[type=text] { width: 64%; max-width: 64%; }
